@@ -1,4 +1,4 @@
-name: DOWNLOAD FILE M3U E EPG
+name: download
 
 on:
   schedule:
