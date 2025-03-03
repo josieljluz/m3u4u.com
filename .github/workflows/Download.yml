@@ -24,7 +24,7 @@ jobs:
         pip install requests
 
     - name: Executar script de download
-      run: python download.py
+      run: python Download.py
 
     - name: Atualizar timestamp nos arquivos baixados
       run: |
