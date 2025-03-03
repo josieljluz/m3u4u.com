@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout do repositório
+    - name: Checkout repositório
       uses: actions/checkout@v4
 
     - name: Configurar Python
@@ -35,18 +35,13 @@ jobs:
 
     - name: Verificar mudanças no Git
       id: git_status
-      run: |
-        if [[ -n "$(git status --porcelain)" ]]; then
-          echo "changes=true" >> $GITHUB_ENV
-        else
-          echo "changes=false" >> $GITHUB_ENV
-        fi
+      run: echo "::set-output name=changes::$(git status --porcelain)"
 
-    - name: Commit e push dos arquivos baixados (se houver mudanças)
-      if: env.changes == 'true'
+    - name: Commit e push do arquivo baixado (se houver mudanças)
+      if: steps.git_status.outputs.changes != ''
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add downloads/
         git commit -m "Atualização automática dos arquivos baixados"
-        git push https://github-actions:${{ MY_DOWNLOAD_GITHUB_TOKEN }}@github.com/josieljluz/m3u4u.com.git main
+        git push https://x-access-token:${{ secrets.MY_DOWNLOAD_GITHUB_TOKEN }}@github.com/josieljluz/m3u4u.com.git main
