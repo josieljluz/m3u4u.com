@@ -41,8 +41,7 @@ jobs:
           echo "changes=true" >> "$GITHUB_ENV"
         else
           echo "changes=false" >> "$GITHUB_ENV"
-        fi
-
+    
     - name: Commit e push do arquivo baixado (se houver mudanças)
       if: env.changes == 'true'
       run: |
@@ -50,4 +49,5 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add iMPlayer/
         git commit -m "Atualização automática dos arquivos baixados"
+        git pull --rebase origin main
         git push https://x-access-token:${{ secrets.MY_DOWNLOAD_GITHUB_TOKEN }}@github.com/josieljluz/m3u4u.com.git main
