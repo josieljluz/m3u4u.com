@@ -37,11 +37,12 @@ jobs:
     - name: Verificar mudanças no Git
       id: git_status
       run: |
-        if [[ -n "$(git status --porcelain)" ]]; then
+        if git status --porcelain | grep .; then
           echo "changes=true" >> "$GITHUB_ENV"
         else
           echo "changes=false" >> "$GITHUB_ENV"
-    
+        fi
+
     - name: Commit e push do arquivo baixado (se houver mudanças)
       if: env.changes == 'true'
       run: |
