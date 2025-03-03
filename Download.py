@@ -27,16 +27,16 @@ if __name__ == "__main__":
 
     files_to_download = {
         "m3u": [
-            "http://m3u4u.com/m3u/782dyqdrqkh1xegen4zp",
-            "http://m3u4u.com/m3u/jq2zy9epr3bwxmgwyxr5",
             "http://m3u4u.com/m3u/3wk1y24kx7uzdevxygz7",
+            "http://m3u4u.com/m3u/jq2zy9epr3bwxmgwyxr5",
+            "http://m3u4u.com/m3u/782dyqdrqkh1xegen4zp",
             "https://gitlab.com/josieljefferson12/playlists/-/raw/main/PiauiTV.m3u"
-          "https://gitlab.com/josieljefferson12/playlists/-/raw/main/PiauiTV.m3u"
+            "https://gitlab.com/josieljefferson12/playlists/-/raw/main/m3u4u_proton.me.m3u"
         ],
         "xml.gz": [
-            "http://m3u4u.com/epg/782dyqdrqkh1xegen4zp",
+            "http://m3u4u.com/epg/3wk1y24kx7uzdevxygz7",
             "http://m3u4u.com/epg/jq2zy9epr3bwxmgwyxr5",
-            "http://m3u4u.com/epg/3wk1y24kx7uzdevxygz7"
+            "http://m3u4u.com/epg/782dyqdrqkh1xegen4zp"
         ]
     }
 
