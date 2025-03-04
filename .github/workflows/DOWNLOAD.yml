@@ -1,1 +1,54 @@
 
+name: DOWN
+
+on:
+  schedule:
+    - cron: '0 0 */2 * *'  # Executa à meia-noite em dias alternados
+    - cron: '0 12 */2 * *' # Executa ao meio-dia em dias alternados
+  workflow_dispatch:  # Permite execução manual
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repositório
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.8'
+
+    - name: Instalar dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Executar script de download
+      run: python DOWNLOAD.py
+
+    - name: Atualizar timestamp nos arquivos baixados
+      run: |
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_1.m3u
+
+    - name: Confirmar arquivos baixados
+      run: ls -la iMPlayer
+
+    - name: Verificar mudanças no Git
+      id: git_status
+      run: |
+        if git status --porcelain | grep .; then
+          echo "changes=true" >> "$GITHUB_ENV"
+        else
+          echo "changes=false" >> "$GITHUB_ENV"
+
+    - name: Commit e push do arquivo baixado (se houver mudanças)
+      if: env.changes == 'true'
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add iMPlayer/
+        git commit -m "Atualização automática dos arquivos baixados"
+        git pull --rebase origin main
+        git push https://x-access-token:${{ secrets.MY_DOWNLOAD_GITHUB_TOKEN }}@github.com/josieljluz/m3u4u.com.git main
