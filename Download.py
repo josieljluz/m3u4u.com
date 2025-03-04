@@ -1,9 +1,10 @@
-
 import os
 import shutil
 import requests
 
+# Configurações globais
 HEADERS = {"User-Agent": "Mozilla/5.0"}
+OUTPUT_DIR = os.path.join(os.getcwd(), "iMPlayer")
 
 def download_file(url, save_path):
     """
@@ -14,23 +15,34 @@ def download_file(url, save_path):
         response = requests.get(url, headers=HEADERS, timeout=10)
 
         if response.status_code == 200:
+            # Garante que o diretório de destino exista
             os.makedirs(os.path.dirname(save_path), exist_ok=True)
+            
+            # Salva o conteúdo do arquivo
             with open(save_path, 'wb') as file:
                 file.write(response.content)
-            print(f"Arquivo salvo: {save_path}")
+            
+            # Verifica se o arquivo foi salvo corretamente
+            if os.path.getsize(save_path) > 0:
+                print(f"Arquivo salvo com sucesso: {save_path}")
+            else:
+                print(f"Erro: Arquivo vazio ou corrompido: {save_path}")
         else:
             print(f"Falha ao baixar {url}. Código: {response.status_code}")
-    except requests.exceptions.RequestException as e:
-        print(f"Erro ao baixar {url}: {e}")
+    except requests.exceptions.Timeout:
+        print(f"Erro: Timeout ao baixar {url}")
+    except requests.exceptions.ConnectionError:
+        print(f"Erro: Problema de conexão ao baixar {url}")
+    except Exception as e:
+        print(f"Erro inesperado ao baixar {url}: {e}")
 
 if __name__ == "__main__":
-    output_dir = os.path.join(os.getcwd(), "iMPlayer")
+    # Remove a pasta iMPlayer antes de baixar os arquivos
+    print("Limpando diretório anterior...")
+    shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Remove a pasta iMPlayer antes de baixar os arquivos para garantir que tudo seja baixado novamente
-    shutil.rmtree(output_dir, ignore_errors=True)
-
-    os.makedirs(output_dir, exist_ok=True)
-
+    # Lista de arquivos para download
     files_to_download = {
         "m3u": [
             "http://m3u4u.com/m3u/3wk1y24kx7uzdevxygz7",
@@ -46,7 +58,11 @@ if __name__ == "__main__":
         ]
     }
 
+    # Processa o download dos arquivos
+    print("Iniciando download dos arquivos...")
     for ext, urls in files_to_download.items():
         for index, url in enumerate(urls, start=1):
-            save_path = os.path.join(output_dir, f"iMPlayer_{index}.{ext}")
+            save_path = os.path.join(OUTPUT_DIR, f"iMPlayer_{index}.{ext}")
             download_file(url, save_path)
+
+    print("Download concluído.")
