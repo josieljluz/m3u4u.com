@@ -38,6 +38,13 @@ jobs:
     - name: Atualizar timestamp nos arquivos baixados
       run: |
         echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_1.m3u
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_1.xml.gz
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_2.m3u
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_2.xml.gz
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_3.m3u
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_3.xml.gz
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_4.m3u
+        echo "# Atualizado em $(date)" >> iMPlayer/iMPlayer_5.m3u
 
     - name: Confirmar arquivos baixados
       run: ls -la iMPlayer
