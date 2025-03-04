@@ -2,8 +2,8 @@ name: DownloaD
 
 on:
   schedule:
-    - cron: '0 0 */2 * *'  # Executa à meia-noite em dias alternados
-    - cron: '0 12 */2 * *' # Executa ao meio-dia em dias alternados
+    - cron: '0 20 */2 * *'  # Executa à meia-noite em dias alternados
+    - cron: '0 7 */2 * *' # Executa ao meio-dia em dias alternados
   workflow_dispatch:  # Permite execução manual
 
 jobs:
