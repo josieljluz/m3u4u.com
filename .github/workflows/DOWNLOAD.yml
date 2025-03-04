@@ -1,5 +1,5 @@
 
-name: DOWN
+name: DOWNLOAD
 
 on:
   schedule:
