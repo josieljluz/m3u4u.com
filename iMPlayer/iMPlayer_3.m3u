@@ -1937,7 +1937,7 @@ http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=275406&extension
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/77341.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork(src01).pt" tvg-name="Cartoon Network" tvg-logo="http://novaera4.club/logo/CARTOONNETWORK.png" group-title="PORTUGAL",Cartoon Network
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/117.m3u8
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK HD PT" tvg-logo="http://digital110.xyz/Picons/cartoonnetwork_2.png" group-title="PORTUGAL",CARTOON NETWORK HD PT
+#EXTINF:-1 tvg-id="CartoonNetwork(src01).pt" tvg-name="CARTOON NETWORK HD PT" tvg-logo="http://digital110.xyz/Picons/cartoonnetwork_2.png" group-title="PORTUGAL",CARTOON NETWORK HD PT
 http://ewa21.xyz:80/aVgZEhWpvjCUQZ66QgCdJAhc9uXRWNdH/Lg1GVTa8ZB/166421
 #EXTINF:-1 tvg-id="CartoonNetwork(src01).pt" tvg-name="Cartoon Network PT" tvg-logo="http://tugapt.com/picons/cartoonnetworkpt.png" group-title="PORTUGAL",Cartoon Network PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/2761
@@ -2123,7 +2123,7 @@ http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1510.m3u8
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/65444.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior(src01).pt" tvg-name="Disney Junior" tvg-logo="http://novaera4.club/logo/DISNEYJUNIOR.png" group-title="PORTUGAL",Disney Junior
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/104.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR HD PT" tvg-logo="http://digital110.xyz/Picons/disneyjunior_2.png" group-title="PORTUGAL",DISNEY JUNIOR HD PT
+#EXTINF:-1 tvg-id="DisneyJunior(src01).pt" tvg-name="DISNEY JUNIOR HD PT" tvg-logo="http://digital110.xyz/Picons/disneyjunior_2.png" group-title="PORTUGAL",DISNEY JUNIOR HD PT
 http://ewa21.xyz:80/aVgZEhWpvjCUQZ66QgCdJAhc9uXRWNdH/Lg1GVTa8ZB/166412
 #EXTINF:-1 tvg-id="DisneyJunior(src01).pt" tvg-name="Disney Junior PT" tvg-logo="http://tugapt.com/picons/disneyjuniorpt.png" group-title="PORTUGAL",Disney Junior PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/2755
@@ -5169,4 +5169,3 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1050092&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=107411&extension=ts&play_token=8chDVifDeL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT| ZAP VIVA HEVC" tvg-logo="http://103.176.90.118/piconsnew/zapvivahd.png" group-title="PORTUGAL",PT| ZAP VIVA HEVC
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=368057&extension=ts&play_token=ms7TupJZFX
-# Atualizado em Fri Mar  7 09:32:24 UTC 2025
