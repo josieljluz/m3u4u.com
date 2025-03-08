@@ -4475,13 +4475,13 @@ http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/62546
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/62545
 #EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="SportTV+ FHD PT" tvg-logo="http://tugapt.com/picons/sporttvplushd.png" group-title="PORTUGAL 3",SportTV+ FHD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/13248
-#EXTINF:-1 tvg-id="STARCOMEDY.do" tvg-name="Star Comedy FHD PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_comedy.png" group-title="PORTUGAL 3",Star Comedy FHD PT
+#EXTINF:-1 tvg-id="STARCOMEDY(Spanish).do" tvg-name="Star Comedy FHD PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_comedy.png" group-title="PORTUGAL 3",Star Comedy FHD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/2740
 #EXTINF:-1 tvg-id="STARcrime(src01).bg" tvg-name="Star Crime FHD PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_crime.png" group-title="PORTUGAL 3",Star Crime FHD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/2739
-#EXTINF:-1 tvg-id="STAR Channel PT" tvg-name="Star HD PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_channel.png" group-title="PORTUGAL 3",Star HD PT
+#EXTINF:-1 tvg-id="Star(English).ca" tvg-name="Star HD PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_channel.png" group-title="PORTUGAL 3",Star HD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/78305
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR LIFE HD" tvg-logo="http://digital110.xyz//PICONS/PT/Star_life_hd.png" group-title="PORTUGAL 3",STAR LIFE HD
+#EXTINF:-1 tvg-id="StarLife(Spanish).do" tvg-name="STAR LIFE HD" tvg-logo="http://digital110.xyz//PICONS/PT/Star_life_hd.png" group-title="PORTUGAL 3",STAR LIFE HD
 http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=166384&extension=ts
 #EXTINF:-1 tvg-id="SyFy(src01).pt" tvg-name="Syfy" tvg-logo="http://printv.esy.es/server/Syfy.png" group-title="PORTUGAL 3",Syfy
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1570.m3u8
@@ -4505,137 +4505,137 @@ http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1548.m3u8
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/2685
 #EXTINF:-1 tvg-id="TVCineTOP(src01).pt" tvg-name="TVCine Top HD" tvg-logo="http://printv.esy.es/server/TV%20Cine%201.png" group-title="PORTUGAL 3",TVCine Top HD
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1544.m3u8
-#EXTINF:-1 tvg-id="VH1(English).mx" tvg-name="VH1" tvg-logo="http://novaera4.club/logo/VH1.png" group-title="PORTUGAL 3",VH1
+#EXTINF:-1 tvg-id="VH1Euro(Portuguese).br" tvg-name="VH1" tvg-logo="http://novaera4.club/logo/VH1.png" group-title="PORTUGAL 3",VH1
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/2.m3u8
 #EXTINF:-1 tvg-id="WSport(src01).pt" tvg-name="W-Sport HD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/w-sport-meo-logo.webp" group-title="PORTUGAL 3",W-Sport HD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/113001
 #EXTINF:-1 tvg-id="ZAPViva(src01).pt" tvg-name="Zap Viva FHD PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/ZAPVIVAHD.png" group-title="PORTUGAL 3",Zap Viva FHD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/73311
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 KITCHEN PT" tvg-logo="" group-title="PORTUGAL 4",24 KITCHEN PT
+#EXTINF:-1 tvg-id="24Kitchen(src01).pt" tvg-name="24 KITCHEN PT" tvg-logo="" group-title="PORTUGAL 4",24 KITCHEN PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=1763&extension=ts&play_token=NVxr5eLqD3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 KITCHEN ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",24 KITCHEN ᴴᴰ PT
+#EXTINF:-1 tvg-id="24Kitchen(src01).pt" tvg-name="24 KITCHEN ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",24 KITCHEN ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=283572&extension=ts&play_token=8C1EYrzf6x
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A BOLA TV ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",A BOLA TV ᴴᴰ PT
+#EXTINF:-1 tvg-id="ABolaTV(src01).pt" tvg-name="A BOLA TV ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",A BOLA TV ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=113945&extension=ts&play_token=kTRDCO96Kt
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFRO MUSIC PT" tvg-logo="" group-title="PORTUGAL 4",AFRO MUSIC PT
+#EXTINF:-1 tvg-id="AfroMusic(src01).pt" tvg-name="AFRO MUSIC PT" tvg-logo="" group-title="PORTUGAL 4",AFRO MUSIC PT
 http://qqwawa.xyz:80/TwmeVz2vHPx8rfn6yFKCPcZACB4yZsJg/CE1sdgk9ui/166448?play_token=55maN9PAP8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AFRO TV PT" tvg-logo="" group-title="PORTUGAL 4",AFRO TV PT
+#EXTINF:-1 tvg-id="AfroMusic(src01).pt" tvg-name="AFRO TV PT" tvg-logo="" group-title="PORTUGAL 4",AFRO TV PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=1700&extension=ts&play_token=MdZnNfWAFH
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALMALUSA TV PT" tvg-logo="" group-title="PORTUGAL 4",ALMALUSA TV PT
+#EXTINF:-1 tvg-id="ALMALUSA(src01).pt" tvg-name="ALMALUSA TV PT" tvg-logo="" group-title="PORTUGAL 4",ALMALUSA TV PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=422723&extension=ts&play_token=HO6nkHVz8A
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC BREAK ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",AMC BREAK ᴴᴰ PT
+#EXTINF:-1 tvg-id="AMCBreak(src01).pt" tvg-name="AMC BREAK ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",AMC BREAK ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=113946&extension=ts&play_token=DPjikFVpy4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC CRIME ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",AMC CRIME ᴴᴰ PT
+#EXTINF:-1 tvg-id="AMCCrime(src01).pt" tvg-name="AMC CRIME ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",AMC CRIME ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437629&extension=ts&play_token=VNEeSNDXmZ
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",AMC ᴴᴰ PT
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",AMC ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=7248&extension=ts&play_token=MfUj7TCLlH
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BENFICA TV 1 PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV 1 PT
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BENFICA TV 1 PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV 1 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=4497&extension=ts&play_token=LBel7yCR9j
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BENFICA TV 1 ᴴᴰ LOW PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV 1 ᴴᴰ LOW PT
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BENFICA TV 1 ᴴᴰ LOW PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV 1 ᴴᴰ LOW PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=9542&extension=ts&play_token=gsbzhNryWd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BENFICA TV 1 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV 1 ᴴᴰ PT
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BENFICA TV 1 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV 1 ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=8668&extension=ts&play_token=Gsxx9Hkxui
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BENFICA TV MULTICAM 1 PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV MULTICAM 1 PT
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BENFICA TV MULTICAM 1 PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV MULTICAM 1 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437476&extension=ts&play_token=qfQ2Z263Im
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BENFICA TV MULTICAM 2 PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV MULTICAM 2 PT
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BENFICA TV MULTICAM 2 PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV MULTICAM 2 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437477&extension=ts&play_token=Qb86CkMF7q
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BENFICA TV MULTICAM 3 PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV MULTICAM 3 PT
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BENFICA TV MULTICAM 3 PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV MULTICAM 3 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437478&extension=ts&play_token=K2ZHrWvfny
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BENFICA TV MULTICAM 4 PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV MULTICAM 4 PT
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BENFICA TV MULTICAM 4 PT" tvg-logo="" group-title="PORTUGAL 4",BENFICA TV MULTICAM 4 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437479&extension=ts&play_token=Ahs4KvO91v
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIGGS PT" tvg-logo="" group-title="PORTUGAL 4",BIGGS PT
+#EXTINF:-1 tvg-id="PANDABIGGS(src01).pt" tvg-name="BIGGS PT" tvg-logo="" group-title="PORTUGAL 4",BIGGS PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=1705&extension=ts&play_token=Q2FLDtRtEU
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIGGS ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",BIGGS ᴴᴰ PT
+#EXTINF:-1 tvg-id="PANDABIGGS(src01).pt" tvg-name="BIGGS ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",BIGGS ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437480&extension=ts&play_token=PLD6XXvq6z
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLOCKBUSTER PT" tvg-logo="" group-title="PORTUGAL 4",BLOCKBUSTER PT
+#EXTINF:-1 tvg-id="RTPMadeira(src01).pt" tvg-name="BLOCKBUSTER PT" tvg-logo="" group-title="PORTUGAL 4",BLOCKBUSTER PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=422821&extension=ts&play_token=evxtEdo4gd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOONITO PT" tvg-logo="" group-title="PORTUGAL 4",CARTOONITO PT
+#EXTINF:-1 tvg-id="Cartoonito(src01).pt" tvg-name="CARTOONITO PT" tvg-logo="" group-title="PORTUGAL 4",CARTOONITO PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=158399&extension=ts&play_token=VY4LHm1ZVP
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOONITO ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",CARTOONITO ᴴᴰ PT
+#EXTINF:-1 tvg-id="Cartoonito(src01).pt" tvg-name="CARTOONITO ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",CARTOONITO ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437483&extension=ts&play_token=786rcyZwVQ
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CASA & COZINHA PT" tvg-logo="" group-title="PORTUGAL 4",CASA & COZINHA PT
+#EXTINF:-1 tvg-id="CasaeCozinha(src01).pt" tvg-name="CASA & COZINHA PT" tvg-logo="" group-title="PORTUGAL 4",CASA & COZINHA PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437633&extension=ts&play_token=iaA9PBxPxR
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CASA & COZINHA ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",CASA & COZINHA ᴴᴰ PT
+#EXTINF:-1 tvg-id="CasaeCozinha(src01).pt" tvg-name="CASA & COZINHA ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",CASA & COZINHA ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=130160&extension=ts&play_token=BsNdtvMxx5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMUNDO ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",CINEMUNDO ᴴᴰ PT
+#EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CINEMUNDO ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",CINEMUNDO ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=81078&extension=ts&play_token=DvaqW3tgfE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CMTV ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",CMTV ᴴᴰ PT
+#EXTINF:-1 tvg-id="CMTV(src01).pt" tvg-name="CMTV ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",CMTV ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=7235&extension=ts&play_token=kxKgV3qrN3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PORTUGAL PT" tvg-logo="" group-title="PORTUGAL 4",CNN PORTUGAL PT
+#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN PORTUGAL PT" tvg-logo="" group-title="PORTUGAL 4",CNN PORTUGAL PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=1726&extension=ts&play_token=l2JrHXltJT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PORTUGAL ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",CNN PORTUGAL ᴴᴰ PT
+#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN PORTUGAL ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",CNN PORTUGAL ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=113947&extension=ts&play_token=pk6aX48fVY
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 1 PT
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="DAZN 1 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 1 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=38934&extension=ts&play_token=wSH0cJiVOo
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 1 ᴴᴰ PT
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="DAZN 1 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 1 ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=31399&extension=ts&play_token=txnFG2uqlY
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 2 PT
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="DAZN 2 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 2 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=38946&extension=ts&play_token=ZKdN57xAAl
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 2 ᴴᴰ PT
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="DAZN 2 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 2 ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=31398&extension=ts&play_token=VO9I5dUW10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 3 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 3 PT
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="DAZN 3 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 3 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=39074&extension=ts&play_token=aiQUutSK0k
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 3 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 3 ᴴᴰ PT
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="DAZN 3 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 3 ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=31397&extension=ts&play_token=XbgCAElPDP
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 4 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 4 PT
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="DAZN 4 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 4 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=39075&extension=ts&play_token=a2WzKq8jDv
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 4 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 4 ᴴᴰ PT
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="DAZN 4 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 4 ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=31396&extension=ts&play_token=uXEAQj4fk9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 5 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 5 PT
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="DAZN 5 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 5 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=39076&extension=ts&play_token=gXcg7q6rFL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 5 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 5 ᴴᴰ PT
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="DAZN 5 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 5 ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=31395&extension=ts&play_token=OSRFgMTgOD
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 6 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 6 PT
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="DAZN 6 PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 6 PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=39077&extension=ts&play_token=MJpuy6DgJC
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 6 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 6 ᴴᴰ PT
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="DAZN 6 ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DAZN 6 ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=31394&extension=ts&play_token=VmFGrk011D
 #EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="DISCOVERY CHANNEL PT" tvg-logo="" group-title="PORTUGAL 4",DISCOVERY CHANNEL PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=1765&extension=ts&play_token=wt36VOo6WN
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DISCOVERY CHANNEL ᴴᴰ PT
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="DISCOVERY CHANNEL ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DISCOVERY CHANNEL ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=149891&extension=ts&play_token=ZxB3WMyFmi
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DISNEY CHANNEL ᴴᴰ PT
+#EXTINF:-1 tvg-id="DisneyChannel(src01).pt" tvg-name="DISNEY CHANNEL ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DISNEY CHANNEL ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=281412&extension=ts&play_token=aYYeBvzJjB
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JUNIOR ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DISNEY JUNIOR ᴴᴰ PT
+#EXTINF:-1 tvg-id="DisneyJunior(src01).pt" tvg-name="DISNEY JUNIOR ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DISNEY JUNIOR ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437482&extension=ts&play_token=uBkdjBpZqa
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIZI CHANNEL PT" tvg-logo="" group-title="PORTUGAL 4",DIZI CHANNEL PT
+#EXTINF:-1 tvg-id="DIZIChannel(src01).pt" tvg-name="DIZI CHANNEL PT" tvg-logo="" group-title="PORTUGAL 4",DIZI CHANNEL PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437493&extension=ts&play_token=jgK51zCqvs
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIZI CHANNEL ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DIZI CHANNEL ᴴᴰ PT
+#EXTINF:-1 tvg-id="DIZIChannel(src01).pt" tvg-name="DIZI CHANNEL ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",DIZI CHANNEL ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437494&extension=ts&play_token=OiqpBUh9VB
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! ENTERTAINMENT PT" tvg-logo="" group-title="PORTUGAL 4",E! ENTERTAINMENT PT
+#EXTINF:-1 tvg-id="EEntertainment(src01).pt" tvg-name="E! ENTERTAINMENT PT" tvg-logo="" group-title="PORTUGAL 4",E! ENTERTAINMENT PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437632&extension=ts&play_token=fBRHv1v7BE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! ENTERTAINMENT ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",E! ENTERTAINMENT ᴴᴰ PT
+#EXTINF:-1 tvg-id="EEntertainment(src01).pt" tvg-name="E! ENTERTAINMENT ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",E! ENTERTAINMENT ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=1761&extension=ts&play_token=esl9wZ1fS4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT PT" tvg-logo="" group-title="PORTUGAL 4",EUROSPORT PT
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="EUROSPORT PT" tvg-logo="" group-title="PORTUGAL 4",EUROSPORT PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=1745&extension=ts&play_token=0X5xUYcyAx
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",EUROSPORT ᴴᴰ PT
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="EUROSPORT ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",EUROSPORT ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=7251&extension=ts&play_token=zq0htMXYoS
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUEL TV PT" tvg-logo="" group-title="PORTUGAL 4",FUEL TV PT
+#EXTINF:-1 tvg-id="FuelTV(src01).pt" tvg-name="FUEL TV PT" tvg-logo="" group-title="PORTUGAL 4",FUEL TV PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437490&extension=ts&play_token=tW3U8dtOar
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUEL TV ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",FUEL TV ᴴᴰ PT
+#EXTINF:-1 tvg-id="FuelTV(src01).pt" tvg-name="FUEL TV ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",FUEL TV ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=1702&extension=ts&play_token=vctor5qd38
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GALERIA PT" tvg-logo="" group-title="PORTUGAL 4",GALERIA PT
+#EXTINF:-1 tvg-id="CanalGaleria(src01).pt" tvg-name="GALERIA PT" tvg-logo="" group-title="PORTUGAL 4",GALERIA PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437631&extension=ts&play_token=DixW1SF9Ob
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAME TOON PT" tvg-logo="" group-title="PORTUGAL 4",GAME TOON PT
+#EXTINF:-1 tvg-id="CartoonNetwork(src01).pt" tvg-name="GAME TOON PT" tvg-logo="" group-title="PORTUGAL 4",GAME TOON PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437496&extension=ts&play_token=m5GnDcqHe0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAME TOON ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",GAME TOON ᴴᴰ PT
+#EXTINF:-1 tvg-id="Cartoonito(src01).pt" tvg-name="GAME TOON ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",GAME TOON ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437497&extension=ts&play_token=wiltL76Tym
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",GLOBO ᴴᴰ PT
+#EXTINF:-1 tvg-id="TVGlobo(src01).pt" tvg-name="GLOBO ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",GLOBO ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=81076&extension=ts&play_token=R619uy1vXM
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORIA ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",HISTORIA ᴴᴰ PT
+#EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="HISTORIA ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",HISTORIA ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437488&extension=ts&play_token=Sa6lPc6Ljf
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOLLYWOOD ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",HOLLYWOOD ᴴᴰ PT
+#EXTINF:-1 tvg-id="Hollywood(src01).pt" tvg-name="HOLLYWOOD ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",HOLLYWOOD ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=7230&extension=ts&play_token=Ls1MvoV2GG
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ICONCERTS ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",ICONCERTS ᴴᴰ PT
+#EXTINF:-1 tvg-id="TraceBrasil(src01).pt" tvg-name="ICONCERTS ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",ICONCERTS ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=7242&extension=ts&play_token=NpHOQ6QALF
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID INVESTIGATION DISCOVERY ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",ID INVESTIGATION DISCOVERY ᴴᴰ PT
+#EXTINF:-1 tvg-id="InvestigationDiscovery(src01).pt" tvg-name="ID INVESTIGATION DISCOVERY ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",ID INVESTIGATION DISCOVERY ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=57767&extension=ts&play_token=ADtjLgvHlh
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIDS - ABC SPARK HD" tvg-logo="" group-title="PORTUGAL 4",KIDS - ABC SPARK HD
+#EXTINF:-1 tvg-id="ABC" tvg-name="KIDS - ABC SPARK HD" tvg-logo="" group-title="PORTUGAL 4",KIDS - ABC SPARK HD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:BE:31:BE&stream=479208&extension=ts&play_token=AuyC7JEi8z
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIDS - BABY FIRST HD" tvg-logo="" group-title="PORTUGAL 4",KIDS - BABY FIRST HD
+#EXTINF:-1 tvg-id="BabyTV(src01).pt" tvg-name="KIDS - BABY FIRST HD" tvg-logo="" group-title="PORTUGAL 4",KIDS - BABY FIRST HD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:BE:31:BE&stream=479209&extension=ts&play_token=BUmVxYnE20
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIDS - BABY TV HD" tvg-logo="" group-title="PORTUGAL 4",KIDS - BABY TV HD
+#EXTINF:-1 tvg-id="BabyTV(src01).pt" tvg-name="KIDS - BABY TV HD" tvg-logo="" group-title="PORTUGAL 4",KIDS - BABY TV HD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:BE:31:BE&stream=479210&extension=ts&play_token=bkyFDcAEjr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIDS - BOOMERANG HD" tvg-logo="" group-title="PORTUGAL 4",KIDS - BOOMERANG HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIDS - BABY HD" tvg-logo="" group-title="PORTUGAL 4",KIDS - BABY HD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:BE:31:BE&stream=479211&extension=ts&play_token=4061nKxs4g
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIDS - CARTOON NETWORK EAST HD" tvg-logo="" group-title="PORTUGAL 4",KIDS - CARTOON NETWORK EAST HD
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:BE:31:BE&stream=479212&extension=ts&play_token=5RAYbh2wLI
@@ -4689,13 +4689,13 @@ http://skunkytv.live:80/play/live.php?mac=00:1A:79:BE:31:BE&stream=479236&extens
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:BE:31:BE&stream=479237&extension=ts&play_token=yeZo6R6O8T
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIDS - YTV WEST" tvg-logo="" group-title="PORTUGAL 4",KIDS - YTV WEST
 http://skunkytv.live:80/play/live.php?mac=00:1A:79:BE:31:BE&stream=479238&extension=ts&play_token=i86C9f1XnC
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KURIAKOS TV ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",KURIAKOS TV ᴴᴰ PT
+#EXTINF:-1 tvg-id="KURIAKOSTV(src01).pt" tvg-name="KURIAKOS TV ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",KURIAKOS TV ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=19931&extension=ts&play_token=ibmdQOLaJd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOCALVISAO ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",LOCALVISAO ᴴᴰ PT
+#EXTINF:-1 tvg-id="Localvisao(src01).pt" tvg-name="LOCALVISAO ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",LOCALVISAO ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=7244&extension=ts&play_token=AQWeLPRKHJ
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOLLY KIDS PT" tvg-logo="" group-title="PORTUGAL 4",LOLLY KIDS PT
+#EXTINF:-1 tvg-id="LollyKids(src01).pt" tvg-name="LOLLY KIDS PT" tvg-logo="" group-title="PORTUGAL 4",LOLLY KIDS PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=382570&extension=ts&play_token=xUfLPEXQRI
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOLLY KIDS ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",LOLLY KIDS ᴴᴰ PT
+#EXTINF:-1 tvg-id="LollyKids(src01).pt" tvg-name="LOLLY KIDS ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",LOLLY KIDS ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437485&extension=ts&play_token=pG5Pqh64u6
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MEO DESTAQUES ᴴᴰ PT" tvg-logo="" group-title="PORTUGAL 4",MEO DESTAQUES ᴴᴰ PT
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437495&extension=ts&play_token=ttG3gQ019J
@@ -4871,15 +4871,15 @@ http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=437472&extension=ts
 http://sotu.ws:80/play/live.php?mac=00:1A:79:00:1A:57&stream=81117&extension=ts&play_token=NU0bnWuptQ
 #EXTINF:-1 tvg-id="CacaePesca(src01).pt" tvg-name="Caça e Pesca FHD PT" tvg-logo="http://tugapt.com/picons/cacaepescapt.png" group-title="PORTUGAL 5",Caça e Pesca FHD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/78320.m3u8
-#EXTINF:-1 tvg-id="CNN PT" tvg-name="CNN Portugal SD PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvi24hd_85x70.jpg" group-title="PORTUGAL 5",CNN Portugal SD PT
+#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN Portugal SD PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvi24hd_85x70.jpg" group-title="PORTUGAL 5",CNN Portugal SD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/3844.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Extra 1 HD PT" tvg-logo="" group-title="PORTUGAL 5",Eleven Extra 1 HD PT
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven Extra 1 HD PT" tvg-logo="" group-title="PORTUGAL 5",Eleven Extra 1 HD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/117488.m3u8
 #EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="História FHD PT" tvg-logo="http://tugapt.com/picons/historiapt.png" group-title="PORTUGAL 5",História FHD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/78324.m3u8
-#EXTINF:-1 tvg-id="Home and Garden TV PT" tvg-name="Home & Garden TV HD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/hgtv.png" group-title="PORTUGAL 5",Home & Garden TV HD PT
+#EXTINF:-1 tvg-id="Hot(src01).pt" tvg-name="Home & Garden TV HD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/hgtv.png" group-title="PORTUGAL 5",Home & Garden TV HD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/110123.m3u8
-#EXTINF:-1 tvg-id="LocalVisao TV HD PT" tvg-name="LocalVisão TV HD PT" tvg-logo="http://tugapt.com/picons/localvisaotvpt.png" group-title="PORTUGAL 5",LocalVisão TV HD PT
+#EXTINF:-1 tvg-id="Localvisao(src01).pt" tvg-name="LocalVisão TV HD PT" tvg-logo="http://tugapt.com/picons/localvisaotvpt.png" group-title="PORTUGAL 5",LocalVisão TV HD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/2744.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild(src01).pt" tvg-name="Nat Geo Wild HD PT" tvg-logo="http://tugapt.com/picons/natgeowildpt.png" group-title="PORTUGAL 5",Nat Geo Wild HD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/78326.m3u8
@@ -4887,63 +4887,63 @@ http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/7
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/78328.m3u8
 #EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC Notícias FHD PT" tvg-logo="http://tugapt.com/picons/sicnoticiashdpt.png" group-title="PORTUGAL 5",SIC Notícias FHD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/2698.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIC Novelas FHD PT" tvg-logo="" group-title="PORTUGAL 5",SIC Novelas FHD PT
+#EXTINF:-1 tvg-id="SICNovelas(src01).pt" tvg-name="SIC Novelas FHD PT" tvg-logo="" group-title="PORTUGAL 5",SIC Novelas FHD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/113018.m3u8
 #EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SportTV 3 HD PT" tvg-logo="http://tugapt.com/picons/sporttv3hdpt.png" group-title="PORTUGAL 5",SportTV 3 HD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/78313.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Maná HD PT" tvg-logo="https://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="PORTUGAL 5",TV Maná HD PT
+#EXTINF:-1 tvg-id="HOTMan(src01).pt" tvg-name="TV Maná HD PT" tvg-logo="https://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png" group-title="PORTUGAL 5",TV Maná HD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/33167.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unifé TV HD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/unife.png" group-title="PORTUGAL 5",Unifé TV HD PT
+#EXTINF:-1 tvg-id="UnifeTV(src01).pt" tvg-name="Unifé TV HD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/unife.png" group-title="PORTUGAL 5",Unifé TV HD PT
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/113000.m3u8
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime HD" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="PORTUGAL 6",AMC Crime HD
+#EXTINF:-1 tvg-id="AMCCrime(src01).pt" tvg-name="AMC Crime HD" tvg-logo="http://prinplay.com.br/server/AMC.png" group-title="PORTUGAL 6",AMC Crime HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1571.ts
-#EXTINF:-1 tvg-id="Caça Vision" tvg-name="Cacavision" tvg-logo="http://prinplay.com.br/server/Ca%C3%A7avision.png" group-title="PORTUGAL 6",Cacavision
+#EXTINF:-1 tvg-id="CacaVision(src01).pt" tvg-name="Cacavision" tvg-logo="http://prinplay.com.br/server/Ca%C3%A7avision.png" group-title="PORTUGAL 6",Cacavision
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1584.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior HD" tvg-logo="http://prinplay.com.br/server/Disney%20Jr..png" group-title="PORTUGAL 6",Disney Junior HD
+#EXTINF:-1 tvg-id="DisneyJunior(src01).pt" tvg-name="Disney Junior HD" tvg-logo="http://prinplay.com.br/server/Disney%20Jr..png" group-title="PORTUGAL 6",Disney Junior HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1511.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Sports HD" tvg-logo="http://prinplay.com.br/server/Fight%20Network.png" group-title="PORTUGAL 6",Fight Sports HD
+#EXTINF:-1 tvg-id="FightNetwork(src01).pt" tvg-name="Fight Sports HD" tvg-logo="http://prinplay.com.br/server/Fight%20Network.png" group-title="PORTUGAL 6",Fight Sports HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1538.ts
-#EXTINF:-1 tvg-id="GAMETOON HD" tvg-name="Gametoon HD" tvg-logo="https://iconape.com/wp-content/files/um/279516/png/gametoon-hd-logo.png" group-title="PORTUGAL 6",Gametoon HD
+#EXTINF:-1 tvg-id="Cartoonito(src01).pt" tvg-name="Gametoon HD" tvg-logo="https://iconape.com/wp-content/files/um/279516/png/gametoon-hd-logo.png" group-title="PORTUGAL 6",Gametoon HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/52023.ts
-#EXTINF:-1 tvg-id="GINX ESPORTS" tvg-name="GINX Esports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Ginx_Esports_logo.png" group-title="PORTUGAL 6",GINX Esports
+#EXTINF:-1 tvg-id="SportTV(src01).pt" tvg-name="GINX Esports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Ginx_Esports_logo.png" group-title="PORTUGAL 6",GINX Esports
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1540.ts
-#EXTINF:-1 tvg-id="MOTORVISION" tvg-name="MotorVision TV HD" tvg-logo="http://prinplay.com.br/server/Motorvision.png" group-title="PORTUGAL 6",MotorVision TV HD
+#EXTINF:-1 tvg-id="MOTORVISION(src01).pt" tvg-name="MotorVision TV HD" tvg-logo="http://prinplay.com.br/server/Motorvision.png" group-title="PORTUGAL 6",MotorVision TV HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1541.ts
-#EXTINF:-1 tvg-id="NGC" tvg-name="National Geographic Wild HD" tvg-logo="http://prinplay.com.br/server/National%20Geographic.png" group-title="PORTUGAL 6",National Geographic Wild HD
+#EXTINF:-1 tvg-id="NatGeoWild(src01).pt" tvg-name="National Geographic Wild HD" tvg-logo="http://prinplay.com.br/server/National%20Geographic.png" group-title="PORTUGAL 6",National Geographic Wild HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1576.ts
-#EXTINF:-1 tvg-id="tvci.comunicacoes.interativas.ltda.br" tvg-name="TCV Internacional" tvg-logo="http://prinplay.com.br/server/TCV%20Internacional.png" group-title="PORTUGAL 6",TCV Internacional
+#EXTINF:-1 tvg-id="TCVInternacional(src01).pt" tvg-name="TCV Internacional" tvg-logo="http://prinplay.com.br/server/TCV%20Internacional.png" group-title="PORTUGAL 6",TCV Internacional
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/899602.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Penthouse 2 (D)" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" group-title="XXX - +18 ADULTOS",Adult Penthouse 2 (D)
+#EXTINF:-1 tvg-id="Penthouse(Spanish).mx" tvg-name="Adult Penthouse 2 (D)" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" group-title="XXX - +18 ADULTOS",Adult Penthouse 2 (D)
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/916146.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult PlayBoy  (P)" tvg-logo="" group-title="XXX - +18 ADULTOS",Adult PlayBoy  (P)
+#EXTINF:-1 tvg-id="Playboy(Portuguese).br" tvg-name="Adult PlayBoy  (P)" tvg-logo="" group-title="XXX - +18 ADULTOS",Adult PlayBoy  (P)
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/916090.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Private" tvg-logo="" group-title="XXX - +18 ADULTOS",Adult Private
+#EXTINF:-1 tvg-id="PrivateTV(English).fr" tvg-name="Adult Private" tvg-logo="" group-title="XXX - +18 ADULTOS",Adult Private
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/916054.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adult Private TV  (D)" tvg-logo="" group-title="XXX - +18 ADULTOS",Adult Private TV  (D)
+#EXTINF:-1 tvg-id="PrivateTV(English).fr" tvg-name="Adult Private TV  (D)" tvg-logo="" group-title="XXX - +18 ADULTOS",Adult Private TV  (D)
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/916131.ts
 #EXTINF:-1 tvg-id="BlueHustler(English).fi" tvg-name="BLUE HUSTLER" tvg-logo="http://hochu.tv/images/blue-hustler.png" group-title="XXX - +18 ADULTOS",BLUE HUSTLER
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10119435.m3u8
 #EXTINF:-1 tvg-id="BrazzersTV(Spanish).mx" tvg-name="BRAZZERS TV" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/7398.png" group-title="XXX - +18 ADULTOS",BRAZZERS TV
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/7398.m3u8
-#EXTINF:-1 tvg-id="Brazzers TV" tvg-name="Brazzers TV Europe" tvg-logo="http://prinplay.com.br/server/Brazzers.png" group-title="XXX - +18 ADULTOS",Brazzers TV Europe
+#EXTINF:-1 tvg-id="BrazzersTV(Spanish).mx" tvg-name="Brazzers TV Europe" tvg-logo="http://prinplay.com.br/server/Brazzers.png" group-title="XXX - +18 ADULTOS",Brazzers TV Europe
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/51042.ts
 #EXTINF:-1 tvg-id="DorcelTV(English).ca" tvg-name="DORCEL" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/3209.png" group-title="XXX - +18 ADULTOS",DORCEL
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/3209.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP124:DORCEL HD [VIP]" tvg-logo="" group-title="XXX - +18 ADULTOS",VIP124:DORCEL HD [VIP]
+#EXTINF:-1 tvg-id="DorcelTV.fr" tvg-name="DORCEL HD [VIP]" tvg-logo="" group-title="XXX - +18 ADULTOS",DORCEL HD [VIP]
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/60661
-#EXTINF:-1 tvg-id="Dorcel TV HD" tvg-name="Dorcel TV HD" tvg-logo="http://prinplay.com.br/server/Dorcel%20TV.png" group-title="XXX - +18 ADULTOS",Dorcel TV HD
+#EXTINF:-1 tvg-id="DorcelTV.fr" tvg-name="Dorcel TV HD" tvg-logo="http://prinplay.com.br/server/Dorcel%20TV.png" group-title="XXX - +18 ADULTOS",Dorcel TV HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/51045.ts
 #EXTINF:-1 tvg-id="EvilAngel(German).ch" tvg-name="VIP204:Evil Angel" tvg-logo="" group-title="XXX - +18 ADULTOS",VIP204:Evil Angel
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/60737
 #EXTINF:-1 tvg-id="HustlerTV(English).fr" tvg-name="Hustler HD" tvg-logo="" group-title="XXX - +18 ADULTOS",Hustler HD
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2985
-#EXTINF:-1 tvg-id="hustler.usa.on.demand.us" tvg-name="Hustler TV HD" tvg-logo="http://prinplay.com.br/server/Hustler%20TV.png" group-title="XXX - +18 ADULTOS",Hustler TV HD
+#EXTINF:-1 tvg-id="HustlerTV(English).fr" tvg-name="Hustler TV HD" tvg-logo="http://prinplay.com.br/server/Hustler%20TV.png" group-title="XXX - +18 ADULTOS",Hustler TV HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/11418.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP059:Leo TV HD" tvg-logo="" group-title="XXX - +18 ADULTOS",VIP059:Leo TV HD
+#EXTINF:-1 tvg-id="CleoTV.us" tvg-name="Leo TV HD" tvg-logo="" group-title="XXX - +18 ADULTOS",Leo TV HD
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/33133
 #EXTINF:-1 tvg-id="Penthouse(Spanish).mx" tvg-name="PENTHOUSE HD 2" tvg-logo="http://hochu.tv/images/penthouse-2.png" group-title="XXX - +18 ADULTOS",PENTHOUSE HD 2
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10119426.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP150:Playboy Europe" tvg-logo="" group-title="XXX - +18 ADULTOS",VIP150:Playboy Europe
+#EXTINF:-1 tvg-id="PlayboyEnEspanol(Spanish).us" tvg-name="VIP150:Playboy Europe" tvg-logo="" group-title="XXX - +18 ADULTOS",VIP150:Playboy Europe
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/60687
 #EXTINF:-1 tvg-id="Playboy(Portuguese).br" tvg-name="PLAYBOY FHD H265" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/17341.png" group-title="XXX - +18 ADULTOS",PLAYBOY FHD H265
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/17341.m3u8
@@ -4973,7 +4973,7 @@ http://cdn.churros.site:80/venk0vwp7x01/gold81500/101559
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/22732
 #EXTINF:-1 tvg-id="PLAYTV(Portuguese).br" tvg-name="PLAYBOY TV HD¹" tvg-logo="http://contentsdeliver.link/logos/playboytv_hd.png" group-title="XXX - +18 ADULTOS",PLAYBOY TV HD¹
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/18983
-#EXTINF:-1 tvg-id="sexprive.brasileirinhas.br" tvg-name="Playboy TV Latin America" tvg-logo="http://prinplay.com.br/server/Playboy%20TV.png" group-title="XXX - +18 ADULTOS",Playboy TV Latin America
+#EXTINF:-1 tvg-id="PlayboyEnEspanol(Spanish).us" tvg-name="Playboy TV Latin America" tvg-logo="http://prinplay.com.br/server/Playboy%20TV.png" group-title="XXX - +18 ADULTOS",Playboy TV Latin America
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/46044.ts
 #EXTINF:-1 tvg-id="Playboy(Portuguese).br" tvg-name="Playboy TV SD" tvg-logo="https://acstatic.co/logos/canais/playboy.png" group-title="XXX - +18 ADULTOS",Playboy TV SD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/208407
@@ -4981,15 +4981,15 @@ http://cdn.churros.site:80/venk0vwp7x01/gold81500/208407
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/22763
 #EXTINF:-1 tvg-id="PLAYTV(Portuguese).br" tvg-name="PLAYBOY TV SD¹" tvg-logo="http://contentsdeliver.link/logos/playboytv_sd.png" group-title="XXX - +18 ADULTOS",PLAYBOY TV SD¹
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/22762
-#EXTINF:-1 tvg-id="Private TV HD" tvg-name="Private HD" tvg-logo="http://prinplay.com.br/server/Private.png" group-title="XXX - +18 ADULTOS",Private HD
+#EXTINF:-1 tvg-id="PrivateTV(English).fr" tvg-name="Private HD" tvg-logo="http://prinplay.com.br/server/Private.png" group-title="XXX - +18 ADULTOS",Private HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/51043.ts
 #EXTINF:-1 tvg-id="PrivateTV(English).fr" tvg-name="PRIVATE TV" tvg-logo="http://hochu.tv/images/private_tv.png" group-title="XXX - +18 ADULTOS",PRIVATE TV
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10119437.m3u8
 #EXTINF:-1 tvg-id="PrivateTV(English).fr" tvg-name="Prıvate TV HD" tvg-logo="" group-title="XXX - +18 ADULTOS",Prıvate TV HD
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2983
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP112:REALITY" tvg-logo="" group-title="XXX - +18 ADULTOS",VIP112:REALITY
+#EXTINF:-1 tvg-id="PENTHOUSEREALITYTV(English).fr" tvg-name="REALITY" tvg-logo="" group-title="XXX - +18 ADULTOS",REALITY
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/33080
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP153:Reality Kings" tvg-logo="" group-title="XXX - +18 ADULTOS",VIP153:Reality Kings
+#EXTINF:-1 tvg-id="RealityKingsTV(English).fr" tvg-name="Reality Kings" tvg-logo="" group-title="XXX - +18 ADULTOS",Reality Kings
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/60690
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="REDLIGHT" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/2903.png" group-title="XXX - +18 ADULTOS",REDLIGHT
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/2903.m3u8
@@ -5017,9 +5017,9 @@ http://cdn.churros.site:80/venk0vwp7x01/gold81500/208428
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10054392.m3u8
 #EXTINF:-1 tvg-id="SextremeBrazil(Portuguese).br" tvg-name="SEXTREME SD²" tvg-logo="http://i.imgur.com/ISOKVWN.png" group-title="XXX - +18 ADULTOS",SEXTREME SD²
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/64823
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP027:Sextreme TV" tvg-logo="" group-title="XXX - +18 ADULTOS",VIP027:Sextreme TV
+#EXTINF:-1 tvg-id="SextremeBrazil(Portuguese).br" tvg-name="Sextreme TV" tvg-logo="" group-title="XXX - +18 ADULTOS",Sextreme TV
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2959
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP029:Sexy HOT" tvg-logo="" group-title="XXX - +18 ADULTOS",VIP029:Sexy HOT
+#EXTINF:-1 tvg-id="SexyHot(Portuguese).br" tvg-name="Sexy HOT" tvg-logo="" group-title="XXX - +18 ADULTOS",Sexy HOT
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/33160
 #EXTINF:-1 tvg-id="SexyHot(Portuguese).br" tvg-name="SEXY HOT FHD" tvg-logo="https://loopstatic.net/sexhot.png" group-title="XXX - +18 ADULTOS",SEXY HOT FHD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/101555
@@ -5063,19 +5063,19 @@ http://7semfronteiras.cc:8080/o3w43k/9i7dje/18988
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/208431
 #EXTINF:-1 tvg-id="VenusTV(Portuguese).br" tvg-name="VENUS SD*" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX - +18 ADULTOS",VENUS SD*
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10055071.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Venus TV" tvg-logo="" group-title="XXX - +18 ADULTOS",Venus TV
+#EXTINF:-1 tvg-id="VenusTV(Portuguese).br" tvg-name="Venus TV" tvg-logo="" group-title="XXX - +18 ADULTOS",Venus TV
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2960
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVID RED" tvg-logo="http://hochu.tv/images/vivid-red.png" group-title="XXX - +18 ADULTOS",VIVID RED
+#EXTINF:-1 tvg-id="VividTV.us" tvg-name="VIVID RED" tvg-logo="http://hochu.tv/images/vivid-red.png" group-title="XXX - +18 ADULTOS",VIVID RED
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10119433.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX BLUE HUSTLE" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX BLUE HUSTLE
+#EXTINF:-1 tvg-id="BlueHustler(English).ch" tvg-name="XXX BLUE HUSTLE" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX BLUE HUSTLE
 http://51.79.39.236:80/live/aldenira2023/99887766/618946.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX BRAZZERS" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX BRAZZERS
+#EXTINF:-1 tvg-id="BrazzersTVEurope(English).fr" tvg-name="XXX BRAZZERS" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX BRAZZERS
 http://51.79.39.236:80/live/aldenira2023/99887766/618947.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX BRAZZERS TV" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX BRAZZERS TV
+#EXTINF:-1 tvg-id="BrazzersTV(Spanish).mx" tvg-name="XXX BRAZZERS TV" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX BRAZZERS TV
 http://51.79.39.236:80/live/aldenira2023/99887766/618948.m3u8
 #EXTINF:-1 tvg-id="Playboy(Portuguese).br" tvg-name="XXX PLAYBOY" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX PLAYBOY
 http://51.79.39.236:80/live/aldenira2023/99887766/77654.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BLUE HUSTLER*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="XXX - +18 ADULTOS",XXX: BLUE HUSTLER*
+#EXTINF:-1 tvg-id="BlueHustler(English).de" tvg-name="XXX: BLUE HUSTLER*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="XXX - +18 ADULTOS",XXX: BLUE HUSTLER*
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/64848
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: CANDY" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="XXX - +18 ADULTOS",XXX: CANDY
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/18977
@@ -5085,13 +5085,13 @@ http://7semfronteiras.cc:8080/o3w43k/9i7dje/64831
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/18978
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: CENTOXCENTO*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="XXX - +18 ADULTOS",XXX: CENTOXCENTO*
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/64834
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: DORCEL TV*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="XXX - +18 ADULTOS",XXX: DORCEL TV*
+#EXTINF:-1 tvg-id="DorcelTV.fr" tvg-name="XXX: DORCEL TV*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="XXX - +18 ADULTOS",XXX: DORCEL TV*
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/64835
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: LESBIAN" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: LESBIAN
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/319709
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PASSION*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="XXX - +18 ADULTOS",XXX: PASSION*
+#EXTINF:-1 tvg-id="Passion(src01).de" tvg-name="XXX: PASSION*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="XXX - +18 ADULTOS",XXX: PASSION*
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/64804
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PENTHOUSE QUICKIES*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="XXX - +18 ADULTOS",XXX: PENTHOUSE QUICKIES*
+#EXTINF:-1 tvg-id="PenthouseTVXX5Premium.us" tvg-name="XXX: PENTHOUSE QUICKIES*" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="XXX - +18 ADULTOS",XXX: PENTHOUSE QUICKIES*
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/64802
 #EXTINF:-1 tvg-id="Playboy(Portuguese).br" tvg-name="XXX: PLAYBOY" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: PLAYBOY
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96033.m3u8
@@ -5101,9 +5101,9 @@ http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96034.m3u8
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96035.m3u8
 #EXTINF:-1 tvg-id="Playboy.us" tvg-name="XXX: PLAYBOY USA" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: PLAYBOY USA
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96036.m3u8
-#EXTINF:-1 tvg-id="HOUSE" tvg-name="XXX: PLAYHOUSE" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: PLAYHOUSE
+#EXTINF:-1 tvg-id="PenthouseGold(English).fr" tvg-name="XXX: PLAYHOUSE" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: PLAYHOUSE
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96037.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PRIVATE" tvg-logo="http://i.imgur.com/Eh55tkE.png" group-title="XXX - +18 ADULTOS",XXX: PRIVATE
+#EXTINF:-1 tvg-id="PrivateTV(English).fr" tvg-name="XXX: PRIVATE" tvg-logo="http://i.imgur.com/Eh55tkE.png" group-title="XXX - +18 ADULTOS",XXX: PRIVATE
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/22738
 #EXTINF:-1 tvg-id="PrivateTV(English).fr" tvg-name="XXX: Private TV" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: Private TV
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96038.m3u8
@@ -5111,7 +5111,7 @@ http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96038.m3u8
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96039.m3u8
 #EXTINF:-1 tvg-id="RealityKingsTV(English).fr" tvg-name="XXX: Reality Kings TV +1" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: Reality Kings TV +1
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96040.m3u8
-#EXTINF:-1 tvg-id="sexprive.brasileirinhas.br" tvg-name="XXX: Sex Prive" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX: Sex Prive
+#EXTINF:-1 tvg-id="SexPrive(Portuguese).br" tvg-name="XXX: Sex Prive" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX: Sex Prive
 http://51.79.39.236:80/live/aldenira2023/99887766/97649.m3u8
 #EXTINF:-1 tvg-id="SeXation(src01).si" tvg-name="XXX: SeXation" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: SeXation
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96045.m3u8
@@ -5119,280 +5119,280 @@ http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96045.m3u8
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96046.m3u8
 #EXTINF:-1 tvg-id="SexyHot(Portuguese).br" tvg-name="XXX: Sexy HOT" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: Sexy HOT
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96047.m3u8
-#EXTINF:-1 tvg-id="venus.br" tvg-name="XXX: Venus" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX: Venus
+#EXTINF:-1 tvg-id="VenusTV(Portuguese).br" tvg-name="XXX: Venus" tvg-logo="https://prostore.app/logos/adultos.png" group-title="XXX - +18 ADULTOS",XXX: Venus
 http://51.79.39.236:80/live/aldenira2023/99887766/97658.m3u8
 #EXTINF:-1 tvg-id="VenusTV(Portuguese).br" tvg-name="XXX: VENUS" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: VENUS
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96054.m3u8
 #EXTINF:-1 tvg-id="VISITXtv(German).fr" tvg-name="XXX: VISIT-X TV" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: VISIT-X TV
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96055.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: VIVID RED*" tvg-logo="http://i.imgur.com/ptbX3GK.png" group-title="XXX - +18 ADULTOS",XXX: VIVID RED*
+#EXTINF:-1 tvg-id="VividTV.us" tvg-name="XXX: VIVID RED*" tvg-logo="http://i.imgur.com/ptbX3GK.png" group-title="XXX - +18 ADULTOS",XXX: VIVID RED*
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/64825
 #EXTINF:-1 tvg-id="VividTV.us" tvg-name="XXX: Vivid TV" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: Vivid TV
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96058.m3u8
 #EXTINF:-1 tvg-id="VIXEN(English).fr" tvg-name="XXX: VIXEN" tvg-logo="" group-title="XXX - +18 ADULTOS",XXX: VIXEN
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/96059.m3u8
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band CE" tvg-logo="http://prinplay.com.br/server/Band.png" group-title="XXX - BRASIL 4",Band CE
+#EXTINF:-1 tvg-id="BandCeara(Portuguese).br" tvg-name="Band CE" tvg-logo="http://prinplay.com.br/server/Band.png" group-title="XXX - BRASIL 4",Band CE
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902262.ts
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band CE FHD" tvg-logo="http://prinplay.com.br/server/Band%20HD.png" group-title="XXX - BRASIL 4",Band CE FHD
+#EXTINF:-1 tvg-id="BandCeara(Portuguese).br" tvg-name="Band CE FHD" tvg-logo="http://prinplay.com.br/server/Band%20HD.png" group-title="XXX - BRASIL 4",Band CE FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/914183.ts
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band CE HD" tvg-logo="http://prinplay.com.br/server/Band%20HD.png" group-title="XXX - BRASIL 4",Band CE HD
+#EXTINF:-1 tvg-id="BandCeara(Portuguese).br" tvg-name="Band CE HD" tvg-logo="http://prinplay.com.br/server/Band%20HD.png" group-title="XXX - BRASIL 4",Band CE HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902261.ts
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News FHDR" tvg-logo="http://prinplay.com.br/server/Band%20News%20HD.png" group-title="XXX - BRASIL 4",Band News FHDR
+#EXTINF:-1 tvg-id="BandNews(Portuguese).br" tvg-name="Band News FHDR" tvg-logo="http://prinplay.com.br/server/Band%20News%20HD.png" group-title="XXX - BRASIL 4",Band News FHDR
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/915991.ts
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="Band RBATV" tvg-logo="http://prinplay.com.br/server/Band.png" group-title="XXX - BRASIL 4",Band RBATV
+#EXTINF:-1 tvg-id="RBATV(Portuguese).br" tvg-name="Band RBATV" tvg-logo="http://prinplay.com.br/server/Band.png" group-title="XXX - BRASIL 4",Band RBATV
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/903318.ts
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band Tatuape" tvg-logo="http://prinplay.com.br/server/Band.png" group-title="XXX - BRASIL 4",Band Tatuape
+#EXTINF:-1 tvg-id="Band(Portuguese).br" tvg-name="Band Tatuape" tvg-logo="http://prinplay.com.br/server/Band.png" group-title="XXX - BRASIL 4",Band Tatuape
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/913992.ts
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Canal Adult Swim" tvg-logo="http://prinplay.com.br/server/Tru%20TV.png" group-title="XXX - BRASIL 4",Canal Adult Swim
+#EXTINF:-1 tvg-id="AdultSwim(Portuguese).br" tvg-name="Canal Adult Swim" tvg-logo="http://prinplay.com.br/server/Tru%20TV.png" group-title="XXX - BRASIL 4",Canal Adult Swim
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2255.ts
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Canal Adult Swim FHD" tvg-logo="http://prinplay.com.br/server/Tru%20TV%20HD.png" group-title="XXX - BRASIL 4",Canal Adult Swim FHD
+#EXTINF:-1 tvg-id="AdultSwim(Portuguese).br" tvg-name="Canal Adult Swim FHD" tvg-logo="http://prinplay.com.br/server/Tru%20TV%20HD.png" group-title="XXX - BRASIL 4",Canal Adult Swim FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1870.ts
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Canal Adult Swim HD" tvg-logo="http://prinplay.com.br/server/Tru%20TV%20HD.png" group-title="XXX - BRASIL 4",Canal Adult Swim HD
+#EXTINF:-1 tvg-id="AdultSwim(Portuguese).br" tvg-name="Canal Adult Swim HD" tvg-logo="http://prinplay.com.br/server/Tru%20TV%20HD.png" group-title="XXX - BRASIL 4",Canal Adult Swim HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2256.ts
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="XXX - BRASIL 4",Cinecanal FHD
+#EXTINF:-1 tvg-id="Cinecanal(Portuguese).br" tvg-name="Cinecanal FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="XXX - BRASIL 4",Cinecanal FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902335.ts
-#EXTINF:-1 tvg-id="star.life.br" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="XXX - BRASIL 4",Cinecanal HD
+#EXTINF:-1 tvg-id="Cinecanal(Portuguese).br" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="XXX - BRASIL 4",Cinecanal HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902336.ts
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN Brasil FHDR" tvg-logo="http://prinplay.com.br/server/CNN%20Brasil.png" group-title="XXX - BRASIL 4",CNN Brasil FHDR
+#EXTINF:-1 tvg-id="CNNBrasil(Portuguese).br" tvg-name="CNN Brasil FHDR" tvg-logo="http://prinplay.com.br/server/CNN%20Brasil.png" group-title="XXX - BRASIL 4",CNN Brasil FHDR
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/915993.ts
-#EXTINF:-1 tvg-id="FRANCE 24 FR" tvg-name="France 24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYmO7DHPQlM0UELYX0CbdiAC-BH-F9dvucw&usqp=CAU" group-title="XXX - BRASIL 4",France 24 HD
+#EXTINF:-1 tvg-id="France24(French).br" tvg-name="France 24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYmO7DHPQlM0UELYX0CbdiAC-BH-F9dvucw&usqp=CAU" group-title="XXX - BRASIL 4",France 24 HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/914184.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GE Fast HD" tvg-logo="https://rpc-programacao-hotsites-podcasts.s3.amazonaws.com/wp-content/uploads/2020/08/28174745/logo-globoesporte2-2.png" group-title="XXX - BRASIL 4",GE Fast HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/930320.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo EPTV Sao Carlos" tvg-logo="http://prinplay.com.br/server/EPTV.png" group-title="XXX - BRASIL 4",Globo EPTV Sao Carlos
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo EPTV Sao Carlos" tvg-logo="http://prinplay.com.br/server/EPTV.png" group-title="XXX - BRASIL 4",Globo EPTV Sao Carlos
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1930.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo EPTV Sao Carlos HD" tvg-logo="http://prinplay.com.br/server/EPTV.png" group-title="XXX - BRASIL 4",Globo EPTV Sao Carlos HD
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo EPTV Sao Carlos HD" tvg-logo="http://prinplay.com.br/server/EPTV.png" group-title="XXX - BRASIL 4",Globo EPTV Sao Carlos HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902487.ts
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo Inter TV Cabugi" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="XXX - BRASIL 4",Globo Inter TV Cabugi
+#EXTINF:-1 tvg-id="InterTVCabugi(Portuguese).br" tvg-name="Globo Inter TV Cabugi" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="XXX - BRASIL 4",Globo Inter TV Cabugi
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902598.ts
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="XXX - BRASIL 4",Globo Inter TV Cabugi FHD
+#EXTINF:-1 tvg-id="InterTVCabugi(Portuguese).br" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="http://prinplay.com.br/server/Inter%20TV.png" group-title="XXX - BRASIL 4",Globo Inter TV Cabugi FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902597.ts
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News FHDR" tvg-logo="http://prinplay.com.br/server/Globo%20News%20HD.png" group-title="XXX - BRASIL 4",Globo News FHDR
+#EXTINF:-1 tvg-id="GloboNews(Portuguese).br" tvg-name="Globo News FHDR" tvg-logo="http://prinplay.com.br/server/Globo%20News%20HD.png" group-title="XXX - BRASIL 4",Globo News FHDR
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/914185.ts
-#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="Globo NSC TV Florianopolis" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="XXX - BRASIL 4",Globo NSC TV Florianopolis
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis(Portuguese).br" tvg-name="Globo NSC TV Florianopolis" tvg-logo="http://prinplay.com.br/server/NSC%20TV.png" group-title="XXX - BRASIL 4",Globo NSC TV Florianopolis
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1936.ts
-#EXTINF:-1 tvg-id="tv.anhanguera.palmas.br" tvg-name="Globo Palmas TO" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo Palmas TO
+#EXTINF:-1 tvg-id="TVAnhangueraPalmas(Portuguese).br" tvg-name="Globo Palmas TO" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo Palmas TO
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/918025.ts
-#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo Presidente Prudente FHD" tvg-logo="http://prinplay.com.br/server/TV%20Fronteira.png" group-title="XXX - BRASIL 4",Globo Presidente Prudente FHD
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br" tvg-name="Globo Presidente Prudente FHD" tvg-logo="http://prinplay.com.br/server/TV%20Fronteira.png" group-title="XXX - BRASIL 4",Globo Presidente Prudente FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902595.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Bagé" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Bagé
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo RBS Bagé" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Bagé
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901277.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Cruz Alta" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Cruz Alta
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo RBS Cruz Alta" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Cruz Alta
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901276.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS dos Vales" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS dos Vales
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo RBS dos Vales" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS dos Vales
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901273.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Erechim" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Erechim
+#EXTINF:-1 tvg-id="RBSTVRioGrande(Portuguese).br" tvg-name="Globo RBS Erechim" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Erechim
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901272.ts
-#EXTINF:-1 tvg-id="rbs.rio.grande.br" tvg-name="Globo RBS Porto Alegre" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Porto Alegre
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre(Portuguese).br" tvg-name="Globo RBS Porto Alegre" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Porto Alegre
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901493.ts
-#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="Globo RBS Porto Alegre FHD" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Porto Alegre FHD
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre(Portuguese).br" tvg-name="Globo RBS Porto Alegre FHD" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Porto Alegre FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901491.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Rio Grande" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Rio Grande
+#EXTINF:-1 tvg-id="RBSTVRioGrande(Portuguese).br" tvg-name="Globo RBS Rio Grande" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Rio Grande
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901275.ts
-#EXTINF:-1 tvg-id="rbs.santa.maria.br" tvg-name="Globo RBS Santa Maria" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Santa Maria
+#EXTINF:-1 tvg-id="RBSTVRioGrande(Portuguese).br" tvg-name="Globo RBS Santa Maria" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Santa Maria
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901278.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS Santa Rosa" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Santa Rosa
+#EXTINF:-1 tvg-id="RBSTVRioGrande(Portuguese).br" tvg-name="Globo RBS Santa Rosa" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS Santa Rosa
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901274.ts
-#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS TV POA FHD
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS TV POA FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1984.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo RBS TV Uruguaiana" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS TV Uruguaiana
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo RBS TV Uruguaiana" tvg-logo="http://prinplay.com.br/server/RBS%20TV.png" group-title="XXX - BRASIL 4",Globo RBS TV Uruguaiana
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901124.ts
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Globo Rede Amazonica Ariquemes" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Ariquemes
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus(Portuguese).br" tvg-name="Globo Rede Amazonica Ariquemes" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Ariquemes
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901125.ts
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Globo Rede Amazonica Cruzeiro do Sul" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Cruzeiro do Sul
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus(Portuguese).br" tvg-name="Globo Rede Amazonica Cruzeiro do Sul" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Cruzeiro do Sul
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901126.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Rede Amazonica Guajara Mirim" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Guajara Mirim
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo Rede Amazonica Guajara Mirim" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Guajara Mirim
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901127.ts
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="Globo Rede Amazonica Itacoatiara" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Itacoatiara
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus(Portuguese).br" tvg-name="Globo Rede Amazonica Itacoatiara" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Itacoatiara
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901128.ts
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="Globo Rede Amazonica Ji-Parana" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Ji-Parana
+#EXTINF:-1 tvg-id="RedeAmazonicaRioBranco(Portuguese).br" tvg-name="Globo Rede Amazonica Ji-Parana" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Ji-Parana
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901129.ts
-#EXTINF:-1 tvg-id="tv.macapa.br" tvg-name="Globo Rede Amazonica Macapa" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Macapa
+#EXTINF:-1 tvg-id="TVMacapa(Portuguese).br" tvg-name="Globo Rede Amazonica Macapa" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Macapa
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901130.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Rede Amazonica Parinstins" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Parinstins
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo Rede Amazonica Parinstins" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Parinstins
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901131.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo Rede Amazonica Vilhena" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Vilhena
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo Rede Amazonica Vilhena" tvg-logo="http://prinplay.com.br/server/Rede%20Amaz%C3%B4nica.png" group-title="XXX - BRASIL 4",Globo Rede Amazonica Vilhena
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901132.ts
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Guarapuava" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="XXX - BRASIL 4",Globo RPC Guarapuava
+#EXTINF:-1 tvg-id="RPCCuritiba(Portuguese).br" tvg-name="Globo RPC Guarapuava" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="XXX - BRASIL 4",Globo RPC Guarapuava
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901279.ts
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Londrina.png" group-title="XXX - BRASIL 4",Globo RPC Londrina
+#EXTINF:-1 tvg-id="RPCCuritiba(Portuguese).br" tvg-name="Globo RPC Londrina" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Londrina.png" group-title="XXX - BRASIL 4",Globo RPC Londrina
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902604.ts
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina FHD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="XXX - BRASIL 4",Globo RPC Londrina FHD
+#EXTINF:-1 tvg-id="RPCCuritiba(Portuguese).br" tvg-name="Globo RPC Londrina FHD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Curitiba.png" group-title="XXX - BRASIL 4",Globo RPC Londrina FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901280.ts
-#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="Globo RPC Londrina HD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Londrina.png" group-title="XXX - BRASIL 4",Globo RPC Londrina HD
+#EXTINF:-1 tvg-id="RPCCuritiba(Portuguese).br" tvg-name="Globo RPC Londrina HD" tvg-logo="http://prinplay.com.br/server/RPC%20TV%20Londrina.png" group-title="XXX - BRASIL 4",Globo RPC Londrina HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902601.ts
-#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera Jatai" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo TV Anhanguera Jatai
+#EXTINF:-1 tvg-id="TVAnhanguera(Portuguese).br" tvg-name="Globo TV Anhanguera Jatai" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo TV Anhanguera Jatai
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901010.ts
-#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera Jatai HD" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo TV Anhanguera Jatai HD
+#EXTINF:-1 tvg-id="TVAnhanguera(Portuguese).br" tvg-name="Globo TV Anhanguera Jatai HD" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo TV Anhanguera Jatai HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901009.ts
-#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera Luziania" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo TV Anhanguera Luziania
+#EXTINF:-1 tvg-id="TVAnhanguera(Portuguese).br" tvg-name="Globo TV Anhanguera Luziania" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo TV Anhanguera Luziania
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901008.ts
-#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera Luziania HD" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo TV Anhanguera Luziania HD
+#EXTINF:-1 tvg-id="TVAnhanguera(Portuguese).br" tvg-name="Globo TV Anhanguera Luziania HD" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo TV Anhanguera Luziania HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901007.ts
-#EXTINF:-1 tvg-id="tv.anhanguera.br" tvg-name="Globo TV Anhanguera Rio Verde" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo TV Anhanguera Rio Verde
+#EXTINF:-1 tvg-id="TVAnhanguera(Portuguese).br" tvg-name="Globo TV Anhanguera Rio Verde" tvg-logo="http://prinplay.com.br/server/TV%20Anhanguera.png" group-title="XXX - BRASIL 4",Globo TV Anhanguera Rio Verde
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901006.ts
-#EXTINF:-1 tvg-id="tv.liberal.br" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="XXX - BRASIL 4",Globo TV Liberal Belem FHD
+#EXTINF:-1 tvg-id="TVLiberal(Portuguese).br" tvg-name="Globo TV Liberal Belem FHD" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="XXX - BRASIL 4",Globo TV Liberal Belem FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902484.ts
-#EXTINF:-1 tvg-id="tv.liberal.br" tvg-name="Globo TV Liberal Belem HD" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="XXX - BRASIL 4",Globo TV Liberal Belem HD
+#EXTINF:-1 tvg-id="TVLiberal(Portuguese).br" tvg-name="Globo TV Liberal Belem HD" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="XXX - BRASIL 4",Globo TV Liberal Belem HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902485.ts
-#EXTINF:-1 tvg-id="tv.liberal.br" tvg-name="Globo TV Liberal Castanhal" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="XXX - BRASIL 4",Globo TV Liberal Castanhal
+#EXTINF:-1 tvg-id="TVLiberal(Portuguese).br" tvg-name="Globo TV Liberal Castanhal" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="XXX - BRASIL 4",Globo TV Liberal Castanhal
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901133.ts
-#EXTINF:-1 tvg-id="tv.liberal.br" tvg-name="Globo TV Liberal Redencao" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="XXX - BRASIL 4",Globo TV Liberal Redencao
+#EXTINF:-1 tvg-id="TVLiberal(Portuguese).br" tvg-name="Globo TV Liberal Redencao" tvg-logo="http://prinplay.com.br/server/TV%20Liberal.png" group-title="XXX - BRASIL 4",Globo TV Liberal Redencao
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/910507.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Mirante Balsas" tvg-logo="http://prinplay.com.br/server/TV%20Mirante.png" group-title="XXX - BRASIL 4",Globo TV Mirante Balsas
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo TV Mirante Balsas" tvg-logo="http://prinplay.com.br/server/TV%20Mirante.png" group-title="XXX - BRASIL 4",Globo TV Mirante Balsas
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901134.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Mirante Imperatriz" tvg-logo="http://prinplay.com.br/server/TV%20Mirante.png" group-title="XXX - BRASIL 4",Globo TV Mirante Imperatriz
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo TV Mirante Imperatriz" tvg-logo="http://prinplay.com.br/server/TV%20Mirante.png" group-title="XXX - BRASIL 4",Globo TV Mirante Imperatriz
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901135.ts
-#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena Corumba" tvg-logo="http://prinplay.com.br/server/TV%20Morena.png" group-title="XXX - BRASIL 4",Globo TV Morena Corumba
+#EXTINF:-1 tvg-id="TVMorena(Portuguese).br" tvg-name="Globo TV Morena Corumba" tvg-logo="http://prinplay.com.br/server/TV%20Morena.png" group-title="XXX - BRASIL 4",Globo TV Morena Corumba
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901013.ts
-#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="Globo TV Morena Ponta Pora" tvg-logo="http://prinplay.com.br/server/TV%20Morena.png" group-title="XXX - BRASIL 4",Globo TV Morena Ponta Pora
+#EXTINF:-1 tvg-id="TVMorena(Portuguese).br" tvg-name="Globo TV Morena Ponta Pora" tvg-logo="http://prinplay.com.br/server/TV%20Morena.png" group-title="XXX - BRASIL 4",Globo TV Morena Ponta Pora
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901014.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Tem Bauru FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="XXX - BRASIL 4",Globo TV Tem Bauru FHD
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo TV Tem Bauru FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="XXX - BRASIL 4",Globo TV Tem Bauru FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901862.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Tem Itapetininga" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="XXX - BRASIL 4",Globo TV Tem Itapetininga
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo TV Tem Itapetininga" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="XXX - BRASIL 4",Globo TV Tem Itapetininga
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902489.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Tem Itapetininga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="XXX - BRASIL 4",Globo TV Tem Itapetininga FHD
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo TV Tem Itapetininga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="XXX - BRASIL 4",Globo TV Tem Itapetininga FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902488.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Vanguarda SJ Campos" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda SJ Campos
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo TV Vanguarda SJ Campos" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda SJ Campos
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1961.ts
-#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo TV Vanguarda SJ Campos FHD" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda SJ Campos FHD
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br" tvg-name="Globo TV Vanguarda SJ Campos FHD" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda SJ Campos FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902599.ts
-#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo TV Vanguarda SJ Campos HD" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda SJ Campos HD
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo TV Vanguarda SJ Campos HD" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda SJ Campos HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/39455.ts
-#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo TV Vanguarda Taubate" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda Taubate
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo TV Vanguarda Taubate" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda Taubate
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902600.ts
-#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo TV Vanguarda Taubate FHD" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda Taubate FHD
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br" tvg-name="Globo TV Vanguarda Taubate FHD" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda Taubate FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/61265.ts
-#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo TV Vanguarda Taubate HD" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda Taubate HD
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br" tvg-name="Globo TV Vanguarda Taubate HD" tvg-logo="http://prinplay.com.br/server/TV%20Vanguarda.png" group-title="XXX - BRASIL 4",Globo TV Vanguarda Taubate HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/61266.ts
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi LEG" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="XXX - BRASIL 4",HBO Mundi LEG
+#EXTINF:-1 tvg-id="HBOMundi(Portuguese).br" tvg-name="HBO Mundi LEG" tvg-logo="http://prinplay.com.br/server/HBO%20Mundi.png" group-title="XXX - BRASIL 4",HBO Mundi LEG
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901856.ts
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature LEG" tvg-logo="http://prinplay.com.br/server/HBO%20Signature.png" group-title="XXX - BRASIL 4",HBO Signature LEG
+#EXTINF:-1 tvg-id="HBOSignature(Portuguese).br" tvg-name="HBO Signature LEG" tvg-logo="http://prinplay.com.br/server/HBO%20Signature.png" group-title="XXX - BRASIL 4",HBO Signature LEG
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901857.ts
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme LEG" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="XXX - BRASIL 4",HBO Xtreme LEG
+#EXTINF:-1 tvg-id="HBOXtreme(Portuguese).br" tvg-name="HBO Xtreme LEG" tvg-logo="http://prinplay.com.br/server/HBO%20Xtreme.png" group-title="XXX - BRASIL 4",HBO Xtreme LEG
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901858.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jovem Pan News FHDR" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" group-title="XXX - BRASIL 4",Jovem Pan News FHDR
+#EXTINF:-1 tvg-id="JovemPanNews(Portuguese).br" tvg-name="Jovem Pan News FHDR" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2" group-title="XXX - BRASIL 4",Jovem Pan News FHDR
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/915992.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Modo Viagem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="XXX - BRASIL 4",Modo Viagem
+#EXTINF:-1 tvg-id="ModoViagem(Portuguese).br" tvg-name="Modo Viagem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="XXX - BRASIL 4",Modo Viagem
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/928401.ts
-#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="XXX - BRASIL 4",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetwork(Portuguese).br" tvg-name="Paramount Network" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="XXX - BRASIL 4",Paramount Network
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901883.ts
-#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network FHD" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="XXX - BRASIL 4",Paramount Network FHD
+#EXTINF:-1 tvg-id="ParamountNetwork(Portuguese).br" tvg-name="Paramount Network FHD" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="XXX - BRASIL 4",Paramount Network FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901881.ts
-#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network HD" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="XXX - BRASIL 4",Paramount Network HD
+#EXTINF:-1 tvg-id="ParamountNetwork(Portuguese).br" tvg-name="Paramount Network HD" tvg-logo="http://prinplay.com.br/server/Paramount%20Network.png" group-title="XXX - BRASIL 4",Paramount Network HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901882.ts
-#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="http://prinplay.com.br/server/Premiere%202.png" group-title="XXX - BRASIL 4",Premiere 2
+#EXTINF:-1 tvg-id="Premiere2(Portuguese).br" tvg-name="Premiere 2" tvg-logo="http://prinplay.com.br/server/Premiere%202.png" group-title="XXX - BRASIL 4",Premiere 2
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/904121.ts
-#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil Alternativo" tvg-logo="http://prinplay.com.br/server/Prime%20Box%20Brazil.png" group-title="XXX - BRASIL 4",Prime Box Brasil Alternativo
+#EXTINF:-1 tvg-id="PrimeBoxBrazil(Portuguese).br" tvg-name="Prime Box Brasil Alternativo" tvg-logo="http://prinplay.com.br/server/Prime%20Box%20Brazil.png" group-title="XXX - BRASIL 4",Prime Box Brasil Alternativo
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1164.ts
-#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record BA" tvg-logo="http://prinplay.com.br/server/Record%20Itapoan.png" group-title="XXX - BRASIL 4",Record BA
+#EXTINF:-1 tvg-id="RECORDBahia(Portuguese).br" tvg-name="Record BA" tvg-logo="http://prinplay.com.br/server/Record%20Itapoan.png" group-title="XXX - BRASIL 4",Record BA
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2282.ts
-#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="Record BA HD" tvg-logo="http://prinplay.com.br/server/Record%20Itapoan.png" group-title="XXX - BRASIL 4",Record BA HD
+#EXTINF:-1 tvg-id="RECORDBahia(Portuguese).br" tvg-name="Record BA HD" tvg-logo="http://prinplay.com.br/server/Record%20Itapoan.png" group-title="XXX - BRASIL 4",Record BA HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2281.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record Belem" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Belem
+#EXTINF:-1 tvg-id="RECORDBelem(Portuguese).br" tvg-name="Record Belem" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Belem
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/10931.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record Campinas" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Campinas
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record Campinas" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Campinas
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/19845.ts
-#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record DF" tvg-logo="http://prinplay.com.br/server/Record%20Bras%C3%ADlia.png" group-title="XXX - BRASIL 4",Record DF
+#EXTINF:-1 tvg-id="RECORDBrasilia(Portuguese).br" tvg-name="Record DF" tvg-logo="http://prinplay.com.br/server/Record%20Bras%C3%ADlia.png" group-title="XXX - BRASIL 4",Record DF
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2284.ts
-#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="Record DF HD" tvg-logo="http://prinplay.com.br/server/Record%20Bras%C3%ADlia.png" group-title="XXX - BRASIL 4",Record DF HD
+#EXTINF:-1 tvg-id="RECORDBrasilia(Portuguese).br" tvg-name="Record DF HD" tvg-logo="http://prinplay.com.br/server/Record%20Bras%C3%ADlia.png" group-title="XXX - BRASIL 4",Record DF HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2283.ts
-#EXTINF:-1 tvg-id="record.goias.br" tvg-name="Record GO" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record GO
+#EXTINF:-1 tvg-id="RECORDGoias(Portuguese).br" tvg-name="Record GO" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record GO
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/10933.ts
-#EXTINF:-1 tvg-id="record.goias.br" tvg-name="Record GO FHD" tvg-logo="http://prinplay.com.br/server/Record%20HD.png" group-title="XXX - BRASIL 4",Record GO FHD
+#EXTINF:-1 tvg-id="RECORDGoias(Portuguese).br" tvg-name="Record GO FHD" tvg-logo="http://prinplay.com.br/server/Record%20HD.png" group-title="XXX - BRASIL 4",Record GO FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/914179.ts
-#EXTINF:-1 tvg-id="record.goias.br" tvg-name="Record GO HD" tvg-logo="http://prinplay.com.br/server/Record%20HD.png" group-title="XXX - BRASIL 4",Record GO HD
+#EXTINF:-1 tvg-id="RECORDGoias(Portuguese).br" tvg-name="Record GO HD" tvg-logo="http://prinplay.com.br/server/Record%20HD.png" group-title="XXX - BRASIL 4",Record GO HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/10932.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record Manaus" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Manaus
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record Manaus" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Manaus
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/913837.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record Maranhao" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Maranhao
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record Maranhao" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Maranhao
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/914221.ts
-#EXTINF:-1 tvg-id="record.minas.br" tvg-name="Record MG" tvg-logo="http://prinplay.com.br/server/Record%20Minas.png" group-title="XXX - BRASIL 4",Record MG
+#EXTINF:-1 tvg-id="RECORDMinas(Portuguese).br" tvg-name="Record MG" tvg-logo="http://prinplay.com.br/server/Record%20Minas.png" group-title="XXX - BRASIL 4",Record MG
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2277.ts
-#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News FHDR" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="XXX - BRASIL 4",Record News FHDR
+#EXTINF:-1 tvg-id="RecordNews(Portuguese).br" tvg-name="Record News FHDR" tvg-logo="http://prinplay.com.br/server/Record%20News.png" group-title="XXX - BRASIL 4",Record News FHDR
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/915994.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record Parana" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Parana
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record Parana" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Parana
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/50847.ts
 #EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="Record Portugal HD" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Portugal HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2436.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record Rio Preto" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Rio Preto
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record Rio Preto" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Rio Preto
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/913841.ts
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record RJ" tvg-logo="http://prinplay.com.br/server/Record%20Rio.png" group-title="XXX - BRASIL 4",Record RJ
+#EXTINF:-1 tvg-id="RECORDRio(Portuguese).br" tvg-name="Record RJ" tvg-logo="http://prinplay.com.br/server/Record%20Rio.png" group-title="XXX - BRASIL 4",Record RJ
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2275.ts
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record RJ Alternativo" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record RJ Alternativo
+#EXTINF:-1 tvg-id="RECORDRio(Portuguese).br" tvg-name="Record RJ Alternativo" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record RJ Alternativo
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/61275.ts
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record RJ Alternativo HD" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record RJ Alternativo HD
+#EXTINF:-1 tvg-id="RECORDRio(Portuguese).br" tvg-name="Record RJ Alternativo HD" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record RJ Alternativo HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/61274.ts
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record RJ FHD" tvg-logo="http://prinplay.com.br/server/Record%20HD.png" group-title="XXX - BRASIL 4",Record RJ FHD
+#EXTINF:-1 tvg-id="RECORDRio(Portuguese).br" tvg-name="Record RJ FHD" tvg-logo="http://prinplay.com.br/server/Record%20HD.png" group-title="XXX - BRASIL 4",Record RJ FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/898378.ts
-#EXTINF:-1 tvg-id="record.rio.br" tvg-name="Record RJ Interior" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record RJ Interior
+#EXTINF:-1 tvg-id="RECORDRio(Portuguese).br" tvg-name="Record RJ Interior" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record RJ Interior
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/913839.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record Rondonia" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Rondonia
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record Rondonia" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Rondonia
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/913995.ts
-#EXTINF:-1 tvg-id="record.rs.br" tvg-name="Record RS" tvg-logo="http://prinplay.com.br/server/Record%20RS.png" group-title="XXX - BRASIL 4",Record RS
+#EXTINF:-1 tvg-id="RECORDRS(Portuguese).br" tvg-name="Record RS" tvg-logo="http://prinplay.com.br/server/Record%20RS.png" group-title="XXX - BRASIL 4",Record RS
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2286.ts
-#EXTINF:-1 tvg-id="record.florianopolis.br" tvg-name="Record Santa Catarina" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Santa Catarina
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record Santa Catarina" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Santa Catarina
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/16606.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SJRP" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SJRP
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record SJRP" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SJRP
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/13195.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record SP" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1899.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP Alternativo" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP Alternativo
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record SP Alternativo" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP Alternativo
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1165.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP Alternativo HD" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP Alternativo HD
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record SP Alternativo HD" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP Alternativo HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/1278.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP FHDR" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP FHDR
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record SP FHDR" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP FHDR
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/914186.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP HD2" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP HD2
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record SP HD2" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP HD2
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2203.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP Interior" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP Interior
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record SP Interior" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP Interior
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/913838.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record SP2" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP2
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record SP2" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record SP2
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2202.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV Cabralia" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record TV Cabralia
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record TV Cabralia" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record TV Cabralia
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/914180.ts
-#EXTINF:-1 tvg-id="tv.cidade.br" tvg-name="Record TV Cidade" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record TV Cidade
+#EXTINF:-1 tvg-id="TVCidade(Portuguese).br" tvg-name="Record TV Cidade" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record TV Cidade
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/906279.ts
-#EXTINF:-1 tvg-id="tv.cidade.br" tvg-name="Record TV Cidade HD" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record TV Cidade HD
+#EXTINF:-1 tvg-id="TVCidade(Portuguese).br" tvg-name="Record TV Cidade HD" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record TV Cidade HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/906278.ts
-#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV Correio" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record TV Correio
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record TV Correio" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record TV Correio
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/903321.ts
-#EXTINF:-1 tvg-id="record.itapoan.br" tvg-name="Record TV Itapoan" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record TV Itapoan
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record TV Itapoan" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record TV Itapoan
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/61302.ts
-#EXTINF:-1 tvg-id="record.minas.br" tvg-name="Record Vale do Parnaiba" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Vale do Parnaiba
+#EXTINF:-1 tvg-id="RECORDMinas(Portuguese).br" tvg-name="Record Vale do Parnaiba" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Vale do Parnaiba
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/913994.ts
-#EXTINF:-1 tvg-id="record.campo.grande.br" tvg-name="Record Vila Real" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Vila Real
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br" tvg-name="Record Vila Real" tvg-logo="http://prinplay.com.br/server/Record.png" group-title="XXX - BRASIL 4",Record Vila Real
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/913840.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Rede Massa" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT Rede Massa
+#EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="SBT Rede Massa" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT Rede Massa
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/897996.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Alterosa" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Alterosa
+#EXTINF:-1 tvg-id="TVAlterosa(Portuguese).br" tvg-name="SBT TV Alterosa" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Alterosa
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/50848.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Alterosa FHD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Alterosa FHD
+#EXTINF:-1 tvg-id="TVAlterosa(Portuguese).br" tvg-name="SBT TV Alterosa FHD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Alterosa FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/914181.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Alterosa HD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Alterosa HD
+#EXTINF:-1 tvg-id="TVAlterosa(Portuguese).br" tvg-name="SBT TV Alterosa HD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Alterosa HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/914182.ts
-#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV Jangadeiro" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Jangadeiro
+#EXTINF:-1 tvg-id="TVJangadeiro(Portuguese).br" tvg-name="SBT TV Jangadeiro" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Jangadeiro
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/905384.ts
-#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV Jangadeiro FHD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Jangadeiro FHD
+#EXTINF:-1 tvg-id="TVJangadeiro(Portuguese).br" tvg-name="SBT TV Jangadeiro FHD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Jangadeiro FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/905382.ts
-#EXTINF:-1 tvg-id="tv.jangadeiro.br" tvg-name="SBT TV Jangadeiro HD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Jangadeiro HD
+#EXTINF:-1 tvg-id="TVJangadeiro(Portuguese).br" tvg-name="SBT TV Jangadeiro HD" tvg-logo="http://prinplay.com.br/server/SBT.png" group-title="XXX - BRASIL 4",SBT TV Jangadeiro HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/905383.ts
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel LEG" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="XXX - BRASIL 4",Sony Channel LEG
+#EXTINF:-1 tvg-id="SonyChannel(Portuguese).br" tvg-name="Sony Channel LEG" tvg-logo="http://prinplay.com.br/server/Sony%20Channel.png" group-title="XXX - BRASIL 4",Sony Channel LEG
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901854.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHDR" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="XXX - BRASIL 4",SporTV FHDR
+#EXTINF:-1 tvg-id="sportv(Portuguese).br" tvg-name="SporTV FHDR" tvg-logo="http://prinplay.com.br/server/SporTV.png" group-title="XXX - BRASIL 4",SporTV FHDR
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901869.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas" tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="XXX - BRASIL 4",TNT Novelas
+#EXTINF:-1 tvg-id="TNTNovelas(Portuguese).br" tvg-name="TNT Novelas" tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="XXX - BRASIL 4",TNT Novelas
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/908274.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas FHD" tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="XXX - BRASIL 4",TNT Novelas FHD
+#EXTINF:-1 tvg-id="TNTNovelas(Portuguese).br" tvg-name="TNT Novelas FHD" tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="XXX - BRASIL 4",TNT Novelas FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/908272.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Novelas HD" tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="XXX - BRASIL 4",TNT Novelas HD
+#EXTINF:-1 tvg-id="TNTNovelas(Portuguese).br" tvg-name="TNT Novelas HD" tvg-logo="https://forounivers.com/uploads/monthly_2023_04/large.TNTNovelas.png.eafd36d4085706c84dd91957d05f3dca.png" group-title="XXX - BRASIL 4",TNT Novelas HD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/908273.ts
-#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series LG" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries.png" group-title="XXX - BRASIL 4",TNT Series LG
+#EXTINF:-1 tvg-id="TNTSeries(English).br" tvg-name="TNT Series LG" tvg-logo="http://prinplay.com.br/server/TNT%20S%C3%A9ries.png" group-title="XXX - BRASIL 4",TNT Series LG
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/901861.ts
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="http://prinplay.com.br/server/TV%20Aparecida.png" group-title="XXX - BRASIL 4",TV Aparecida FHD
+#EXTINF:-1 tvg-id="TVAparecida(Portuguese).br" tvg-name="TV Aparecida FHD" tvg-logo="http://prinplay.com.br/server/TV%20Aparecida.png" group-title="XXX - BRASIL 4",TV Aparecida FHD
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/902331.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Cultura PA" tvg-logo="http://prinplay.com.br/server/Cultura.png" group-title="XXX - BRASIL 4",TV Cultura PA
+#EXTINF:-1 tvg-id="Cultura(Portuguese).br" tvg-name="TV Cultura PA" tvg-logo="http://prinplay.com.br/server/Cultura.png" group-title="XXX - BRASIL 4",TV Cultura PA
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/928412.ts
-#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV Justica" tvg-logo="http://prinplay.com.br/server/TV%20Justi%C3%A7a.png" group-title="XXX - BRASIL 4",TV Justica
+#EXTINF:-1 tvg-id="TVJUSTICA(Portuguese).br" tvg-name="TV Justica" tvg-logo="http://prinplay.com.br/server/TV%20Justi%C3%A7a.png" group-title="XXX - BRASIL 4",TV Justica
 http://dns.acaidopara.net:8080/live/XoYJquObVf/y20ss9qUSL/2247.ts
-# Atualizado em Sat Mar  8 15:23:38 UTC 2025
+# Atualizado em Sat Mar  8 21:22:06 UTC 2025
