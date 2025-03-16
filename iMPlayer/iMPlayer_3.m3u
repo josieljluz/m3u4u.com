@@ -731,7 +731,7 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/10615.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/44285.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo News BR" tvg-logo="" group-title="Brazil",Globo News BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/14335.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo Nordeste BR" tvg-logo="" group-title="Brazil",Globo Nordeste BR
+#EXTINF:-1 tvg-id="GloboNordeste(Portuguese).br" tvg-name="Globo Nordeste BR" tvg-logo="" group-title="Brazil",Globo Nordeste BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/14334.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo MINAS HD BR" tvg-logo="" group-title="Brazil",Globo MINAS HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/14333.m3u8
@@ -789,7 +789,7 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/14327.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/14326.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal TV BR" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/universal-uk.png?raw=true" group-title="Brazil",Universal TV BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3385.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio Universal HD BR" tvg-logo="" group-title="Brazil",Studio Universal HD BR
+#EXTINF:-1 tvg-id="StudioUniversal(Portuguese).br" tvg-name="Studio Universal HD BR" tvg-logo="" group-title="Brazil",Studio Universal HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3370.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Woohoo HD BR" tvg-logo="" group-title="Brazil",Woohoo HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3377.m3u8
@@ -811,7 +811,7 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75482.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75483.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE 7 HD BR" tvg-logo="" group-title="Brazil",PREMIERE 7 HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75484.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo HD BR" tvg-logo="" group-title="Brazil",Discovery Turbo HD BR
+#EXTINF:-1 tvg-id="DiscoveryTurbo(Portuguese).br" tvg-name="Discovery Turbo HD BR" tvg-logo="" group-title="Brazil",Discovery Turbo HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78329.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E FHD BR" tvg-logo="" group-title="Brazil",A&E FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79966.m3u8
@@ -835,33 +835,33 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79974.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79975.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Brasil HD BR" tvg-logo="" group-title="Brazil",Canal Brasil HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79976.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK HD BR" tvg-logo="http://tugapt.com/picons/cartoonnetworkse.png" group-title="Brazil",CARTOON NETWORK HD BR
+#EXTINF:-1 tvg-id="CartoonNetwork(Portuguese).br" tvg-name="CARTOON NETWORK HD BR" tvg-logo="http://tugapt.com/picons/cartoonnetworkse.png" group-title="Brazil",CARTOON NETWORK HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79977.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMAX HD BR" tvg-logo="" group-title="Brazil",CINEMAX HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79978.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMBATE FHD BR" tvg-logo="" group-title="Brazil",COMBATE FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79979.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COMEDY CENTRAL FHD BR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="Brazil",COMEDY CENTRAL FHD BR
+#EXTINF:-1 tvg-id="ComedyCentral(Portuguese).br" tvg-name="COMEDY CENTRAL FHD BR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="Brazil",COMEDY CENTRAL FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79980.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CULTURA HD BR" tvg-logo="" group-title="Brazil",CULTURA HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79981.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CURTA! HD BR" tvg-logo="" group-title="Brazil",CURTA! HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79982.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL HD BR" tvg-logo="" group-title="Brazil",DISCOVERY CHANNEL HD BR
+#EXTINF:-1 tvg-id="DiscoveryChannel(Portuguese).br" tvg-name="DISCOVERY CHANNEL HD BR" tvg-logo="" group-title="Brazil",DISCOVERY CHANNEL HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79983.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CIVILIZATION HD BR" tvg-logo="" group-title="Brazil",DISCOVERY CIVILIZATION HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79984.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY HOME & HEALTH FHD BR" tvg-logo="" group-title="Brazil",DISCOVERY HOME & HEALTH FHD BR
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth(Portuguese).br" tvg-name="DISCOVERY HOME & HEALTH FHD BR" tvg-logo="" group-title="Brazil",DISCOVERY HOME & HEALTH FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79985.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY KIDS HD BR" tvg-logo="" group-title="Brazil",DISCOVERY KIDS HD BR
+#EXTINF:-1 tvg-id="DiscoveryKids(Portuguese).br" tvg-name="DISCOVERY KIDS HD BR" tvg-logo="" group-title="Brazil",DISCOVERY KIDS HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79986.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE HD BR" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-science-uk.png?raw=true" group-title="Brazil",DISCOVERY SCIENCE HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79987.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY THEATER HD BR" tvg-logo="" group-title="Brazil",DISCOVERY THEATER HD BR
+#EXTINF:-1 tvg-id="DiscoveryTheater(Portuguese).br" tvg-name="DISCOVERY THEATER HD BR" tvg-logo="" group-title="Brazil",DISCOVERY THEATER HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79988.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TLC HD BR" tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="Brazil",DISCOVERY TLC HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79989.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD HD BR" tvg-logo="" group-title="Brazil",DISCOVERY WORLD HD BR
+#EXTINF:-1 tvg-id="DiscoveryWorld(Portuguese).br" tvg-name="DISCOVERY WORLD HD BR" tvg-logo="" group-title="Brazil",DISCOVERY WORLD HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79990.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL FHD BR" tvg-logo="" group-title="Brazil",DISNEY CHANNEL FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/79991.m3u8
@@ -911,7 +911,7 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80018.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80019.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO NEWS FHD BR" tvg-logo="" group-title="Brazil",GLOBO NEWS FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80020.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO NORDESTE HD BR" tvg-logo="" group-title="Brazil",GLOBO NORDESTE HD BR
+#EXTINF:-1 tvg-id="GloboNordeste(Portuguese).br" tvg-name="GLOBO NORDESTE HD BR" tvg-logo="" group-title="Brazil",GLOBO NORDESTE HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80021.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RBS PORTO ALEGRE BR" tvg-logo="" group-title="Brazil",GLOBO RBS PORTO ALEGRE BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80022.m3u8
@@ -949,7 +949,7 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80037.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80038.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO PLUS HD BR" tvg-logo="" group-title="Brazil",HBO PLUS HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80039.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO SIGNATURE FHD BR" tvg-logo="" group-title="Brazil",HBO SIGNATURE FHD BR
+#EXTINF:-1 tvg-id="HBOSignature(Portuguese).br" tvg-name="HBO SIGNATURE FHD BR" tvg-logo="" group-title="Brazil",HBO SIGNATURE FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80040.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID FHD BR" tvg-logo="" group-title="Brazil",ID FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80042.m3u8
@@ -969,15 +969,15 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80048.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80049.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO KIDS HD BR" tvg-logo="" group-title="Brazil",NAT GEO KIDS HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80050.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEOGRAPHIC HD BR" tvg-logo="http://tugapt.com/picons/nationalgeographichdde.png" group-title="Brazil",NATIONAL GEOGRAPHIC HD BR
+#EXTINF:-1 tvg-id="NationalGeographic(Portuguese).br" tvg-name="NATIONAL GEOGRAPHIC HD BR" tvg-logo="http://tugapt.com/picons/nationalgeographichdde.png" group-title="Brazil",NATIONAL GEOGRAPHIC HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80052.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK JR HD BR" tvg-logo="" group-title="Brazil",NICK JR HD BR
+#EXTINF:-1 tvg-id="NickJr(Portuguese).br" tvg-name="NICK JR HD BR" tvg-logo="" group-title="Brazil",NICK JR HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80053.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICKELODEON HD BR" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="Brazil",NICKELODEON HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80054.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OFF HD BR" tvg-logo="" group-title="Brazil",OFF HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80055.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PARAMOUNT CHANNEL HD BR" tvg-logo="" group-title="Brazil",PARAMOUNT CHANNEL HD BR
+#EXTINF:-1 tvg-id="ParamountChannel(Portuguese).br" tvg-name="PARAMOUNT CHANNEL HD BR" tvg-logo="" group-title="Brazil",PARAMOUNT CHANNEL HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80056.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE CLUBES HD BR" tvg-logo="" group-title="Brazil",PREMIERE CLUBES HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80057.m3u8
@@ -1017,7 +1017,7 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80073.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80074.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTV 3 HD BR" tvg-logo="" group-title="Brazil",SPORTV 3 HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80075.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STUDIO UNIVERSAL FHD BR" tvg-logo="" group-title="Brazil",STUDIO UNIVERSAL FHD BR
+#EXTINF:-1 tvg-id="StudioUniversal(Portuguese).br" tvg-name="STUDIO UNIVERSAL FHD BR" tvg-logo="" group-title="Brazil",STUDIO UNIVERSAL FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80076.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY HD BR" tvg-logo="" group-title="Brazil",SYFY HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80077.m3u8
@@ -1025,17 +1025,17 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80077.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80078.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM HD BR" tvg-logo="" group-title="Brazil",TCM HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80079.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE ACTION FHD BR" tvg-logo="" group-title="Brazil",TELECINE ACTION FHD BR
+#EXTINF:-1 tvg-id="TelecineAction(Portuguese).br" tvg-name="TELECINE ACTION FHD BR" tvg-logo="" group-title="Brazil",TELECINE ACTION FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80080.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE CULT HD BR" tvg-logo="" group-title="Brazil",TELECINE CULT HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80081.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE FUN FHD BR" tvg-logo="" group-title="Brazil",TELECINE FUN FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80082.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE PIPOCA HD BR" tvg-logo="" group-title="Brazil",TELECINE PIPOCA HD BR
+#EXTINF:-1 tvg-id="TelecinePipoca(Portuguese).br" tvg-name="TELECINE PIPOCA HD BR" tvg-logo="" group-title="Brazil",TELECINE PIPOCA HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80083.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE PREMIUM HD BR" tvg-logo="" group-title="Brazil",TELECINE PREMIUM HD BR
+#EXTINF:-1 tvg-id="TelecinePremium(Portuguese).br" tvg-name="TELECINE PREMIUM HD BR" tvg-logo="" group-title="Brazil",TELECINE PREMIUM HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80084.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECINE TOUCH HD BR" tvg-logo="" group-title="Brazil",TELECINE TOUCH HD BR
+#EXTINF:-1 tvg-id="TelecineTouch(Portuguese).br" tvg-name="TELECINE TOUCH HD BR" tvg-logo="" group-title="Brazil",TELECINE TOUCH HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80085.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVA HD BR" tvg-logo="" group-title="Brazil",VIVA HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80086.m3u8
@@ -1091,21 +1091,21 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81026.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81027.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang SD BR" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="Brazil",Boomerang SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81028.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network SD BR" tvg-logo="http://tugapt.com/picons/cartoonnetworkse.png" group-title="Brazil",Cartoon Network SD BR
+#EXTINF:-1 tvg-id="CartoonNetwork(Portuguese).br" tvg-name="Cartoon Network SD BR" tvg-logo="http://tugapt.com/picons/cartoonnetworkse.png" group-title="Brazil",Cartoon Network SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81029.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network FHD BR" tvg-logo="http://tugapt.com/picons/cartoonnetworkse.png" group-title="Brazil",Cartoon Network FHD BR
+#EXTINF:-1 tvg-id="CartoonNetwork(Portuguese).br" tvg-name="Cartoon Network FHD BR" tvg-logo="http://tugapt.com/picons/cartoonnetworkse.png" group-title="Brazil",Cartoon Network FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81030.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Internacional SD BR" tvg-logo="" group-title="Brazil",CNN Internacional SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81032.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jovem Pan News HD BR" tvg-logo="" group-title="Brazil",Jovem Pan News HD BR
+#EXTINF:-1 tvg-id="JovemPanNews(Portuguese).br" tvg-name="Jovem Pan News HD BR" tvg-logo="" group-title="Brazil",Jovem Pan News HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/103220.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Brasil SD BR" tvg-logo="" group-title="Brazil",Canal Brasil SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81033.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Brasil FHD BR" tvg-logo="" group-title="Brazil",Canal Brasil FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81034.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central SD BR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="Brazil",Comedy Central SD BR
+#EXTINF:-1 tvg-id="ComedyCentral(Portuguese).br" tvg-name="Comedy Central SD BR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="Brazil",Comedy Central SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81035.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central HD BR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="Brazil",Comedy Central HD BR
+#EXTINF:-1 tvg-id="ComedyCentral(Portuguese).br" tvg-name="Comedy Central HD BR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="Brazil",Comedy Central HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81036.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax SD BR" tvg-logo="" group-title="Brazil",Cinemax SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81037.m3u8
@@ -1115,7 +1115,7 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81038.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81039.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Combate HD BR" tvg-logo="" group-title="Brazil",Combate HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81040.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids SD BR" tvg-logo="" group-title="Brazil",Discovery Kids SD BR
+#EXTINF:-1 tvg-id="DiscoveryKids(Portuguese).br" tvg-name="Discovery Kids SD BR" tvg-logo="" group-title="Brazil",Discovery Kids SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81043.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel SD BR" tvg-logo="" group-title="Brazil",Disney Channel SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81044.m3u8
@@ -1125,15 +1125,15 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81045.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81046.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD SD BR" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/disney-xd-uk.png?raw=true" group-title="Brazil",Disney XD SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81047.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World FHD BR" tvg-logo="" group-title="Brazil",Discovery World FHD BR
+#EXTINF:-1 tvg-id="DiscoveryWorld(Portuguese).br" tvg-name="Discovery World FHD BR" tvg-logo="" group-title="Brazil",Discovery World FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81048.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World SD BR" tvg-logo="" group-title="Brazil",Discovery World SD BR
+#EXTINF:-1 tvg-id="DiscoveryWorld(Portuguese).br" tvg-name="Discovery World SD BR" tvg-logo="" group-title="Brazil",Discovery World SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81049.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo SD BR" tvg-logo="" group-title="Brazil",Discovery Turbo SD BR
+#EXTINF:-1 tvg-id="DiscoveryTurbo(Portuguese).br" tvg-name="Discovery Turbo SD BR" tvg-logo="" group-title="Brazil",Discovery Turbo SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81050.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo FHD BR" tvg-logo="" group-title="Brazil",Discovery Turbo FHD BR
+#EXTINF:-1 tvg-id="DiscoveryTurbo(Portuguese).br" tvg-name="Discovery Turbo FHD BR" tvg-logo="" group-title="Brazil",Discovery Turbo FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81051.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Theater FHD BR" tvg-logo="" group-title="Brazil",Discovery Theater FHD BR
+#EXTINF:-1 tvg-id="DiscoveryTheater(Portuguese).br" tvg-name="Discovery Theater FHD BR" tvg-logo="" group-title="Brazil",Discovery Theater FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81052.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery H&H SD BR" tvg-logo="" group-title="Brazil",Discovery H&H SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81053.m3u8
@@ -1141,9 +1141,9 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81053.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81054.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science FHD BR" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/discovery-science-uk.png?raw=true" group-title="Brazil",Discovery Science FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81055.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel SD BR" tvg-logo="" group-title="Brazil",Discovery Channel SD BR
+#EXTINF:-1 tvg-id="DiscoveryChannel(Portuguese).br" tvg-name="Discovery Channel SD BR" tvg-logo="" group-title="Brazil",Discovery Channel SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81056.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel FHD BR" tvg-logo="" group-title="Brazil",Discovery Channel FHD BR
+#EXTINF:-1 tvg-id="DiscoveryChannel(Portuguese).br" tvg-name="Discovery Channel FHD BR" tvg-logo="" group-title="Brazil",Discovery Channel FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81057.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! SD BR" tvg-logo="" group-title="Brazil",E! SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81059.m3u8
@@ -1195,9 +1195,9 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81090.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81091.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H2 HD BR" tvg-logo="" group-title="Brazil",H2 HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81092.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature SD BR" tvg-logo="" group-title="Brazil",HBO Signature SD BR
+#EXTINF:-1 tvg-id="HBOSignature(Portuguese).br" tvg-name="HBO Signature SD BR" tvg-logo="" group-title="Brazil",HBO Signature SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81093.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Signature HD BR" tvg-logo="" group-title="Brazil",HBO Signature HD BR
+#EXTINF:-1 tvg-id="HBOSignature(Portuguese).br" tvg-name="HBO Signature HD BR" tvg-logo="" group-title="Brazil",HBO Signature HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81094.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Plus SD BR" tvg-logo="" group-title="Brazil",HBO Plus SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81095.m3u8
@@ -1235,9 +1235,9 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81112.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81113.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NatGeo Kids FHD BR" tvg-logo="" group-title="Brazil",NatGeo Kids FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81114.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr SD BR" tvg-logo="" group-title="Brazil",Nick Jr SD BR
+#EXTINF:-1 tvg-id="NickJr(Portuguese).br" tvg-name="Nick Jr SD BR" tvg-logo="" group-title="Brazil",Nick Jr SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81115.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick JR FHD BR" tvg-logo="" group-title="Brazil",Nick JR FHD BR
+#EXTINF:-1 tvg-id="NickJr(Portuguese).br" tvg-name="Nick JR FHD BR" tvg-logo="" group-title="Brazil",Nick JR FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81116.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon SD BR" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="Brazil",Nickelodeon SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81117.m3u8
@@ -1311,7 +1311,7 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81156.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81157.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony HD BR" tvg-logo="" group-title="Brazil",Sony HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81158.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Studio Universal SD BR" tvg-logo="" group-title="Brazil",Studio Universal SD BR
+#EXTINF:-1 tvg-id="StudioUniversal(Portuguese).br" tvg-name="Studio Universal SD BR" tvg-logo="" group-title="Brazil",Studio Universal SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81159.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv 3 FHD BR" tvg-logo="" group-title="Brazil",Sportv 3 FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81160.m3u8
@@ -1349,15 +1349,15 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81176.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81178.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Series FHD BR" tvg-logo="" group-title="Brazil",TNT Series FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81179.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Pipoca FHD BR" tvg-logo="" group-title="Brazil",Telecine Pipoca FHD BR
+#EXTINF:-1 tvg-id="TelecinePipoca(Portuguese).br" tvg-name="Telecine Pipoca FHD BR" tvg-logo="" group-title="Brazil",Telecine Pipoca FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81181.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Touch SD BR" tvg-logo="" group-title="Brazil",Telecine Touch SD BR
+#EXTINF:-1 tvg-id="TelecineTouch(Portuguese).br" tvg-name="Telecine Touch SD BR" tvg-logo="" group-title="Brazil",Telecine Touch SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81182.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Touch FHD BR" tvg-logo="" group-title="Brazil",Telecine Touch FHD BR
+#EXTINF:-1 tvg-id="TelecineTouch(Portuguese).br" tvg-name="Telecine Touch FHD BR" tvg-logo="" group-title="Brazil",Telecine Touch FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81183.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Premium SD BR" tvg-logo="" group-title="Brazil",Telecine Premium SD BR
+#EXTINF:-1 tvg-id="TelecinePremium(Portuguese).br" tvg-name="Telecine Premium SD BR" tvg-logo="" group-title="Brazil",Telecine Premium SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81184.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Premium FHD BR" tvg-logo="" group-title="Brazil",Telecine Premium FHD BR
+#EXTINF:-1 tvg-id="TelecinePremium(Portuguese).br" tvg-name="Telecine Premium FHD BR" tvg-logo="" group-title="Brazil",Telecine Premium FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81185.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Fun SD BR" tvg-logo="" group-title="Brazil",Telecine Fun SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81186.m3u8
@@ -1367,9 +1367,9 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81187.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81188.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Cult FHD BR" tvg-logo="" group-title="Brazil",Telecine Cult FHD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81189.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Action SD BR" tvg-logo="" group-title="Brazil",Telecine Action SD BR
+#EXTINF:-1 tvg-id="TelecineAction(Portuguese).br" tvg-name="Telecine Action SD BR" tvg-logo="" group-title="Brazil",Telecine Action SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81190.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Action HD BR" tvg-logo="" group-title="Brazil",Telecine Action HD BR
+#EXTINF:-1 tvg-id="TelecineAction(Portuguese).br" tvg-name="Telecine Action HD BR" tvg-logo="" group-title="Brazil",Telecine Action HD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81191.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viva SD BR" tvg-logo="" group-title="Brazil",Viva SD BR
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/81192.m3u8
@@ -1405,53 +1405,53 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/91304.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/91303.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="##########   Portugal   ##########" tvg-logo="" group-title="Portugal",##########   Portugal   ##########
 https://static.videezy.com/system/protected/files/000/039/504/Portugal_Flag_Loop.mp4
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-logo="http://tugapt.com/picons/rtp1pt.png" group-title="Portugal",RTP 1 PT
+#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="RTP 1 PT" tvg-logo="http://tugapt.com/picons/rtp1pt.png" group-title="Portugal",RTP 1 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2710.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 ( Mobile ) PT" tvg-logo="http://tugapt.com/picons/rtp1pt.png" group-title="Portugal",RTP 1 ( Mobile ) PT
+#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="RTP 1 ( Mobile ) PT" tvg-logo="http://tugapt.com/picons/rtp1pt.png" group-title="Portugal",RTP 1 ( Mobile ) PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75454.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 HD PT" tvg-logo="http://tugapt.com/picons/rtp1hdpt.png" group-title="Portugal",RTP 1 HD PT
+#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="RTP 1 HD PT" tvg-logo="http://tugapt.com/picons/rtp1hdpt.png" group-title="Portugal",RTP 1 HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/42409.m3u8
-#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 FHD PT" tvg-logo="http://tugapt.com/picons/rtp1hdpt.png" group-title="Portugal",RTP 1 FHD PT
+#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="RTP 1 FHD PT" tvg-logo="http://tugapt.com/picons/rtp1hdpt.png" group-title="Portugal",RTP 1 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2714.m3u8
-#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-logo="http://tugapt.com/picons/rtp2pt.png" group-title="Portugal",RTP 2 PT
+#EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="RTP 2 PT" tvg-logo="http://tugapt.com/picons/rtp2pt.png" group-title="Portugal",RTP 2 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2709.m3u8
-#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 FHD PT" tvg-logo="http://tugapt.com/picons/rtp2hdpt.png" group-title="Portugal",RTP 2 FHD PT
+#EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="RTP 2 FHD PT" tvg-logo="http://tugapt.com/picons/rtp2hdpt.png" group-title="Portugal",RTP 2 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2713.m3u8
-#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP Memória PT" tvg-logo="http://tugapt.com/picons/rtpmemoriapt.png" group-title="Portugal",RTP Memória PT
+#EXTINF:-1 tvg-id="RTPMemoria(src01).pt" tvg-name="RTP Memória PT" tvg-logo="http://tugapt.com/picons/rtpmemoriapt.png" group-title="Portugal",RTP Memória PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2706.m3u8
 #EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-logo="http://tugapt.com/picons/rtpinternacionalpt.png" group-title="Portugal",RTP Internacional PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/5622.m3u8
-#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP África PT" tvg-logo="http://tugapt.com/picons/rtpafricapt.png" group-title="Portugal",RTP África PT
+#EXTINF:-1 tvg-id="RTPAfrica(src01).pt" tvg-name="RTP África PT" tvg-logo="http://tugapt.com/picons/rtpafricapt.png" group-title="Portugal",RTP África PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2711.m3u8
-#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP Madeira PT" tvg-logo="http://tugapt.com/picons/rtpmadeirapt.png" group-title="Portugal",RTP Madeira PT
+#EXTINF:-1 tvg-id="RTPMadeira(src01).pt" tvg-name="RTP Madeira PT" tvg-logo="http://tugapt.com/picons/rtpmadeirapt.png" group-title="Portugal",RTP Madeira PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2707.m3u8
-#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Açores PT" tvg-logo="http://tugapt.com/picons/rtpacorespt.png" group-title="Portugal",RTP Açores PT
+#EXTINF:-1 tvg-id="RTPAcores(src01).pt" tvg-name="RTP Açores PT" tvg-logo="http://tugapt.com/picons/rtpacorespt.png" group-title="Portugal",RTP Açores PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2712.m3u8
-#EXTINF:-1 tvg-id="SIC PT" tvg-name="SIC PT" tvg-logo="http://tugapt.com/picons/sicpt.png" group-title="Portugal",SIC PT
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC PT" tvg-logo="http://tugapt.com/picons/sicpt.png" group-title="Portugal",SIC PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2703.m3u8
-#EXTINF:-1 tvg-id="SIC PT" tvg-name="SIC ( Mobile ) PT" tvg-logo="http://tugapt.com/picons/sicpt.png" group-title="Portugal",SIC ( Mobile ) PT
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC ( Mobile ) PT" tvg-logo="http://tugapt.com/picons/sicpt.png" group-title="Portugal",SIC ( Mobile ) PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75455.m3u8
-#EXTINF:-1 tvg-id="SIC PT" tvg-name="SIC FHD PT" tvg-logo="http://tugapt.com/picons/sichdpt.png" group-title="Portugal",SIC FHD PT
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC FHD PT" tvg-logo="http://tugapt.com/picons/sichdpt.png" group-title="Portugal",SIC FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2696.m3u8
-#EXTINF:-1 tvg-id="SIC Radical PT" tvg-name="SIC Radical PT" tvg-logo="http://tugapt.com/picons/sicradicalpt.png" group-title="Portugal",SIC Radical PT
+#EXTINF:-1 tvg-id="SICRadical(src01).pt" tvg-name="SIC Radical PT" tvg-logo="http://tugapt.com/picons/sicradicalpt.png" group-title="Portugal",SIC Radical PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2700.m3u8
-#EXTINF:-1 tvg-id="SIC Radical PT" tvg-name="SIC Radical FHD PT" tvg-logo="http://tugapt.com/picons/sicradicalhdpt.png" group-title="Portugal",SIC Radical FHD PT
+#EXTINF:-1 tvg-id="SICRadical(src01).pt" tvg-name="SIC Radical FHD PT" tvg-logo="http://tugapt.com/picons/sicradicalhdpt.png" group-title="Portugal",SIC Radical FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2699.m3u8
-#EXTINF:-1 tvg-id="SIC Mulher PT" tvg-name="SIC Mulher PT" tvg-logo="http://tugapt.com/picons/sicmulherpt.png" group-title="Portugal",SIC Mulher PT
+#EXTINF:-1 tvg-id="SICMulher(src01).pt" tvg-name="SIC Mulher PT" tvg-logo="http://tugapt.com/picons/sicmulherpt.png" group-title="Portugal",SIC Mulher PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2702.m3u8
-#EXTINF:-1 tvg-id="SIC Mulher PT" tvg-name="SIC Mulher FHD PT" tvg-logo="http://tugapt.com/picons/sicmulherpt.png" group-title="Portugal",SIC Mulher FHD PT
+#EXTINF:-1 tvg-id="SICMulher(src01).pt" tvg-name="SIC Mulher FHD PT" tvg-logo="http://tugapt.com/picons/sicmulherpt.png" group-title="Portugal",SIC Mulher FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78328.m3u8
-#EXTINF:-1 tvg-id="SIC Caras PT" tvg-name="SIC Caras PT" tvg-logo="http://tugapt.com/picons/siccaraspt.png" group-title="Portugal",SIC Caras PT
+#EXTINF:-1 tvg-id="SicCaras(src01).pt" tvg-name="SIC Caras PT" tvg-logo="http://tugapt.com/picons/siccaraspt.png" group-title="Portugal",SIC Caras PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2705.m3u8
-#EXTINF:-1 tvg-id="SIC Caras PT" tvg-name="SIC Caras HD PT" tvg-logo="http://tugapt.com/picons/siccarashdpt.png" group-title="Portugal",SIC Caras HD PT
+#EXTINF:-1 tvg-id="SicCaras(src01).pt" tvg-name="SIC Caras HD PT" tvg-logo="http://tugapt.com/picons/siccarashdpt.png" group-title="Portugal",SIC Caras HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2697.m3u8
-#EXTINF:-1 tvg-id="SIC Novelas.pt" tvg-name="SIC Novelas FHD PT" tvg-logo="" group-title="Portugal",SIC Novelas FHD PT
+#EXTINF:-1 tvg-id="SICNovelas(src01).pt" tvg-name="SIC Novelas FHD PT" tvg-logo="" group-title="Portugal",SIC Novelas FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/113018.m3u8
-#EXTINF:-1 tvg-id="TVI PT" tvg-name="TVI PT" tvg-logo="http://tugapt.com/picons/tvipt.png" group-title="Portugal",TVI PT
+#EXTINF:-1 tvg-id="TVI(src01).pt" tvg-name="TVI PT" tvg-logo="http://tugapt.com/picons/tvipt.png" group-title="Portugal",TVI PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3845.m3u8
-#EXTINF:-1 tvg-id="TVI PT" tvg-name="TVI ( Mobile ) PT" tvg-logo="http://tugapt.com/picons/tvipt.png" group-title="Portugal",TVI ( Mobile ) PT
+#EXTINF:-1 tvg-id="TVI(src01).pt" tvg-name="TVI ( Mobile ) PT" tvg-logo="http://tugapt.com/picons/tvipt.png" group-title="Portugal",TVI ( Mobile ) PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75456.m3u8
-#EXTINF:-1 tvg-id="TVI PT" tvg-name="TVI FHD PT" tvg-logo="http://tugapt.com/picons/tvihdpt.png" group-title="Portugal",TVI FHD PT
+#EXTINF:-1 tvg-id="TVI(src01).pt" tvg-name="TVI FHD PT" tvg-logo="http://tugapt.com/picons/tvihdpt.png" group-title="Portugal",TVI FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3840.m3u8
 #EXTINF:-1 tvg-id="Vplus" tvg-name="V+ PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="Portugal",V+ PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3846.m3u8
@@ -1477,11 +1477,11 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/84362.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/14232.m3u8
 #EXTINF:-1 tvg-id="Globo TV PT" tvg-name="TV Globo FHD PT" tvg-logo="http://tugapt.com/picons/tvglobo1.png" group-title="Portugal",TV Globo FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/89710.m3u8
-#EXTINF:-1 tvg-id="Globo Now PT" tvg-name="TV Globo NOW PT" tvg-logo="http://tugapt.com/picons/tvglobonow.png" group-title="Portugal",TV Globo NOW PT
+#EXTINF:-1 tvg-id="GloboNow(src01).pt" tvg-name="TV Globo NOW PT" tvg-logo="http://tugapt.com/picons/tvglobonow.png" group-title="Portugal",TV Globo NOW PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2736.m3u8
-#EXTINF:-1 tvg-id="TV Record PT" tvg-name="TV Record HD PT" tvg-logo="http://tugapt.com/picons/tvrecordpt.png" group-title="Portugal",TV Record HD PT
+#EXTINF:-1 tvg-id="TVRecord(src01).pt" tvg-name="TV Record HD PT" tvg-logo="http://tugapt.com/picons/tvrecordpt.png" group-title="Portugal",TV Record HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2680.m3u8
-#EXTINF:-1 tvg-id="TV Record PT" tvg-name="TV Record PT" tvg-logo="http://tugapt.com/picons/tvrecordpt.png" group-title="Portugal",TV Record PT
+#EXTINF:-1 tvg-id="TVRecord(src01).pt" tvg-name="TV Record PT" tvg-logo="http://tugapt.com/picons/tvrecordpt.png" group-title="Portugal",TV Record PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/62537.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTC HD PT" tvg-logo="https://i.imgur.com/pJNWVAz.png" group-title="Portugal",CTC HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/62538.m3u8
@@ -1497,23 +1497,23 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/110119.
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/110118.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="========== Crianças ==========" tvg-logo="" group-title="Portugal",========== Crianças ==========
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/13973.m3u8
-#EXTINF:-1 tvg-id="Cartoonito PT" tvg-name="Cartoonito PT" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-cartoonito-xs.png" group-title="Portugal",Cartoonito PT
+#EXTINF:-1 tvg-id="Cartoonito(src01).pt" tvg-name="Cartoonito PT" tvg-logo="https://www.vodafone.pt/content/dam/digital-sites/tv-net-voz/canais/tv-net-voz-cartoonito-xs.png" group-title="Portugal",Cartoonito PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2769.m3u8
-#EXTINF:-1 tvg-id="Baby TV PT" tvg-name="Baby TV PT" tvg-logo="http://tugapt.com/picons/babytvpt.png" group-title="Portugal",Baby TV PT
+#EXTINF:-1 tvg-id="BabyTV(src01).pt" tvg-name="Baby TV PT" tvg-logo="http://tugapt.com/picons/babytvpt.png" group-title="Portugal",Baby TV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2768.m3u8
 #EXTINF:-1 tvg-id="Canal Panda PT" tvg-name="Canal Panda PT" tvg-logo="http://tugapt.com/picons/canalpandapt.png" group-title="Portugal",Canal Panda PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2762.m3u8
-#EXTINF:-1 tvg-id="Panda Biggs PT" tvg-name="Panda Biggs PT" tvg-logo="http://tugapt.com/picons/pandabiggspt.png" group-title="Portugal",Panda Biggs PT
+#EXTINF:-1 tvg-id="PANDABIGGS(src01).pt" tvg-name="Panda Biggs PT" tvg-logo="http://tugapt.com/picons/pandabiggspt.png" group-title="Portugal",Panda Biggs PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2763.m3u8
-#EXTINF:-1 tvg-id="Disney Junior PT" tvg-name="Disney Junior PT" tvg-logo="http://tugapt.com/picons/disneyjuniorpt.png" group-title="Portugal",Disney Junior PT
+#EXTINF:-1 tvg-id="DisneyJunior(src01).pt" tvg-name="Disney Junior PT" tvg-logo="http://tugapt.com/picons/disneyjuniorpt.png" group-title="Portugal",Disney Junior PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2755.m3u8
-#EXTINF:-1 tvg-id="Disney Channel PT" tvg-name="Disney Channel PT" tvg-logo="http://tugapt.com/picons/disneychannelpt.png" group-title="Portugal",Disney Channel PT
+#EXTINF:-1 tvg-id="DisneyChannel(src01).pt" tvg-name="Disney Channel PT" tvg-logo="http://tugapt.com/picons/disneychannelpt.png" group-title="Portugal",Disney Channel PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3841.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network PT" tvg-name="Cartoon Network PT" tvg-logo="http://tugapt.com/picons/cartoonnetworkpt.png" group-title="Portugal",Cartoon Network PT
+#EXTINF:-1 tvg-id="CartoonNetwork(src01).pt" tvg-name="Cartoon Network PT" tvg-logo="http://tugapt.com/picons/cartoonnetworkpt.png" group-title="Portugal",Cartoon Network PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2761.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon PT" tvg-name="Nickelodeon PT" tvg-logo="http://tugapt.com/picons/nickelodeonpt.png" group-title="Portugal",Nickelodeon PT
+#EXTINF:-1 tvg-id="Nickelodeon(src01).pt" tvg-name="Nickelodeon PT" tvg-logo="http://tugapt.com/picons/nickelodeonpt.png" group-title="Portugal",Nickelodeon PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2719.m3u8
-#EXTINF:-1 tvg-id="Nick Jr. PT" tvg-name="Nick Jr. PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nick-jr-us.png" group-title="Portugal",Nick Jr. PT
+#EXTINF:-1 tvg-id="NickJr(src01).pt" tvg-name="Nick Jr. PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nick-jr-us.png" group-title="Portugal",Nick Jr. PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/62544.m3u8
 #EXTINF:-1 tvg-id="SIC Kids PT" tvg-name="SIC Kids PT" tvg-logo="http://tugapt.com/picons/sickidspt.png" group-title="Portugal",SIC Kids PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2704.m3u8
@@ -1521,55 +1521,55 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2704.m3
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78295.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="========== Filmes ==========" tvg-logo="" group-title="Portugal",========== Filmes ==========
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/13974.m3u8
-#EXTINF:-1 tvg-id="TVCine TOP PT" tvg-name="TVCine Top PT" tvg-logo="http://tugapt.com/picons/tvcine1pt.png" group-title="Portugal",TVCine Top PT
+#EXTINF:-1 tvg-id="TVCineTOP(src01).pt" tvg-name="TVCine Top PT" tvg-logo="http://tugapt.com/picons/tvcine1pt.png" group-title="Portugal",TVCine Top PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2684.m3u8
-#EXTINF:-1 tvg-id="TVCine TOP PT" tvg-name="TVCine Top HD PT" tvg-logo="http://tugapt.com/picons/tvcine1hdpt.png" group-title="Portugal",TVCine Top HD PT
+#EXTINF:-1 tvg-id="TVCineTOP(src01).pt" tvg-name="TVCine Top HD PT" tvg-logo="http://tugapt.com/picons/tvcine1hdpt.png" group-title="Portugal",TVCine Top HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78296.m3u8
-#EXTINF:-1 tvg-id="TVCine TOP PT" tvg-name="TVCine Top FHD PT" tvg-logo="http://tugapt.com/picons/tvcine1hdpt.png" group-title="Portugal",TVCine Top FHD PT
+#EXTINF:-1 tvg-id="TVCineTOP(src01).pt" tvg-name="TVCine Top FHD PT" tvg-logo="http://tugapt.com/picons/tvcine1hdpt.png" group-title="Portugal",TVCine Top FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2685.m3u8
-#EXTINF:-1 tvg-id="TVCine EDITION PT" tvg-name="TVCine Edition PT" tvg-logo="http://tugapt.com/picons/tvcine2pt.png" group-title="Portugal",TVCine Edition PT
+#EXTINF:-1 tvg-id="TVCineEDITION(src01).pt" tvg-name="TVCine Edition PT" tvg-logo="http://tugapt.com/picons/tvcine2pt.png" group-title="Portugal",TVCine Edition PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2683.m3u8
-#EXTINF:-1 tvg-id="TVCine EDITION PT" tvg-name="TVCine Edition HD PT" tvg-logo="http://tugapt.com/picons/tvcine2hdpt.png" group-title="Portugal",TVCine Edition HD PT
+#EXTINF:-1 tvg-id="TVCineEDITION(src01).pt" tvg-name="TVCine Edition HD PT" tvg-logo="http://tugapt.com/picons/tvcine2hdpt.png" group-title="Portugal",TVCine Edition HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78297.m3u8
-#EXTINF:-1 tvg-id="TVCine EDITION PT" tvg-name="TVCine Edition FHD PT" tvg-logo="http://tugapt.com/picons/tvcine2hdpt.png" group-title="Portugal",TVCine Edition FHD PT
+#EXTINF:-1 tvg-id="TVCineEDITION(src01).pt" tvg-name="TVCine Edition FHD PT" tvg-logo="http://tugapt.com/picons/tvcine2hdpt.png" group-title="Portugal",TVCine Edition FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2686.m3u8
-#EXTINF:-1 tvg-id="TVCine EMOTION PT" tvg-name="TVCine Emotion PT" tvg-logo="http://tugapt.com/picons/tvcine3pt.png" group-title="Portugal",TVCine Emotion PT
+#EXTINF:-1 tvg-id="TVCineEMOTION(src01).pt" tvg-name="TVCine Emotion PT" tvg-logo="http://tugapt.com/picons/tvcine3pt.png" group-title="Portugal",TVCine Emotion PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2682.m3u8
-#EXTINF:-1 tvg-id="TVCine EMOTION PT" tvg-name="TVCine Emotion HD PT" tvg-logo="http://tugapt.com/picons/tvcine3pt.png" group-title="Portugal",TVCine Emotion HD PT
+#EXTINF:-1 tvg-id="TVCineEMOTION(src01).pt" tvg-name="TVCine Emotion HD PT" tvg-logo="http://tugapt.com/picons/tvcine3pt.png" group-title="Portugal",TVCine Emotion HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78298.m3u8
-#EXTINF:-1 tvg-id="TVCine EMOTION PT" tvg-name="TVCine Emotion FHD PT" tvg-logo="http://tugapt.com/picons/tvcine3hdpt.png" group-title="Portugal",TVCine Emotion FHD PT
+#EXTINF:-1 tvg-id="TVCineEMOTION(src01).pt" tvg-name="TVCine Emotion FHD PT" tvg-logo="http://tugapt.com/picons/tvcine3hdpt.png" group-title="Portugal",TVCine Emotion FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2687.m3u8
-#EXTINF:-1 tvg-id="TVCine ACTION PT" tvg-name="TVCine Action PT" tvg-logo="http://tugapt.com/picons/tvcine4pt.png" group-title="Portugal",TVCine Action PT
+#EXTINF:-1 tvg-id="TVCineACTION(src01).pt" tvg-name="TVCine Action PT" tvg-logo="http://tugapt.com/picons/tvcine4pt.png" group-title="Portugal",TVCine Action PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2681.m3u8
-#EXTINF:-1 tvg-id="TVCine ACTION PT" tvg-name="TVCine Action HD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/tvcine-action-hd-pt.png" group-title="Portugal",TVCine Action HD PT
+#EXTINF:-1 tvg-id="TVCineACTION(src01).pt" tvg-name="TVCine Action HD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/tvcine-action-hd-pt.png" group-title="Portugal",TVCine Action HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78299.m3u8
-#EXTINF:-1 tvg-id="TVCine ACTION PT" tvg-name="TVCine Action FHD PT" tvg-logo="http://tugapt.com/picons/tvcine4hdpt.png" group-title="Portugal",TVCine Action FHD PT
+#EXTINF:-1 tvg-id="TVCineACTION(src01).pt" tvg-name="TVCine Action FHD PT" tvg-logo="http://tugapt.com/picons/tvcine4hdpt.png" group-title="Portugal",TVCine Action FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2688.m3u8
-#EXTINF:-1 tvg-id="Syfy PT" tvg-name="Syfy PT" tvg-logo="http://tugapt.com/picons/syfypt.png" group-title="Portugal",Syfy PT
+#EXTINF:-1 tvg-id="SyFy(src01).pt" tvg-name="Syfy PT" tvg-logo="http://tugapt.com/picons/syfypt.png" group-title="Portugal",Syfy PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2692.m3u8
-#EXTINF:-1 tvg-id="Syfy PT" tvg-name="Syfy FHD PT" tvg-logo="http://tugapt.com/picons/syfyhdpt.png" group-title="Portugal",Syfy FHD PT
+#EXTINF:-1 tvg-id="SyFy(src01).pt" tvg-name="Syfy FHD PT" tvg-logo="http://tugapt.com/picons/syfyhdpt.png" group-title="Portugal",Syfy FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2693.m3u8
-#EXTINF:-1 tvg-id="Hollywood PT" tvg-name="Hollywood PT" tvg-logo="http://tugapt.com/picons/hollywoodpt.png" group-title="Portugal",Hollywood PT
+#EXTINF:-1 tvg-id="Hollywood(src01).pt" tvg-name="Hollywood PT" tvg-logo="http://tugapt.com/picons/hollywoodpt.png" group-title="Portugal",Hollywood PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2733.m3u8
-#EXTINF:-1 tvg-id="Hollywood PT" tvg-name="Hollywood FHD PT" tvg-logo="http://tugapt.com/picons/hollywoodhdpt.png" group-title="Portugal",Hollywood FHD PT
+#EXTINF:-1 tvg-id="Hollywood(src01).pt" tvg-name="Hollywood FHD PT" tvg-logo="http://tugapt.com/picons/hollywoodhdpt.png" group-title="Portugal",Hollywood FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2734.m3u8
-#EXTINF:-1 tvg-id="AMC PT" tvg-name="AMC PT" tvg-logo="http://tugapt.com/picons/amcpt.png" group-title="Portugal",AMC PT
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC PT" tvg-logo="http://tugapt.com/picons/amcpt.png" group-title="Portugal",AMC PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2777.m3u8
-#EXTINF:-1 tvg-id="AMC PT" tvg-name="AMC HD PT" tvg-logo="http://tugapt.com/picons/amchdpt.png" group-title="Portugal",AMC HD PT
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC HD PT" tvg-logo="http://tugapt.com/picons/amchdpt.png" group-title="Portugal",AMC HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78300.m3u8
-#EXTINF:-1 tvg-id="AMC PT" tvg-name="AMC FHD PT" tvg-logo="http://tugapt.com/picons/amchdpt.png" group-title="Portugal",AMC FHD PT
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC FHD PT" tvg-logo="http://tugapt.com/picons/amchdpt.png" group-title="Portugal",AMC FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2776.m3u8
-#EXTINF:-1 tvg-id="AXN PT" tvg-name="AXN PT" tvg-logo="http://tugapt.com/picons/axnhdpt.png" group-title="Portugal",AXN PT
+#EXTINF:-1 tvg-id="AXN(src01).pt" tvg-name="AXN PT" tvg-logo="http://tugapt.com/picons/axnhdpt.png" group-title="Portugal",AXN PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78301.m3u8
-#EXTINF:-1 tvg-id="AXN PT" tvg-name="AXN FHD PT" tvg-logo="http://tugapt.com/picons/axnhdpt.png" group-title="Portugal",AXN FHD PT
+#EXTINF:-1 tvg-id="AXN(src01).pt" tvg-name="AXN FHD PT" tvg-logo="http://tugapt.com/picons/axnhdpt.png" group-title="Portugal",AXN FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2771.m3u8
-#EXTINF:-1 tvg-id="AXN Movies PT" tvg-name="AXN Movies PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/axn-movies-pt.png" group-title="Portugal",AXN Movies PT
+#EXTINF:-1 tvg-id="AXNMovies(src01).pt" tvg-name="AXN Movies PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/axn-movies-pt.png" group-title="Portugal",AXN Movies PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78303.m3u8
-#EXTINF:-1 tvg-id="AXN Movies PT" tvg-name="AXN Movies FHD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/axn-movies-hd-pt.png" group-title="Portugal",AXN Movies FHD PT
+#EXTINF:-1 tvg-id="AXNMovies(src01).pt" tvg-name="AXN Movies FHD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/axn-movies-hd-pt.png" group-title="Portugal",AXN Movies FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2772.m3u8
-#EXTINF:-1 tvg-id="AXN White PT" tvg-name="AXN White PT" tvg-logo="http://tugapt.com/picons/axnwhitehdpt.png" group-title="Portugal",AXN White PT
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt" tvg-name="AXN White PT" tvg-logo="http://tugapt.com/picons/axnwhitehdpt.png" group-title="Portugal",AXN White PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78302.m3u8
-#EXTINF:-1 tvg-id="AXN White PT" tvg-name="AXN White FHD PT" tvg-logo="http://tugapt.com/picons/axnwhitehdpt.png" group-title="Portugal",AXN White FHD PT
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt" tvg-name="AXN White FHD PT" tvg-logo="http://tugapt.com/picons/axnwhitehdpt.png" group-title="Portugal",AXN White FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2770.m3u8
 #EXTINF:-1 tvg-id="STAR Channel PT" tvg-name="Star Channel PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_channel.png" group-title="Portugal",Star Channel PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78306.m3u8
@@ -1595,21 +1595,21 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2741.m3
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2746.m3u8
 #EXTINF:-1 tvg-id="STAR Movies PT" tvg-name="Star Movies HD PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_movies.png" group-title="Portugal",Star Movies HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2742.m3u8
-#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="CineMundo PT" tvg-logo="http://tugapt.com/picons/cinemundopt.png" group-title="Portugal",CineMundo PT
+#EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CineMundo PT" tvg-logo="http://tugapt.com/picons/cinemundopt.png" group-title="Portugal",CineMundo PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2759.m3u8
-#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="CineMundo HD PT" tvg-logo="http://tugapt.com/picons/cinemundopt.png" group-title="Portugal",CineMundo HD PT
+#EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CineMundo HD PT" tvg-logo="http://tugapt.com/picons/cinemundopt.png" group-title="Portugal",CineMundo HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78309.m3u8
-#EXTINF:-1 tvg-id="Cinemundo PT" tvg-name="CineMundo FHD PT" tvg-logo="http://tugapt.com/picons/cinemundopt.png" group-title="Portugal",CineMundo FHD PT
+#EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CineMundo FHD PT" tvg-logo="http://tugapt.com/picons/cinemundopt.png" group-title="Portugal",CineMundo FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78308.m3u8
-#EXTINF:-1 tvg-id="NOS Studios PT" tvg-name="Nos Studios PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="Portugal",Nos Studios PT
+#EXTINF:-1 tvg-id="NOSStudios(src01).pt" tvg-name="Nos Studios PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="Portugal",Nos Studios PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/90949.m3u8
-#EXTINF:-1 tvg-id="NOS Studios PT" tvg-name="Nos Studios FHD PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="Portugal",Nos Studios FHD PT
+#EXTINF:-1 tvg-id="NOSStudios(src01).pt" tvg-name="Nos Studios FHD PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="Portugal",Nos Studios FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/73310.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="========== Notícias ==========" tvg-logo="" group-title="Portugal",========== Notícias ==========
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/13975.m3u8
-#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="SIC Notícias PT" tvg-logo="http://tugapt.com/picons/sicnoticiaspt.png" group-title="Portugal",SIC Notícias PT
+#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC Notícias PT" tvg-logo="http://tugapt.com/picons/sicnoticiaspt.png" group-title="Portugal",SIC Notícias PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2701.m3u8
-#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="SIC Notícias FHD PT" tvg-logo="http://tugapt.com/picons/sicnoticiashdpt.png" group-title="Portugal",SIC Notícias FHD PT
+#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC Notícias FHD PT" tvg-logo="http://tugapt.com/picons/sicnoticiashdpt.png" group-title="Portugal",SIC Notícias FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2698.m3u8
 #EXTINF:-1 tvg-id="CNN PT" tvg-name="CNN Portugal SD PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvi24hd_85x70.jpg" group-title="Portugal",CNN Portugal SD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3844.m3u8
@@ -1619,29 +1619,29 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75459.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78311.m3u8
 #EXTINF:-1 tvg-id="CNN PT" tvg-name="CNN Portugal FHD (backup ) PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvi24hd_85x70.jpg" group-title="Portugal",CNN Portugal FHD (backup ) PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78310.m3u8
-#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 PT" tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal",RTP 3 PT
+#EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="RTP 3 PT" tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal",RTP 3 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2708.m3u8
-#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 HD PT" tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal",RTP 3 HD PT
+#EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="RTP 3 HD PT" tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal",RTP 3 HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75437.m3u8
-#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 FHD PT" tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal",RTP 3 FHD PT
+#EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="RTP 3 FHD PT" tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal",RTP 3 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75436.m3u8
-#EXTINF:-1 tvg-id="CMTV PT" tvg-name="CMTV PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal",CMTV PT
+#EXTINF:-1 tvg-id="CMTV(src01).pt" tvg-name="CMTV PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal",CMTV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2758.m3u8
-#EXTINF:-1 tvg-id="CMTV PT" tvg-name="CMTV ( Mobile ) PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal",CMTV ( Mobile ) PT
+#EXTINF:-1 tvg-id="CMTV(src01).pt" tvg-name="CMTV ( Mobile ) PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal",CMTV ( Mobile ) PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75458.m3u8
-#EXTINF:-1 tvg-id="CMTV PT" tvg-name="CMTV HD PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal",CMTV HD PT
+#EXTINF:-1 tvg-id="CMTV(src01).pt" tvg-name="CMTV HD PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal",CMTV HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75419.m3u8
-#EXTINF:-1 tvg-id="CMTV PT" tvg-name="CMTV FHD PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal",CMTV FHD PT
+#EXTINF:-1 tvg-id="CMTV(src01).pt" tvg-name="CMTV FHD PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal",CMTV FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75418.m3u8
-#EXTINF:-1 tvg-id="News Now PT" tvg-name="NOW PT" tvg-logo="" group-title="Portugal",NOW PT
+#EXTINF:-1 tvg-id="NewsNOW(src01).pt" tvg-name="NOW PT" tvg-logo="" group-title="Portugal",NOW PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/120039.m3u8
-#EXTINF:-1 tvg-id="News Now PT" tvg-name="NOW FHD PT" tvg-logo="" group-title="Portugal",NOW FHD PT
+#EXTINF:-1 tvg-id="NewsNOW(src01).pt" tvg-name="NOW FHD PT" tvg-logo="" group-title="Portugal",NOW FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/122746.m3u8
-#EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="Porto Canal PT" tvg-logo="http://tugapt.com/picons/portocanalpt.png" group-title="Portugal",Porto Canal PT
+#EXTINF:-1 tvg-id="PortoCanal(src01).pt" tvg-name="Porto Canal PT" tvg-logo="http://tugapt.com/picons/portocanalpt.png" group-title="Portugal",Porto Canal PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2716.m3u8
-#EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="Porto Canal FHD PT" tvg-logo="http://tugapt.com/picons/portocanalpt.png" group-title="Portugal",Porto Canal FHD PT
+#EXTINF:-1 tvg-id="PortoCanal(src01).pt" tvg-name="Porto Canal FHD PT" tvg-logo="http://tugapt.com/picons/portocanalpt.png" group-title="Portugal",Porto Canal FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75438.m3u8
-#EXTINF:-1 tvg-id="Euronews PT" tvg-name="Euronews PT" tvg-logo="http://tugapt.com/picons/euronews.png" group-title="Portugal",Euronews PT
+#EXTINF:-1 tvg-id="Euronews(src01).pt" tvg-name="Euronews PT" tvg-logo="http://tugapt.com/picons/euronews.png" group-title="Portugal",Euronews PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/33162.m3u8
 #EXTINF:-1 tvg-id="BBC World PT" tvg-name="BBC World News PT" tvg-logo="http://tugapt.com/picons/bbcworldnewspt.png" group-title="Portugal",BBC World News PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2773.m3u8
@@ -1661,47 +1661,47 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/90069.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/90071.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="========== Desporto ==========" tvg-logo="" group-title="Portugal",========== Desporto ==========
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/13976.m3u8
-#EXTINF:-1 tvg-id="SportTV Plus PT" tvg-name="SportTV+ PT" tvg-logo="http://tugapt.com/picons/sporttvpluspt.png" group-title="Portugal",SportTV+ PT
+#EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="SportTV+ PT" tvg-logo="http://tugapt.com/picons/sporttvpluspt.png" group-title="Portugal",SportTV+ PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3613.m3u8
-#EXTINF:-1 tvg-id="SportTV Plus PT" tvg-name="SportTV+ FHD PT" tvg-logo="http://tugapt.com/picons/sporttvplushd.png" group-title="Portugal",SportTV+ FHD PT
+#EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="SportTV+ FHD PT" tvg-logo="http://tugapt.com/picons/sporttvplushd.png" group-title="Portugal",SportTV+ FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/13248.m3u8
-#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV 1 PT" tvg-logo="http://tugapt.com/picons/sporttv1pt.png" group-title="Portugal",SportTV 1 PT
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV 1 PT" tvg-logo="http://tugapt.com/picons/sporttv1pt.png" group-title="Portugal",SportTV 1 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2678.m3u8
-#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV 1 SD PT" tvg-logo="http://tugapt.com/picons/sporttv1pt.png" group-title="Portugal",SportTV 1 SD PT
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV 1 SD PT" tvg-logo="http://tugapt.com/picons/sporttv1pt.png" group-title="Portugal",SportTV 1 SD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/7426.m3u8
-#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV 1 HD PT" tvg-logo="http://tugapt.com/picons/sporttv1hdpt.png" group-title="Portugal",SportTV 1 HD PT
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV 1 HD PT" tvg-logo="http://tugapt.com/picons/sporttv1hdpt.png" group-title="Portugal",SportTV 1 HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/7425.m3u8
-#EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="SportTV 1 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv1hdpt.png" group-title="Portugal",SportTV 1 FHD PT
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV 1 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv1hdpt.png" group-title="Portugal",SportTV 1 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3618.m3u8
-#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-name="SportTV 2 PT" tvg-logo="http://tugapt.com/picons/sporttv2pt.png" group-title="Portugal",SportTV 2 PT
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="SportTV 2 PT" tvg-logo="http://tugapt.com/picons/sporttv2pt.png" group-title="Portugal",SportTV 2 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2677.m3u8
-#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-name="SportTV 2 HD PT" tvg-logo="http://tugapt.com/picons/sporttv2hdpt.png" group-title="Portugal",SportTV 2 HD PT
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="SportTV 2 HD PT" tvg-logo="http://tugapt.com/picons/sporttv2hdpt.png" group-title="Portugal",SportTV 2 HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78312.m3u8
-#EXTINF:-1 tvg-id="SportTV 2 PT" tvg-name="SportTV 2 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv2hdpt.png" group-title="Portugal",SportTV 2 FHD PT
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="SportTV 2 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv2hdpt.png" group-title="Portugal",SportTV 2 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3617.m3u8
-#EXTINF:-1 tvg-id="SportTV 3 PT" tvg-name="SportTV 3 PT" tvg-logo="http://tugapt.com/picons/sporttv3pt.png" group-title="Portugal",SportTV 3 PT
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SportTV 3 PT" tvg-logo="http://tugapt.com/picons/sporttv3pt.png" group-title="Portugal",SportTV 3 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2676.m3u8
-#EXTINF:-1 tvg-id="SportTV 3 PT" tvg-name="SportTV 3 HD PT" tvg-logo="http://tugapt.com/picons/sporttv3hdpt.png" group-title="Portugal",SportTV 3 HD PT
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SportTV 3 HD PT" tvg-logo="http://tugapt.com/picons/sporttv3hdpt.png" group-title="Portugal",SportTV 3 HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78313.m3u8
-#EXTINF:-1 tvg-id="SportTV 3 PT" tvg-name="SportTV 3 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv3hdpt.png" group-title="Portugal",SportTV 3 FHD PT
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SportTV 3 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv3hdpt.png" group-title="Portugal",SportTV 3 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3616.m3u8
-#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="SportTV 4 PT" tvg-logo="http://tugapt.com/picons/sporttv4pt.png" group-title="Portugal",SportTV 4 PT
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="SportTV 4 PT" tvg-logo="http://tugapt.com/picons/sporttv4pt.png" group-title="Portugal",SportTV 4 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2675.m3u8
-#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="SportTV 4 HD PT" tvg-logo="http://tugapt.com/picons/sporttv4pt.png" group-title="Portugal",SportTV 4 HD PT
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="SportTV 4 HD PT" tvg-logo="http://tugapt.com/picons/sporttv4pt.png" group-title="Portugal",SportTV 4 HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78314.m3u8
-#EXTINF:-1 tvg-id="SportTV 4 PT" tvg-name="SportTV 4 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv4hdpt.png" group-title="Portugal",SportTV 4 FHD PT
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="SportTV 4 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv4hdpt.png" group-title="Portugal",SportTV 4 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3615.m3u8
-#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SportTV 5 PT" tvg-logo="http://tugapt.com/picons/sporttv5pt.png" group-title="Portugal",SportTV 5 PT
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SportTV 5 PT" tvg-logo="http://tugapt.com/picons/sporttv5pt.png" group-title="Portugal",SportTV 5 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2674.m3u8
-#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SportTV 5 ( Baixa Internet ) PT" tvg-logo="http://tugapt.com/picons/sporttv5hdpt.png" group-title="Portugal",SportTV 5 ( Baixa Internet ) PT
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SportTV 5 ( Baixa Internet ) PT" tvg-logo="http://tugapt.com/picons/sporttv5hdpt.png" group-title="Portugal",SportTV 5 ( Baixa Internet ) PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75452.m3u8
-#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SportTV 5 HD PT" tvg-logo="http://tugapt.com/picons/sporttv5hdpt.png" group-title="Portugal",SportTV 5 HD PT
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SportTV 5 HD PT" tvg-logo="http://tugapt.com/picons/sporttv5hdpt.png" group-title="Portugal",SportTV 5 HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/48359.m3u8
-#EXTINF:-1 tvg-id="SportTV 5 PT" tvg-name="SportTV 5 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv5hdpt.png" group-title="Portugal",SportTV 5 FHD PT
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SportTV 5 FHD PT" tvg-logo="http://tugapt.com/picons/sporttv5hdpt.png" group-title="Portugal",SportTV 5 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/3614.m3u8
-#EXTINF:-1 tvg-id="SportTV 7 PT" tvg-name="SportTV 7 PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv-7-meo-logo.webp" group-title="Portugal",SportTV 7 PT
+#EXTINF:-1 tvg-id="SportTV7(src01).pt" tvg-name="SportTV 7 PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv-7-meo-logo.webp" group-title="Portugal",SportTV 7 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/122446.m3u8
-#EXTINF:-1 tvg-id="SportTV 7 PT" tvg-name="SportTV 7 FHD PT" tvg-logo="" group-title="Portugal",SportTV 7 FHD PT
+#EXTINF:-1 tvg-id="SportTV7(src01).pt" tvg-name="SportTV 7 FHD PT" tvg-logo="" group-title="Portugal",SportTV 7 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/122745.m3u8
 #EXTINF:-1 tvg-id="SportTV NBA PT" tvg-name="SportTV NBA PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/nba-tv-pt.png" group-title="Portugal",SportTV NBA PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78315.m3u8
@@ -1717,43 +1717,43 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2767.m3
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75460.m3u8
 #EXTINF:-1 tvg-id="BTV 1 HD PT" tvg-name="BTV 1 FHD PT" tvg-logo="http://tugapt.com/picons/btv1hdpt.png" group-title="Portugal",BTV 1 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2766.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel PT" tvg-name="Eleven 1 SD VIP PT" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Portugal",Eleven 1 SD VIP PT
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="Eleven 1 SD VIP PT" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Portugal",Eleven 1 SD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80223.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 1 PT" tvg-name="Eleven 1 HD VIP PT" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Portugal",Eleven 1 HD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven 1 HD VIP PT" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Portugal",Eleven 1 HD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22714.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 1 PT" tvg-name="Eleven 1 FHD VIP PT" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Portugal",Eleven 1 FHD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven 1 FHD VIP PT" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Portugal",Eleven 1 FHD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22713.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2 PT" tvg-name="Eleven 2 SD VIP PT" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Portugal",Eleven 2 SD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven 2 SD VIP PT" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Portugal",Eleven 2 SD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/80224.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2 PT" tvg-name="Eleven 2 HD VIP PT" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Portugal",Eleven 2 HD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven 2 HD VIP PT" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Portugal",Eleven 2 HD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22716.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2 PT" tvg-name="Eleven 2 FHD VIP PT" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Portugal",Eleven 2 FHD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven 2 FHD VIP PT" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Portugal",Eleven 2 FHD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22715.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2 PT" tvg-name="Eleven 2 FHD 4:3 VIP PT" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Portugal",Eleven 2 FHD 4:3 VIP PT
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven 2 FHD 4:3 VIP PT" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Portugal",Eleven 2 FHD 4:3 VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/16065.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 3 PT" tvg-name="Eleven 3 HD VIP PT" tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="Portugal",Eleven 3 HD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven 3 HD VIP PT" tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="Portugal",Eleven 3 HD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22718.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 3 PT" tvg-name="Eleven 3 FHD VIP PT" tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="Portugal",Eleven 3 FHD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven 3 FHD VIP PT" tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="Portugal",Eleven 3 FHD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22717.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 3 PT" tvg-name="Eleven 3 FHD 4:3 VIP PT" tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="Portugal",Eleven 3 FHD 4:3 VIP PT
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven 3 FHD 4:3 VIP PT" tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="Portugal",Eleven 3 FHD 4:3 VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/16064.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4 PT" tvg-name="Eleven 4 HD VIP PT" tvg-logo="https://i.imgur.com/OUGHmuH.png" group-title="Portugal",Eleven 4 HD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Eleven 4 HD VIP PT" tvg-logo="https://i.imgur.com/OUGHmuH.png" group-title="Portugal",Eleven 4 HD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22720.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4 PT" tvg-name="Eleven 4 FHD VIP PT" tvg-logo="https://i.imgur.com/OUGHmuH.png" group-title="Portugal",Eleven 4 FHD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Eleven 4 FHD VIP PT" tvg-logo="https://i.imgur.com/OUGHmuH.png" group-title="Portugal",Eleven 4 FHD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22719.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4 PT" tvg-name="Eleven 4 FHD 4:3 VIP PT" tvg-logo="https://i.imgur.com/OUGHmuH.png" group-title="Portugal",Eleven 4 FHD 4:3 VIP PT
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Eleven 4 FHD 4:3 VIP PT" tvg-logo="https://i.imgur.com/OUGHmuH.png" group-title="Portugal",Eleven 4 FHD 4:3 VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/16063.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 5 PT" tvg-name="Eleven 5 HD VIP PT" tvg-logo="https://i.imgur.com/rw8Qr1l.png" group-title="Portugal",Eleven 5 HD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven 5 HD VIP PT" tvg-logo="https://i.imgur.com/rw8Qr1l.png" group-title="Portugal",Eleven 5 HD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22722.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 5 PT" tvg-name="Eleven 5 FHD VIP PT" tvg-logo="https://i.imgur.com/rw8Qr1l.png" group-title="Portugal",Eleven 5 FHD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven 5 FHD VIP PT" tvg-logo="https://i.imgur.com/rw8Qr1l.png" group-title="Portugal",Eleven 5 FHD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22721.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 5 PT" tvg-name="Eleven 5 FHD 4:3 VIP PT" tvg-logo="https://i.imgur.com/rw8Qr1l.png" group-title="Portugal",Eleven 5 FHD 4:3 VIP PT
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven 5 FHD 4:3 VIP PT" tvg-logo="https://i.imgur.com/rw8Qr1l.png" group-title="Portugal",Eleven 5 FHD 4:3 VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/16062.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 6 PT" tvg-name="Eleven 6 HD VIP PT" tvg-logo="https://i.imgur.com/0dAM5uT.png" group-title="Portugal",Eleven 6 HD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="Eleven 6 HD VIP PT" tvg-logo="https://i.imgur.com/0dAM5uT.png" group-title="Portugal",Eleven 6 HD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22724.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 6 PT" tvg-name="Eleven 6 FHD VIP PT" tvg-logo="https://i.imgur.com/0dAM5uT.png" group-title="Portugal",Eleven 6 FHD VIP PT
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="Eleven 6 FHD VIP PT" tvg-logo="https://i.imgur.com/0dAM5uT.png" group-title="Portugal",Eleven 6 FHD VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/22723.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 6 PT" tvg-name="Eleven 6 FHD 4:3 VIP PT" tvg-logo="https://i.imgur.com/0dAM5uT.png" group-title="Portugal",Eleven 6 FHD 4:3 VIP PT
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="Eleven 6 FHD 4:3 VIP PT" tvg-logo="https://i.imgur.com/0dAM5uT.png" group-title="Portugal",Eleven 6 FHD 4:3 VIP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/16061.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Extra 1 HD PT" tvg-logo="" group-title="Portugal",Eleven Extra 1 HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/117488.m3u8
@@ -1763,51 +1763,51 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/117487.
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/117486.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eleven Extra 4 HD PT" tvg-logo="" group-title="Portugal",Eleven Extra 4 HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/117485.m3u8
-#EXTINF:-1 tvg-id="Canal 11 HD PT" tvg-name="Canal 11 PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/canal11-pt.png" group-title="Portugal",Canal 11 PT
+#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="Canal 11 PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/canal11-pt.png" group-title="Portugal",Canal 11 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/73313.m3u8
-#EXTINF:-1 tvg-id="Canal 11 HD PT" tvg-name="Canal 11 HD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/canal11-pt.png" group-title="Portugal",Canal 11 HD PT
+#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="Canal 11 HD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/canal11-pt.png" group-title="Portugal",Canal 11 HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/73315.m3u8
-#EXTINF:-1 tvg-id="Canal 11 HD PT" tvg-name="Canal 11 FHD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/canal11-pt.png" group-title="Portugal",Canal 11 FHD PT
+#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="Canal 11 FHD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/canal11-pt.png" group-title="Portugal",Canal 11 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/73314.m3u8
-#EXTINF:-1 tvg-id="W-Sport PT" tvg-name="W-Sport HD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/w-sport-meo-logo.webp" group-title="Portugal",W-Sport HD PT
+#EXTINF:-1 tvg-id="WSport(src01).pt" tvg-name="W-Sport HD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/w-sport-meo-logo.webp" group-title="Portugal",W-Sport HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/113001.m3u8
-#EXTINF:-1 tvg-id="Sporting TV PT" tvg-name="Sporting TV PT" tvg-logo="http://tugapt.com/picons/sportingtvpt.png" group-title="Portugal",Sporting TV PT
+#EXTINF:-1 tvg-id="SPORTINGTV(src01).pt" tvg-name="Sporting TV PT" tvg-logo="http://tugapt.com/picons/sportingtvpt.png" group-title="Portugal",Sporting TV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2694.m3u8
-#EXTINF:-1 tvg-id="Sporting TV PT" tvg-name="Sporting TV FHD PT" tvg-logo="http://tugapt.com/picons/sportingtvhdpt.png" group-title="Portugal",Sporting TV FHD PT
+#EXTINF:-1 tvg-id="SPORTINGTV(src01).pt" tvg-name="Sporting TV FHD PT" tvg-logo="http://tugapt.com/picons/sportingtvhdpt.png" group-title="Portugal",Sporting TV FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2695.m3u8
-#EXTINF:-1 tvg-id="A Bola TV PT" tvg-name="A Bola TV PT" tvg-logo="http://tugapt.com/picons/abolatvpt.png" group-title="Portugal",A Bola TV PT
+#EXTINF:-1 tvg-id="ABolaTV(src01).pt" tvg-name="A Bola TV PT" tvg-logo="http://tugapt.com/picons/abolatvpt.png" group-title="Portugal",A Bola TV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2780.m3u8
-#EXTINF:-1 tvg-id="A Bola TV PT" tvg-name="A Bola TV HD PT" tvg-logo="http://tugapt.com/picons/abolatvpt.png" group-title="Portugal",A Bola TV HD PT
+#EXTINF:-1 tvg-id="ABolaTV(src01).pt" tvg-name="A Bola TV HD PT" tvg-logo="http://tugapt.com/picons/abolatvpt.png" group-title="Portugal",A Bola TV HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78317.m3u8
-#EXTINF:-1 tvg-id="A Bola TV PT" tvg-name="A Bola TV FHD PT" tvg-logo="http://tugapt.com/picons/abolatvpt.png" group-title="Portugal",A Bola TV FHD PT
+#EXTINF:-1 tvg-id="ABolaTV(src01).pt" tvg-name="A Bola TV FHD PT" tvg-logo="http://tugapt.com/picons/abolatvpt.png" group-title="Portugal",A Bola TV FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78316.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV PT" tvg-name="Real Madrid TV PT" tvg-logo="http://tugapt.com/picons/realmadridtvpt.png" group-title="Portugal",Real Madrid TV PT
+#EXTINF:-1 tvg-id="RealMadridTV(src01).pt" tvg-name="Real Madrid TV PT" tvg-logo="http://tugapt.com/picons/realmadridtvpt.png" group-title="Portugal",Real Madrid TV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2715.m3u8
-#EXTINF:-1 tvg-id="Eurosport 1 PT" tvg-name="Eurosport 1 PT" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="Portugal",Eurosport 1 PT
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="Eurosport 1 PT" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="Portugal",Eurosport 1 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2753.m3u8
-#EXTINF:-1 tvg-id="Eurosport 1 PT" tvg-name="Eurosport 1 FHD PT" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Portugal",Eurosport 1 FHD PT
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="Eurosport 1 FHD PT" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Portugal",Eurosport 1 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2752.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2 PT" tvg-name="Eurosport 2 PT" tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="Portugal",Eurosport 2 PT
+#EXTINF:-1 tvg-id="EuroSport2(src01).pt" tvg-name="Eurosport 2 PT" tvg-logo="http://tugapt.com/picons/eurosport2pt.png" group-title="Portugal",Eurosport 2 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2751.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2 PT" tvg-name="Eurosport 2 FHD PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%20110%20x%20110/eurosport_2hd_110x110.jpg" group-title="Portugal",Eurosport 2 FHD PT
+#EXTINF:-1 tvg-id="EuroSport2(src01).pt" tvg-name="Eurosport 2 FHD PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%20110%20x%20110/eurosport_2hd_110x110.jpg" group-title="Portugal",Eurosport 2 FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/107484.m3u8
 #EXTINF:-1 tvg-id="PFC PT" tvg-name="PFC PT" tvg-logo="http://tugapt.com/picons/pfcpt.png" group-title="Portugal",PFC PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2717.m3u8
-#EXTINF:-1 tvg-id="MotorVision HD PT" tvg-name="Motorvision TV PT" tvg-logo="http://tugapt.com/picons/motorvisiontvpt.png" group-title="Portugal",Motorvision TV PT
+#EXTINF:-1 tvg-id="MOTORVISION(src01).pt" tvg-name="Motorvision TV PT" tvg-logo="http://tugapt.com/picons/motorvisiontvpt.png" group-title="Portugal",Motorvision TV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2727.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kombat Sport PT" tvg-logo="http://tugapt.com/picons/kombatsportpt.png" group-title="Portugal",Kombat Sport PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2731.m3u8
-#EXTINF:-1 tvg-id="Fight Channel HD PT" tvg-name="Fight Network FHD PT" tvg-logo="http://tugapt.com/picons/fightnetworkpt.png" group-title="Portugal",Fight Network FHD PT
+#EXTINF:-1 tvg-id="FightNetwork(src01).pt" tvg-name="Fight Network FHD PT" tvg-logo="http://tugapt.com/picons/fightnetworkpt.png" group-title="Portugal",Fight Network FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2749.m3u8
-#EXTINF:-1 tvg-id="Fuel TV PT" tvg-name="Fuel TV PT" tvg-logo="http://tugapt.com/picons/fueltvpt.png" group-title="Portugal",Fuel TV PT
+#EXTINF:-1 tvg-id="FuelTV(src01).pt" tvg-name="Fuel TV PT" tvg-logo="http://tugapt.com/picons/fueltvpt.png" group-title="Portugal",Fuel TV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2738.m3u8
-#EXTINF:-1 tvg-id="Fuel TV PT" tvg-name="Fuel TV FHD PT" tvg-logo="http://tugapt.com/picons/fueltvhdpt.png" group-title="Portugal",Fuel TV FHD PT
+#EXTINF:-1 tvg-id="FuelTV(src01).pt" tvg-name="Fuel TV FHD PT" tvg-logo="http://tugapt.com/picons/fueltvhdpt.png" group-title="Portugal",Fuel TV FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2747.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="========== Música ==========" tvg-logo="" group-title="Portugal",========== Música ==========
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/13977.m3u8
-#EXTINF:-1 tvg-id="MTV PT" tvg-name="MTV PT" tvg-logo="http://tugapt.com/picons/mtvpt.png" group-title="Portugal",MTV PT
+#EXTINF:-1 tvg-id="MTV(src01).pt" tvg-name="MTV PT" tvg-logo="http://tugapt.com/picons/mtvpt.png" group-title="Portugal",MTV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2724.m3u8
-#EXTINF:-1 tvg-id="MTV PT" tvg-name="MTV FHD PT" tvg-logo="http://tugapt.com/picons/mtvpt.png" group-title="Portugal",MTV FHD PT
+#EXTINF:-1 tvg-id="MTV(src01).pt" tvg-name="MTV FHD PT" tvg-logo="http://tugapt.com/picons/mtvpt.png" group-title="Portugal",MTV FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78318.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV DANCE PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/mtv-club-uk.png" group-title="Portugal",MTV DANCE PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/62542.m3u8
@@ -1821,15 +1821,15 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/101772.
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/5613.m3u8
 #EXTINF:-1 tvg-id="Trace Urban PT" tvg-name="Trace Urban PT" tvg-logo="http://tugapt.com/picons/traceurbanpt.png" group-title="Portugal",Trace Urban PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/5612.m3u8
-#EXTINF:-1 tvg-id="MCM POP PT" tvg-name="MCM POP PT" tvg-logo="http://tugapt.com/picons/mcmpoppt.png" group-title="Portugal",MCM POP PT
+#EXTINF:-1 tvg-id="MCMPOP(src01).pt" tvg-name="MCM POP PT" tvg-logo="http://tugapt.com/picons/mcmpoppt.png" group-title="Portugal",MCM POP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2730.m3u8
-#EXTINF:-1 tvg-id="MCM TOP PT" tvg-name="MCM TOP PT" tvg-logo="http://tugapt.com/picons/mcmtoppt.png" group-title="Portugal",MCM TOP PT
+#EXTINF:-1 tvg-id="MCMTop(src01).pt" tvg-name="MCM TOP PT" tvg-logo="http://tugapt.com/picons/mcmtoppt.png" group-title="Portugal",MCM TOP PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2729.m3u8
-#EXTINF:-1 tvg-id="Mezzo PT" tvg-name="Mezzo PT" tvg-logo="http://tugapt.com/picons/mezzopt.png" group-title="Portugal",Mezzo PT
+#EXTINF:-1 tvg-id="MEZZO(src01).pt" tvg-name="Mezzo PT" tvg-logo="http://tugapt.com/picons/mezzopt.png" group-title="Portugal",Mezzo PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/5610.m3u8
-#EXTINF:-1 tvg-id="Trace Toca PT" tvg-name="TRACE TOCA PT" tvg-logo="http://tugapt.com/picons/cmusictvpt.png" group-title="Portugal",TRACE TOCA PT
+#EXTINF:-1 tvg-id="TraceToca(src01).pt" tvg-name="TRACE TOCA PT" tvg-logo="http://tugapt.com/picons/cmusictvpt.png" group-title="Portugal",TRACE TOCA PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/5611.m3u8
-#EXTINF:-1 tvg-id="Afro Music PT" tvg-name="Afro Music PT" tvg-logo="http://tugapt.com/picons/afromusicpt.png" group-title="Portugal",Afro Music PT
+#EXTINF:-1 tvg-id="AfroMusic(src01).pt" tvg-name="Afro Music PT" tvg-logo="http://tugapt.com/picons/afromusicpt.png" group-title="Portugal",Afro Music PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2778.m3u8
 #EXTINF:-1 tvg-id="StingrayiConcerts.ca" tvg-name="iConcerts HD PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/iconcertshd.png" group-title="Portugal",iConcerts HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78322.m3u8
@@ -1841,31 +1841,31 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/108470.
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/89990.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="========== Documentários ==========" tvg-logo="" group-title="Portugal",========== Documentários ==========
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/13978.m3u8
-#EXTINF:-1 tvg-id="24 Kitchen PT" tvg-name="24 Kitchen HD PT" tvg-logo="http://tugapt.com/picons/24kitchenhdpt.png" group-title="Portugal",24 Kitchen HD PT
+#EXTINF:-1 tvg-id="24Kitchen(src01).pt" tvg-name="24 Kitchen HD PT" tvg-logo="http://tugapt.com/picons/24kitchenhdpt.png" group-title="Portugal",24 Kitchen HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/6237.m3u8
-#EXTINF:-1 tvg-id="24 Kitchen PT" tvg-name="24 Kitchen FHD PT" tvg-logo="http://tugapt.com/picons/24kitchenhdpt.png" group-title="Portugal",24 Kitchen FHD PT
+#EXTINF:-1 tvg-id="24Kitchen(src01).pt" tvg-name="24 Kitchen FHD PT" tvg-logo="http://tugapt.com/picons/24kitchenhdpt.png" group-title="Portugal",24 Kitchen FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2781.m3u8
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-logo="http://tugapt.com/picons/artvpt.png" group-title="Portugal",ARTV PT
+#EXTINF:-1 tvg-id="ARTV(src01).pt" tvg-name="ARTV PT" tvg-logo="http://tugapt.com/picons/artvpt.png" group-title="Portugal",ARTV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/5619.m3u8
 #EXTINF:-1 tvg-id="BBC Entertainment PT" tvg-name="BBC Entertainment PT" tvg-logo="http://tugapt.com/picons/bbcentertainmentpt.png" group-title="Portugal",BBC Entertainment PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2775.m3u8
-#EXTINF:-1 tvg-id="AMC Break PT" tvg-name="AMC Break PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/amc-break.png" group-title="Portugal",AMC Break PT
+#EXTINF:-1 tvg-id="AMCBreak(src01).pt" tvg-name="AMC Break PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/amc-break.png" group-title="Portugal",AMC Break PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2779.m3u8
-#EXTINF:-1 tvg-id="AMC Break PT" tvg-name="AMC Break FHD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/amc-break.png" group-title="Portugal",AMC Break FHD PT
+#EXTINF:-1 tvg-id="AMCBreak(src01).pt" tvg-name="AMC Break FHD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/amc-break.png" group-title="Portugal",AMC Break FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78319.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Reality PT" tvg-logo="http://tugapt.com/picons/cbsrealitypt.png" group-title="Portugal",CBS Reality PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2760.m3u8
-#EXTINF:-1 tvg-id="Canal Q PT" tvg-name="Canal Q PT" tvg-logo="http://tugapt.com/picons/canalqpt.png" group-title="Portugal",Canal Q PT
+#EXTINF:-1 tvg-id="CanalQ(src01).pt" tvg-name="Canal Q PT" tvg-logo="http://tugapt.com/picons/canalqpt.png" group-title="Portugal",Canal Q PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/5618.m3u8
-#EXTINF:-1 tvg-id="24 Kitchen PT" tvg-name="Caça Vision PT" tvg-logo="http://tugapt.com/picons/cacavisionpt.png" group-title="Portugal",Caça Vision PT
+#EXTINF:-1 tvg-id="24Kitchen(src01).pt" tvg-name="Caça Vision PT" tvg-logo="http://tugapt.com/picons/cacavisionpt.png" group-title="Portugal",Caça Vision PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2764.m3u8
-#EXTINF:-1 tvg-id="Caca e Pesca PT" tvg-name="Caça e Pesca PT" tvg-logo="http://tugapt.com/picons/cacaepescapt.png" group-title="Portugal",Caça e Pesca PT
+#EXTINF:-1 tvg-id="CacaePesca(src01).pt" tvg-name="Caça e Pesca PT" tvg-logo="http://tugapt.com/picons/cacaepescapt.png" group-title="Portugal",Caça e Pesca PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2765.m3u8
-#EXTINF:-1 tvg-id="Caca e Pesca PT" tvg-name="Caça e Pesca FHD PT" tvg-logo="http://tugapt.com/picons/cacaepescapt.png" group-title="Portugal",Caça e Pesca FHD PT
+#EXTINF:-1 tvg-id="CacaePesca(src01).pt" tvg-name="Caça e Pesca FHD PT" tvg-logo="http://tugapt.com/picons/cacaepescapt.png" group-title="Portugal",Caça e Pesca FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78320.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel PT" tvg-name="Discovery Channel PT" tvg-logo="http://tugapt.com/picons/discoverychannelpt.png" group-title="Portugal",Discovery Channel PT
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="Discovery Channel PT" tvg-logo="http://tugapt.com/picons/discoverychannelpt.png" group-title="Portugal",Discovery Channel PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2757.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel PT" tvg-name="Discovery Channel FHD PT" tvg-logo="http://tugapt.com/picons/discoverychannelpt.png" group-title="Portugal",Discovery Channel FHD PT
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="Discovery Channel FHD PT" tvg-logo="http://tugapt.com/picons/discoverychannelpt.png" group-title="Portugal",Discovery Channel FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78321.m3u8
 #EXTINF:-1 tvg-id="ID Investigation Discovery PT" tvg-name="Investigation Discovery FHD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/investigation-discovery-uk.png" group-title="Portugal",Investigation Discovery FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/72122.m3u8
@@ -1875,25 +1875,25 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2754.m3
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78323.m3u8
 #EXTINF:-1 tvg-id="Fashion TV PT" tvg-name="Fashion TV PT" tvg-logo="http://tugapt.com/picons/fashiontvpt.png" group-title="Portugal",Fashion TV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2748.m3u8
-#EXTINF:-1 tvg-id="Historia PT" tvg-name="História PT" tvg-logo="http://tugapt.com/picons/historiapt.png" group-title="Portugal",História PT
+#EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="História PT" tvg-logo="http://tugapt.com/picons/historiapt.png" group-title="Portugal",História PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2735.m3u8
-#EXTINF:-1 tvg-id="Historia PT" tvg-name="História FHD PT" tvg-logo="http://tugapt.com/picons/historiapt.png" group-title="Portugal",História FHD PT
+#EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="História FHD PT" tvg-logo="http://tugapt.com/picons/historiapt.png" group-title="Portugal",História FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78324.m3u8
 #EXTINF:-1 tvg-id="LocalVisao TV HD PT" tvg-name="LocalVisão TV HD PT" tvg-logo="http://tugapt.com/picons/localvisaotvpt.png" group-title="Portugal",LocalVisão TV HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2744.m3u8
-#EXTINF:-1 tvg-id="Food Network HD.pt" tvg-name="Food Network PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/food-network-uk.png" group-title="Portugal",Food Network PT
+#EXTINF:-1 tvg-id="FoodNetwork(src01).pt" tvg-name="Food Network PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/food-network-uk.png" group-title="Portugal",Food Network PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/91124.m3u8
-#EXTINF:-1 tvg-id="Food Network HD.pt" tvg-name="Food Network FHD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/food-network-uk.png" group-title="Portugal",Food Network FHD PT
+#EXTINF:-1 tvg-id="FoodNetwork(src01).pt" tvg-name="Food Network FHD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/food-network-uk.png" group-title="Portugal",Food Network FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75231.m3u8
 #EXTINF:-1 tvg-id="National Geographic PT" tvg-name="National Geographic PT" tvg-logo="http://tugapt.com/picons/nationalgeographichdpt.png" group-title="Portugal",National Geographic PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78325.m3u8
 #EXTINF:-1 tvg-id="National Geographic PT" tvg-name="National Geographic FHD PT" tvg-logo="http://tugapt.com/picons/nationalgeographichdpt.png" group-title="Portugal",National Geographic FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2720.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild PT" tvg-name="Nat Geo Wild PT" tvg-logo="http://tugapt.com/picons/natgeowildpt.png" group-title="Portugal",Nat Geo Wild PT
+#EXTINF:-1 tvg-id="NatGeoWild(src01).pt" tvg-name="Nat Geo Wild PT" tvg-logo="http://tugapt.com/picons/natgeowildpt.png" group-title="Portugal",Nat Geo Wild PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2723.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild PT" tvg-name="Nat Geo Wild HD PT" tvg-logo="http://tugapt.com/picons/natgeowildpt.png" group-title="Portugal",Nat Geo Wild HD PT
+#EXTINF:-1 tvg-id="NatGeoWild(src01).pt" tvg-name="Nat Geo Wild HD PT" tvg-logo="http://tugapt.com/picons/natgeowildpt.png" group-title="Portugal",Nat Geo Wild HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78326.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild PT" tvg-name="Nat Geo Wild FHD PT" tvg-logo="http://tugapt.com/picons/natgeowildhdpt.png" group-title="Portugal",Nat Geo Wild FHD PT
+#EXTINF:-1 tvg-id="NatGeoWild(src01).pt" tvg-name="Nat Geo Wild FHD PT" tvg-logo="http://tugapt.com/picons/natgeowildhdpt.png" group-title="Portugal",Nat Geo Wild FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2722.m3u8
 #EXTINF:-1 tvg-id="Travelxp PT" tvg-name="TravelXP HD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/travelxp-hd.png" group-title="Portugal",TravelXP HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/110124.m3u8
@@ -1901,25 +1901,25 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/110124.
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/110123.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unifé TV HD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/unife.png" group-title="Portugal",Unifé TV HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/113000.m3u8
-#EXTINF:-1 tvg-id="AMC Crime PT" tvg-name="AMC Crime PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/amc-crime.png" group-title="Portugal",AMC Crime PT
+#EXTINF:-1 tvg-id="AMCCrime(src01).pt" tvg-name="AMC Crime PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/amc-crime.png" group-title="Portugal",AMC Crime PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/62539.m3u8
-#EXTINF:-1 tvg-id="Odisseia PT" tvg-name="Odisseia PT" tvg-logo="http://tugapt.com/picons/odisseiapt.png" group-title="Portugal",Odisseia PT
+#EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="Odisseia PT" tvg-logo="http://tugapt.com/picons/odisseiapt.png" group-title="Portugal",Odisseia PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2718.m3u8
-#EXTINF:-1 tvg-id="Odisseia PT" tvg-name="Odisseia FHD PT" tvg-logo="http://tugapt.com/picons/odisseiapt.png" group-title="Portugal",Odisseia FHD PT
+#EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="Odisseia FHD PT" tvg-logo="http://tugapt.com/picons/odisseiapt.png" group-title="Portugal",Odisseia FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78327.m3u8
-#EXTINF:-1 tvg-id="TLC PT" tvg-name="TLC PT" tvg-logo="http://tugapt.com/picons/tlcpt.png" group-title="Portugal",TLC PT
+#EXTINF:-1 tvg-id="TLC(src01).pt" tvg-name="TLC PT" tvg-logo="http://tugapt.com/picons/tlcpt.png" group-title="Portugal",TLC PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2691.m3u8
-#EXTINF:-1 tvg-id="DOGTV PT" tvg-name="Dog TV FHD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/dog-tv-us.png" group-title="Portugal",Dog TV FHD PT
+#EXTINF:-1 tvg-id="DOGTV(src01).pt" tvg-name="Dog TV FHD PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/dog-tv-us.png" group-title="Portugal",Dog TV FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/73312.m3u8
-#EXTINF:-1 tvg-id="ZAP Viva HD.pt" tvg-name="Zap Viva FHD PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/ZAPVIVAHD.png" group-title="Portugal",Zap Viva FHD PT
+#EXTINF:-1 tvg-id="ZAPViva(src01).pt" tvg-name="Zap Viva FHD PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/ZAPVIVAHD.png" group-title="Portugal",Zap Viva FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/73311.m3u8
-#EXTINF:-1 tvg-id="TPA Internacional PT" tvg-name="TPA PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TPA.png" group-title="Portugal",TPA PT
+#EXTINF:-1 tvg-id="TPAInternacional(src01).pt" tvg-name="TPA PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TPA.png" group-title="Portugal",TPA PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75229.m3u8
-#EXTINF:-1 tvg-id="TCV Internacional PT" tvg-name="TCV International PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TCVINT.png" group-title="Portugal",TCV International PT
+#EXTINF:-1 tvg-id="TCVInternacional(src01).pt" tvg-name="TCV International PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TCVINT.png" group-title="Portugal",TCV International PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75228.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Zimbo PT" tvg-logo="https://i.imgur.com/6mpKDJB.png" group-title="Portugal",TV Zimbo PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/78292.m3u8
-#EXTINF:-1 tvg-id="Travel Channel HD.pt" tvg-name="Travel Channel HD PT" tvg-logo="http://tugapt.com/picons/travelchannelhdpt.png" group-title="Portugal",Travel Channel HD PT
+#EXTINF:-1 tvg-id="TravelChannel(src01).pt" tvg-name="Travel Channel HD PT" tvg-logo="http://tugapt.com/picons/travelchannelhdpt.png" group-title="Portugal",Travel Channel HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2689.m3u8
 #EXTINF:-1 tvg-id="Toros TV PT" tvg-name="Toros TV PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/toros-tv-pt.png" group-title="Portugal",Toros TV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2690.m3u8
@@ -1933,13 +1933,13 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/110774.
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/5617.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santuario Fatima FHD PT" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Portugal",Santuario Fatima FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/75226.m3u8
-#EXTINF:-1 tvg-id="Cancao Nova PT" tvg-name="Canção Nova PT" tvg-logo="http://tugapt.com/picons/cancaonovapt.png" group-title="Portugal",Canção Nova PT
+#EXTINF:-1 tvg-id="CancaoNova(src01).pt" tvg-name="Canção Nova PT" tvg-logo="http://tugapt.com/picons/cancaonovapt.png" group-title="Portugal",Canção Nova PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/5620.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuriakos TV PT" tvg-logo="http://tugapt.com/picons/kuriakostv.png" group-title="Portugal",Kuriakos TV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/33166.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV HD PT" tvg-logo="http://tugapt.com/picons/kuriakostv.png" group-title="Portugal",Kuriakos TV HD PT
+#EXTINF:-1 tvg-id="KURIAKOSTV(src01).pt" tvg-name="Kuriakos TV HD PT" tvg-logo="http://tugapt.com/picons/kuriakostv.png" group-title="Portugal",Kuriakos TV HD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/33165.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV FHD PT" tvg-logo="http://tugapt.com/picons/kuriakostv.png" group-title="Portugal",Kuriakos TV FHD PT
+#EXTINF:-1 tvg-id="KURIAKOSTV(src01).pt" tvg-name="Kuriakos TV FHD PT" tvg-logo="http://tugapt.com/picons/kuriakostv.png" group-title="Portugal",Kuriakos TV FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/33164.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuriakos Cine PT" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Portugal",Kuriakos Cine PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/77671.m3u8
@@ -2105,7 +2105,7 @@ http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=103108&exte
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=102336&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Panda Kids PT" tvg-logo="http://nos.pt/particulares/televisao/canais/PublishingImages/panda-kids/logo-pandakids.png" group-title="Portugal",Panda Kids PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=101164&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior FHD PT" tvg-logo="http://tugapt.com/picons/disneyjuniorpt.png" group-title="Portugal",Disney Junior FHD PT
+#EXTINF:-1 tvg-id="DisneyJunior(src01).pt" tvg-name="Disney Junior FHD PT" tvg-logo="http://tugapt.com/picons/disneyjuniorpt.png" group-title="Portugal",Disney Junior FHD PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=102338&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel FHD PT" tvg-logo="http://tugapt.com/picons/disneychannelpt.png" group-title="Portugal",Disney Channel FHD PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=102337&extension=ts
@@ -2163,7 +2163,7 @@ http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=96824&exten
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=96391&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Musica: Ibiza Summer Mix 2022 PT" tvg-logo="" group-title="Portugal",Musica: Ibiza Summer Mix 2022 PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=105749&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa e Cozinha FHD PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/casacozhd.png" group-title="Portugal",Casa e Cozinha FHD PT
+#EXTINF:-1 tvg-id="CasaeCozinha(src01).pt" tvg-name="Casa e Cozinha FHD PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/casacozhd.png" group-title="Portugal",Casa e Cozinha FHD PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=82406&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BackUP- Sport 1 SD PT" tvg-logo="" group-title="Portugal",BackUP- Sport 1 SD PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=91035&extension=ts
@@ -2857,59 +2857,59 @@ http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=78408&exten
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=78352&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LiveCam Madeira - Jardim do Mar PT" tvg-logo="https://i.imgur.com/NkHkj7M.png" group-title="Portugal",LiveCam Madeira - Jardim do Mar PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=78409&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP 1 HEVC PT" tvg-logo="http://tugapt.com/picons/rtp1pt.png" group-title="Portugal HEVC",RTP 1 HEVC PT
+#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="RTP 1 HEVC PT" tvg-logo="http://tugapt.com/picons/rtp1pt.png" group-title="Portugal HEVC",RTP 1 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94887&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP 2 HEVC PT" tvg-logo="http://tugapt.com/picons/rtp2pt.png" group-title="Portugal HEVC",RTP 2 HEVC PT
+#EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="RTP 2 HEVC PT" tvg-logo="http://tugapt.com/picons/rtp2pt.png" group-title="Portugal HEVC",RTP 2 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94886&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIC HEVC PT" tvg-logo="http://tugapt.com/picons/sicpt.png" group-title="Portugal HEVC",SIC HEVC PT
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC HEVC PT" tvg-logo="http://tugapt.com/picons/sicpt.png" group-title="Portugal HEVC",SIC HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94885&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVI HEVC PT" tvg-logo="http://tugapt.com/picons/tvihdpt.png" group-title="Portugal HEVC",TVI HEVC PT
+#EXTINF:-1 tvg-id="TVI(src01).pt" tvg-name="TVI HEVC PT" tvg-logo="http://tugapt.com/picons/tvihdpt.png" group-title="Portugal HEVC",TVI HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94884&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Portugal HEVC PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/cnn-portugal-hd.png" group-title="Portugal HEVC",CNN Portugal HEVC PT
+#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN Portugal HEVC PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/cnn-portugal-hd.png" group-title="Portugal HEVC",CNN Portugal HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94883&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V+ HEVC PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="Portugal HEVC",V+ HEVC PT
+#EXTINF:-1 tvg-id="VplusTVI(src01).pt" tvg-name="V+ HEVC PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="Portugal HEVC",V+ HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94882&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTP 3 HEVC PT" tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal HEVC",RTP 3 HEVC PT
+#EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="RTP 3 HEVC PT" tvg-logo="http://tugapt.com/picons/rtp3pt.png" group-title="Portugal HEVC",RTP 3 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94881&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIC NOTICIAS HEVC PT" tvg-logo="http://tugapt.com/picons/sicnoticiashdpt.png" group-title="Portugal HEVC",SIC NOTICIAS HEVC PT
+#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC NOTICIAS HEVC PT" tvg-logo="http://tugapt.com/picons/sicnoticiashdpt.png" group-title="Portugal HEVC",SIC NOTICIAS HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94880&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIC RADICAL HEVC PT" tvg-logo="http://tugapt.com/picons/sicradicalpt.png" group-title="Portugal HEVC",SIC RADICAL HEVC PT
+#EXTINF:-1 tvg-id="SICRadical(src01).pt" tvg-name="SIC RADICAL HEVC PT" tvg-logo="http://tugapt.com/picons/sicradicalpt.png" group-title="Portugal HEVC",SIC RADICAL HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94879&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIC CARAS HEVC PT" tvg-logo="http://tugapt.com/picons/siccaraspt.png" group-title="Portugal HEVC",SIC CARAS HEVC PT
+#EXTINF:-1 tvg-id="SicCaras(src01).pt" tvg-name="SIC CARAS HEVC PT" tvg-logo="http://tugapt.com/picons/siccaraspt.png" group-title="Portugal HEVC",SIC CARAS HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94878&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SIC MULHER HEVC PT" tvg-logo="http://tugapt.com/picons/sicmulherpt.png" group-title="Portugal HEVC",SIC MULHER HEVC PT
+#EXTINF:-1 tvg-id="SICMulher(src01).pt" tvg-name="SIC MULHER HEVC PT" tvg-logo="http://tugapt.com/picons/sicmulherpt.png" group-title="Portugal HEVC",SIC MULHER HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94877&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CMTV HEVC PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal HEVC",CMTV HEVC PT
+#EXTINF:-1 tvg-id="CMTV(src01).pt" tvg-name="CMTV HEVC PT" tvg-logo="http://tugapt.com/picons/cmtvpt.png" group-title="Portugal HEVC",CMTV HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94876&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZAP VIVA HEVC PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/ZAPVIVAHD.png" group-title="Portugal HEVC",ZAP VIVA HEVC PT
+#EXTINF:-1 tvg-id="ZAPViva(src01).pt" tvg-name="ZAP VIVA HEVC PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/ZAPVIVAHD.png" group-title="Portugal HEVC",ZAP VIVA HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94875&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CASA E COZINHA HEVC PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/casacozhd.png" group-title="Portugal HEVC",CASA E COZINHA HEVC PT
+#EXTINF:-1 tvg-id="CasaeCozinha(src01).pt" tvg-name="CASA E COZINHA HEVC PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/casacozhd.png" group-title="Portugal HEVC",CASA E COZINHA HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94874&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 KITCHEN HEVC PT" tvg-logo="http://tugapt.com/picons/24kitchenhdpt.png" group-title="Portugal HEVC",24 KITCHEN HEVC PT
+#EXTINF:-1 tvg-id="24Kitchen(src01).pt" tvg-name="24 KITCHEN HEVC PT" tvg-logo="http://tugapt.com/picons/24kitchenhdpt.png" group-title="Portugal HEVC",24 KITCHEN HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94873&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! HEVC PT" tvg-logo="http://tugapt.com/picons/ept.png" group-title="Portugal HEVC",E! HEVC PT
+#EXTINF:-1 tvg-id="EEntertainment(src01).pt" tvg-name="E! HEVC PT" tvg-logo="http://tugapt.com/picons/ept.png" group-title="Portugal HEVC",E! HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94872&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCINE TOP  HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine1pt.png" group-title="Portugal HEVC",TVCINE TOP  HEVC PT
+#EXTINF:-1 tvg-id="TVCineTOP(src01).pt" tvg-name="TVCINE TOP  HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine1pt.png" group-title="Portugal HEVC",TVCINE TOP  HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94868&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCINE EDITION HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine2pt.png" group-title="Portugal HEVC",TVCINE EDITION HEVC PT
+#EXTINF:-1 tvg-id="TVCineEDITION(src01).pt" tvg-name="TVCINE EDITION HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine2pt.png" group-title="Portugal HEVC",TVCINE EDITION HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94867&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCINE EMOTION HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine3pt.png" group-title="Portugal HEVC",TVCINE EMOTION HEVC PT
+#EXTINF:-1 tvg-id="TVCineEMOTION(src01).pt" tvg-name="TVCINE EMOTION HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine3pt.png" group-title="Portugal HEVC",TVCINE EMOTION HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94866&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCINE ACTION HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine4pt.png" group-title="Portugal HEVC",TVCINE ACTION HEVC PT
+#EXTINF:-1 tvg-id="TVCineACTION(src01).pt" tvg-name="TVCINE ACTION HEVC PT" tvg-logo="http://tugapt.com/picons/tvcine4pt.png" group-title="Portugal HEVC",TVCINE ACTION HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94865&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOS STUDIOS HEVC PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="Portugal HEVC",NOS STUDIOS HEVC PT
+#EXTINF:-1 tvg-id="NOSStudios(src01).pt" tvg-name="NOS STUDIOS HEVC PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="Portugal HEVC",NOS STUDIOS HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94864&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HEVC PT" tvg-logo="http://tugapt.com/picons/axnhdpt.png" group-title="Portugal HEVC",AXN HEVC PT
+#EXTINF:-1 tvg-id="AXN(src01).pt" tvg-name="AXN HEVC PT" tvg-logo="http://tugapt.com/picons/axnhdpt.png" group-title="Portugal HEVC",AXN HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94863&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN WHITE HEVC PT" tvg-logo="http://tugapt.com/picons/axnwhitehdpt.png" group-title="Portugal HEVC",AXN WHITE HEVC PT
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt" tvg-name="AXN WHITE HEVC PT" tvg-logo="http://tugapt.com/picons/axnwhitehdpt.png" group-title="Portugal HEVC",AXN WHITE HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94862&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN MOVIES HEVC PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/axn-movies-hd-pt.png" group-title="Portugal HEVC",AXN MOVIES HEVC PT
+#EXTINF:-1 tvg-id="AXNMovies(src01).pt" tvg-name="AXN MOVIES HEVC PT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/axn-movies-hd-pt.png" group-title="Portugal HEVC",AXN MOVIES HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94861&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC HEVC PT" tvg-logo="http://tugapt.com/picons/amcpt.png" group-title="Portugal HEVC",AMC HEVC PT
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC HEVC PT" tvg-logo="http://tugapt.com/picons/amcpt.png" group-title="Portugal HEVC",AMC HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94860&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOLLYWOOD HEVC PT" tvg-logo="http://tugapt.com/picons/hollywoodhdpt.png" group-title="Portugal HEVC",HOLLYWOOD HEVC PT
+#EXTINF:-1 tvg-id="Hollywood(src01).pt" tvg-name="HOLLYWOOD HEVC PT" tvg-logo="http://tugapt.com/picons/hollywoodhdpt.png" group-title="Portugal HEVC",HOLLYWOOD HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94859&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY HEVC PT" tvg-logo="http://tugapt.com/picons/syfypt.png" group-title="Portugal HEVC",SYFY HEVC PT
+#EXTINF:-1 tvg-id="SyFy(src01).pt" tvg-name="SYFY HEVC PT" tvg-logo="http://tugapt.com/picons/syfypt.png" group-title="Portugal HEVC",SYFY HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94858&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_channel.png" group-title="Portugal HEVC",Star HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94857&extension=ts
@@ -2919,48 +2919,48 @@ http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94856&exten
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94855&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star MOVIES HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_movies.png" group-title="Portugal HEVC",Star MOVIES HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94854&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMUNDO HEVC PT" tvg-logo="http://tugapt.com/picons/cinemundopt.png" group-title="Portugal HEVC",CINEMUNDO HEVC PT
+#EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CINEMUNDO HEVC PT" tvg-logo="http://tugapt.com/picons/cinemundopt.png" group-title="Portugal HEVC",CINEMUNDO HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94853&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL 11 HEVC PT" tvg-logo="" group-title="Portugal HEVC",CANAL 11 HEVC PT
+#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="CANAL 11 HEVC PT" tvg-logo="" group-title="Portugal HEVC",CANAL 11 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94852&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV + HEVC PT" tvg-logo="http://tugapt.com/picons/sporttvpluspt.png" group-title="Portugal HEVC",SPORT TV + HEVC PT
+#EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="SPORT TV + HEVC PT" tvg-logo="http://tugapt.com/picons/sporttvpluspt.png" group-title="Portugal HEVC",SPORT TV + HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94851&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 1 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv1pt.png" group-title="Portugal HEVC",SPORT TV 1 HEVC PT
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SPORT TV 1 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv1pt.png" group-title="Portugal HEVC",SPORT TV 1 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94850&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 2 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv2pt.png" group-title="Portugal HEVC",SPORT TV 2 HEVC PT
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="SPORT TV 2 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv2pt.png" group-title="Portugal HEVC",SPORT TV 2 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94849&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 3 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv3pt.png" group-title="Portugal HEVC",SPORT TV 3 HEVC PT
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SPORT TV 3 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv3pt.png" group-title="Portugal HEVC",SPORT TV 3 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94848&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 4 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv4pt.png" group-title="Portugal HEVC",SPORT TV 4 HEVC PT
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="SPORT TV 4 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv4pt.png" group-title="Portugal HEVC",SPORT TV 4 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94847&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV 5 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv5pt.png" group-title="Portugal HEVC",SPORT TV 5 HEVC PT
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SPORT TV 5 HEVC PT" tvg-logo="http://tugapt.com/picons/sporttv5pt.png" group-title="Portugal HEVC",SPORT TV 5 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94846&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV NBA HEVC PT" tvg-logo="" group-title="Portugal HEVC",SPORT TV NBA HEVC PT
+#EXTINF:-1 tvg-id="NBA(src01).pt" tvg-name="SPORT TV NBA HEVC PT" tvg-logo="" group-title="Portugal HEVC",SPORT TV NBA HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94845&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV HEVC PT" tvg-logo="http://tugapt.com/picons/btv1pt.png" group-title="Portugal HEVC",BTV HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94844&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN 1 HEVC PT" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Portugal HEVC",ELEVEN 1 HEVC PT
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="ELEVEN 1 HEVC PT" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Portugal HEVC",ELEVEN 1 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94843&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN 2 HEVC PT" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Portugal HEVC",ELEVEN 2 HEVC PT
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="ELEVEN 2 HEVC PT" tvg-logo="https://i.imgur.com/bGRgFwo.png" group-title="Portugal HEVC",ELEVEN 2 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94842&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ELEVEN 3 HEVC PT" tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="Portugal HEVC",ELEVEN 3 HEVC PT
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="ELEVEN 3 HEVC PT" tvg-logo="https://i.imgur.com/lrcWrFs.png" group-title="Portugal HEVC",ELEVEN 3 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94841&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1 HEVC PT" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="Portugal HEVC",EUROSPORT 1 HEVC PT
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="EUROSPORT 1 HEVC PT" tvg-logo="http://tugapt.com/picons/eurosport1pt.png" group-title="Portugal HEVC",EUROSPORT 1 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94840&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A BOLA TV HEVC PT" tvg-logo="http://tugapt.com/picons/abolatvpt.png" group-title="Portugal HEVC",A BOLA TV HEVC PT
+#EXTINF:-1 tvg-id="ABolaTV(src01).pt" tvg-name="A BOLA TV HEVC PT" tvg-logo="http://tugapt.com/picons/abolatvpt.png" group-title="Portugal HEVC",A BOLA TV HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94839&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEO HEVC PT" tvg-logo="http://tugapt.com/picons/nationalgeographichdpt.png" group-title="Portugal HEVC",NATIONAL GEO HEVC PT
+#EXTINF:-1 tvg-id="NatGeoWild(src01).pt" tvg-name="NATIONAL GEO HEVC PT" tvg-logo="http://tugapt.com/picons/nationalgeographichdpt.png" group-title="Portugal HEVC",NATIONAL GEO HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94838&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD HEVC PT" tvg-logo="http://tugapt.com/picons/natgeowildpt.png" group-title="Portugal HEVC",NAT GEO WILD HEVC PT
+#EXTINF:-1 tvg-id="NatGeoWild(src01).pt" tvg-name="NAT GEO WILD HEVC PT" tvg-logo="http://tugapt.com/picons/natgeowildpt.png" group-title="Portugal HEVC",NAT GEO WILD HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94837&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID INVESTIGATION HEVC PT" tvg-logo="" group-title="Portugal HEVC",ID INVESTIGATION HEVC PT
+#EXTINF:-1 tvg-id="InvestigationDiscovery(src01).pt" tvg-name="ID INVESTIGATION HEVC PT" tvg-logo="" group-title="Portugal HEVC",ID INVESTIGATION HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94836&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRAVEL CHANNEL HEVC PT" tvg-logo="http://tugapt.com/picons/travelchannelhdpt.png" group-title="Portugal HEVC",TRAVEL CHANNEL HEVC PT
+#EXTINF:-1 tvg-id="TravelChannel(src01).pt" tvg-name="TRAVEL CHANNEL HEVC PT" tvg-logo="http://tugapt.com/picons/travelchannelhdpt.png" group-title="Portugal HEVC",TRAVEL CHANNEL HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94835&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HISTORIA HEVC PT" tvg-logo="http://tugapt.com/picons/historiapt.png" group-title="Portugal HEVC",HISTORIA HEVC PT
+#EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="HISTORIA HEVC PT" tvg-logo="http://tugapt.com/picons/historiapt.png" group-title="Portugal HEVC",HISTORIA HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94833&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC Break HEVC PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/amc-break.png" group-title="Portugal HEVC",AMC Break HEVC PT
+#EXTINF:-1 tvg-id="AMCBreak(src01).pt" tvg-name="AMC Break HEVC PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/amc-break.png" group-title="Portugal HEVC",AMC Break HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94832&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ODISSEIA HEVC PT" tvg-logo="http://tugapt.com/picons/odisseiapt.png" group-title="Portugal HEVC",ODISSEIA HEVC PT
+#EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="ODISSEIA HEVC PT" tvg-logo="http://tugapt.com/picons/odisseiapt.png" group-title="Portugal HEVC",ODISSEIA HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94831&extension=ts
-# Atualizado em Sun Mar 16 15:29:25 UTC 2025
+# Atualizado em Sun Mar 16 21:26:13 UTC 2025
