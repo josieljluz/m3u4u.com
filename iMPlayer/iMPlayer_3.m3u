@@ -771,9 +771,9 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/84360.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/84361.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVI Reality Camera 4 PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi-reality-big-brother-famosos.png" group-title="Portugal",TVI Reality Camera 4 PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/84362.m3u8
-#EXTINF:-1 tvg-id="Globo TV PT" tvg-name="TV Globo PT" tvg-logo="http://tugapt.com/picons/tvglobo1.png" group-title="Portugal",TV Globo PT
+#EXTINF:-1 tvg-id="TVGlobo(src01).pt" tvg-name="TV Globo PT" tvg-logo="http://tugapt.com/picons/tvglobo1.png" group-title="Portugal",TV Globo PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/14232.m3u8
-#EXTINF:-1 tvg-id="Globo TV PT" tvg-name="TV Globo FHD PT" tvg-logo="http://tugapt.com/picons/tvglobo1.png" group-title="Portugal",TV Globo FHD PT
+#EXTINF:-1 tvg-id="TVGlobo(src01).pt" tvg-name="TV Globo FHD PT" tvg-logo="http://tugapt.com/picons/tvglobo1.png" group-title="Portugal",TV Globo FHD PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/89710.m3u8
 #EXTINF:-1 tvg-id="GloboNow(src01).pt" tvg-name="TV Globo NOW PT" tvg-logo="http://tugapt.com/picons/tvglobonow.png" group-title="Portugal",TV Globo NOW PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2736.m3u8
@@ -799,7 +799,7 @@ http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/13973.m
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2769.m3u8
 #EXTINF:-1 tvg-id="BabyTV(src01).pt" tvg-name="Baby TV PT" tvg-logo="http://tugapt.com/picons/babytvpt.png" group-title="Portugal",Baby TV PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2768.m3u8
-#EXTINF:-1 tvg-id="Canal Panda PT" tvg-name="Canal Panda PT" tvg-logo="http://tugapt.com/picons/canalpandapt.png" group-title="Portugal",Canal Panda PT
+#EXTINF:-1 tvg-id="Panda(src01).pt" tvg-name="Canal Panda PT" tvg-logo="http://tugapt.com/picons/canalpandapt.png" group-title="Portugal",Canal Panda PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2762.m3u8
 #EXTINF:-1 tvg-id="PANDABIGGS(src01).pt" tvg-name="Panda Biggs PT" tvg-logo="http://tugapt.com/picons/pandabiggspt.png" group-title="Portugal",Panda Biggs PT
 http://lllllliiiiiiidsa9.funtogether.xyz:8080/live/8PFzlwcXTb/vq6csNcyHg/2763.m3u8
@@ -1521,13 +1521,13 @@ http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94860&exten
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94859&extension=ts
 #EXTINF:-1 tvg-id="SyFy(src01).pt" tvg-name="SYFY HEVC PT" tvg-logo="http://tugapt.com/picons/syfypt.png" group-title="Portugal HEVC",SYFY HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94858&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_channel.png" group-title="Portugal HEVC",Star HEVC PT
+#EXTINF:-1 tvg-id="STAR(src01).bg" tvg-name="Star HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_channel.png" group-title="Portugal HEVC",Star HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94857&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star CRIME HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_crime.png" group-title="Portugal HEVC",Star CRIME HEVC PT
+#EXTINF:-1 tvg-id="STARcrime(src01).bg" tvg-name="Star CRIME HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_crime.png" group-title="Portugal HEVC",Star CRIME HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94856&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star LIFE HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_life.png" group-title="Portugal HEVC",Star LIFE HEVC PT
+#EXTINF:-1 tvg-id="StarLife(Spanish).do" tvg-name="Star LIFE HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_life.png" group-title="Portugal HEVC",Star LIFE HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94855&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star MOVIES HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_movies.png" group-title="Portugal HEVC",Star MOVIES HEVC PT
+#EXTINF:-1 tvg-id="StarMovies(src01).hr" tvg-name="Star MOVIES HEVC PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_movies.png" group-title="Portugal HEVC",Star MOVIES HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94854&extension=ts
 #EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="CINEMUNDO HEVC PT" tvg-logo="http://tugapt.com/picons/cinemundopt.png" group-title="Portugal HEVC",CINEMUNDO HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94853&extension=ts
@@ -1547,7 +1547,7 @@ http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94847&exten
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94846&extension=ts
 #EXTINF:-1 tvg-id="NBA(src01).pt" tvg-name="SPORT TV NBA HEVC PT" tvg-logo="" group-title="Portugal HEVC",SPORT TV NBA HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94845&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV HEVC PT" tvg-logo="http://tugapt.com/picons/btv1pt.png" group-title="Portugal HEVC",BTV HEVC PT
+#EXTINF:-1 tvg-id="bTV(src01).bg" tvg-name="BTV HEVC PT" tvg-logo="http://tugapt.com/picons/btv1pt.png" group-title="Portugal HEVC",BTV HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94844&extension=ts
 #EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="ELEVEN 1 HEVC PT" tvg-logo="https://i.imgur.com/STN37zd.png" group-title="Portugal HEVC",ELEVEN 1 HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94843&extension=ts
@@ -1573,4 +1573,4 @@ http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94833&exten
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94832&extension=ts
 #EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="ODISSEIA HEVC PT" tvg-logo="http://tugapt.com/picons/odisseiapt.png" group-title="Portugal HEVC",ODISSEIA HEVC PT
 http://fastopen.live:8080/play/live.php?mac=00:1A:79:01:E0:E4&stream=94831&extension=ts
-# Atualizado em Mon Mar 17 15:36:53 UTC 2025
+# Atualizado em Mon Mar 17 21:29:51 UTC 2025
