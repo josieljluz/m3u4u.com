@@ -2489,29 +2489,29 @@ http://supersonictv.live:8080/812493/376688/85375
 http://supersonictv.live:8080/812493/376688/85376
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[BR] SporTV 4 HD Olimpíadas" tvg-logo="" group-title="BRAZIL",[BR] SporTV 4 HD Olimpíadas
 http://supersonictv.live:8080/812493/376688/85387
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT 24 KITCHEN HD" tvg-logo="" group-title="PORTUGUESE",PT 24 KITCHEN HD
+#EXTINF:-1 tvg-id="24Kitchen(src01).pt" tvg-name="PT 24 KITCHEN HD" tvg-logo="" group-title="PORTUGUESE",PT 24 KITCHEN HD
 http://supersonictv.live:8080/812493/376688/7586
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT A BOLA TV" tvg-logo="" group-title="PORTUGUESE",PT A BOLA TV
+#EXTINF:-1 tvg-id="ABolaTV(src01).pt" tvg-name="PT A BOLA TV" tvg-logo="" group-title="PORTUGUESE",PT A BOLA TV
 http://supersonictv.live:8080/812493/376688/7587
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT AFRO MUSIC" tvg-logo="" group-title="PORTUGUESE",PT AFRO MUSIC
+#EXTINF:-1 tvg-id="AfroMusic(src01).pt" tvg-name="PT AFRO MUSIC" tvg-logo="" group-title="PORTUGUESE",PT AFRO MUSIC
 http://supersonictv.live:8080/812493/376688/7588
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT AMC" tvg-logo="" group-title="PORTUGUESE",PT AMC
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="PT AMC" tvg-logo="" group-title="PORTUGUESE",PT AMC
 http://supersonictv.live:8080/812493/376688/7589
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT AMC HD" tvg-logo="" group-title="PORTUGUESE",PT AMC HD
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="PT AMC HD" tvg-logo="" group-title="PORTUGUESE",PT AMC HD
 http://supersonictv.live:8080/812493/376688/7590
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT AR TV 'PT" tvg-logo="" group-title="PORTUGUESE",PT AR TV 'PT
 http://supersonictv.live:8080/812493/376688/7591
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT AXN" tvg-logo="" group-title="PORTUGUESE",PT AXN
+#EXTINF:-1 tvg-id="AXN(src01).pt" tvg-name="PT AXN" tvg-logo="" group-title="PORTUGUESE",PT AXN
 http://supersonictv.live:8080/812493/376688/7592
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT AXN BLACK" tvg-logo="" group-title="PORTUGUESE",PT AXN BLACK
 http://supersonictv.live:8080/812493/376688/7593
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT AXN HD" tvg-logo="" group-title="PORTUGUESE",PT AXN HD
+#EXTINF:-1 tvg-id="AXN(src01).pt" tvg-name="PT AXN HD" tvg-logo="" group-title="PORTUGUESE",PT AXN HD
 http://supersonictv.live:8080/812493/376688/7595
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT AXN WHITE" tvg-logo="" group-title="PORTUGUESE",PT AXN WHITE
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt" tvg-name="PT AXN WHITE" tvg-logo="" group-title="PORTUGUESE",PT AXN WHITE
 http://supersonictv.live:8080/812493/376688/7596
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT AXN WHITE HD" tvg-logo="" group-title="PORTUGUESE",PT AXN WHITE HD
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt" tvg-name="PT AXN WHITE HD" tvg-logo="" group-title="PORTUGUESE",PT AXN WHITE HD
 http://supersonictv.live:8080/812493/376688/7597
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT BABY TV" tvg-logo="" group-title="PORTUGUESE",PT BABY TV
+#EXTINF:-1 tvg-id="BabyTV(src01).pt" tvg-name="PT BABY TV" tvg-logo="" group-title="PORTUGUESE",PT BABY TV
 http://supersonictv.live:8080/812493/376688/7598
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT BENFICA TV 1" tvg-logo="" group-title="PORTUGUESE",PT BENFICA TV 1
 http://supersonictv.live:8080/812493/376688/7599
@@ -2521,9 +2521,9 @@ http://supersonictv.live:8080/812493/376688/7600
 http://supersonictv.live:8080/812493/376688/7601
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT BOOMERANG" tvg-logo="" group-title="PORTUGUESE",PT BOOMERANG
 http://supersonictv.live:8080/812493/376688/7602
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CANAL 11" tvg-logo="" group-title="PORTUGUESE",PT CANAL 11
+#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="PT CANAL 11" tvg-logo="" group-title="PORTUGUESE",PT CANAL 11
 http://supersonictv.live:8080/812493/376688/7603
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CANAL 11 HD" tvg-logo="" group-title="PORTUGUESE",PT CANAL 11 HD
+#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="PT CANAL 11 HD" tvg-logo="" group-title="PORTUGUESE",PT CANAL 11 HD
 http://supersonictv.live:8080/812493/376688/7604
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT Canal 180 HD  'PT" tvg-logo="" group-title="PORTUGUESE",PT Canal 180 HD  'PT
 http://supersonictv.live:8080/812493/376688/7605
@@ -2533,11 +2533,11 @@ http://supersonictv.live:8080/812493/376688/7606
 http://supersonictv.live:8080/812493/376688/7607
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CANAL PANDA" tvg-logo="" group-title="PORTUGUESE",PT CANAL PANDA
 http://supersonictv.live:8080/812493/376688/7608
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CANAL Q" tvg-logo="" group-title="PORTUGUESE",PT CANAL Q
+#EXTINF:-1 tvg-id="CanalQ(src01).pt" tvg-name="PT CANAL Q" tvg-logo="" group-title="PORTUGUESE",PT CANAL Q
 http://supersonictv.live:8080/812493/376688/7609
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT Cancao Nova" tvg-logo="" group-title="PORTUGUESE",PT Cancao Nova
+#EXTINF:-1 tvg-id="CancaoNova(src01).pt" tvg-name="PT Cancao Nova" tvg-logo="" group-title="PORTUGUESE",PT Cancao Nova
 http://supersonictv.live:8080/812493/376688/7610
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CARTOON NETWORK" tvg-logo="" group-title="PORTUGUESE",PT CARTOON NETWORK
+#EXTINF:-1 tvg-id="CartoonNetwork(src01).pt" tvg-name="PT CARTOON NETWORK" tvg-logo="" group-title="PORTUGUESE",PT CARTOON NETWORK
 http://supersonictv.live:8080/812493/376688/7611
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CAçA E PESCA HD" tvg-logo="" group-title="PORTUGUESE",PT CAçA E PESCA HD
 http://supersonictv.live:8080/812493/376688/7612
@@ -2545,95 +2545,95 @@ http://supersonictv.live:8080/812493/376688/7612
 http://supersonictv.live:8080/812493/376688/7613
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CBS REALITY" tvg-logo="" group-title="PORTUGUESE",PT CBS REALITY
 http://supersonictv.live:8080/812493/376688/7614
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CINEMUNDO" tvg-logo="" group-title="PORTUGUESE",PT CINEMUNDO
+#EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="PT CINEMUNDO" tvg-logo="" group-title="PORTUGUESE",PT CINEMUNDO
 http://supersonictv.live:8080/812493/376688/7615
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CINEMUNDO HD" tvg-logo="" group-title="PORTUGUESE",PT CINEMUNDO HD
+#EXTINF:-1 tvg-id="CINEMUNDO(src01).pt" tvg-name="PT CINEMUNDO HD" tvg-logo="" group-title="PORTUGUESE",PT CINEMUNDO HD
 http://supersonictv.live:8080/812493/376688/7616
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CMTV" tvg-logo="" group-title="PORTUGUESE",PT CMTV
+#EXTINF:-1 tvg-id="CMTV(src01).pt" tvg-name="PT CMTV" tvg-logo="" group-title="PORTUGUESE",PT CMTV
 http://supersonictv.live:8080/812493/376688/7617
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CMTV HD" tvg-logo="" group-title="PORTUGUESE",PT CMTV HD
+#EXTINF:-1 tvg-id="CMTV(src01).pt" tvg-name="PT CMTV HD" tvg-logo="" group-title="PORTUGUESE",PT CMTV HD
 http://supersonictv.live:8080/812493/376688/7618
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT COMBATE HD" tvg-logo="" group-title="PORTUGUESE",PT COMBATE HD
 http://supersonictv.live:8080/812493/376688/7619
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT CRIME INVESTIGATION HD" tvg-logo="" group-title="PORTUGUESE",PT CRIME INVESTIGATION HD
 http://supersonictv.live:8080/812493/376688/7620
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGUESE",PT DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="PT DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGUESE",PT DISCOVERY CHANNEL
 http://supersonictv.live:8080/812493/376688/7621
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT DISCOVERY CHANNEL HD" tvg-logo="" group-title="PORTUGUESE",PT DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="DiscoveryChannel(src01).pt" tvg-name="PT DISCOVERY CHANNEL HD" tvg-logo="" group-title="PORTUGUESE",PT DISCOVERY CHANNEL HD
 http://supersonictv.live:8080/812493/376688/7622
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT DISNEY CHANNEL" tvg-logo="" group-title="PORTUGUESE",PT DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel(src01).pt" tvg-name="PT DISNEY CHANNEL" tvg-logo="" group-title="PORTUGUESE",PT DISNEY CHANNEL
 http://supersonictv.live:8080/812493/376688/7623
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT DISNEY JUNIOR" tvg-logo="" group-title="PORTUGUESE",PT DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior(src01).pt" tvg-name="PT DISNEY JUNIOR" tvg-logo="" group-title="PORTUGUESE",PT DISNEY JUNIOR
 http://supersonictv.live:8080/812493/376688/7624
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT E! ENTERTAINMENT HD" tvg-logo="" group-title="PORTUGUESE",PT E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="EEntertainment(src01).pt" tvg-name="PT E! ENTERTAINMENT HD" tvg-logo="" group-title="PORTUGUESE",PT E! ENTERTAINMENT HD
 http://supersonictv.live:8080/812493/376688/7625
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1
 http://supersonictv.live:8080/812493/376688/7626
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1 HD
 http://supersonictv.live:8080/812493/376688/7627
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 2
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="PT ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 2
 http://supersonictv.live:8080/812493/376688/7628
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 2 HD
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="PT ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 2 HD
 http://supersonictv.live:8080/812493/376688/7629
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 3
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="PT ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 3
 http://supersonictv.live:8080/812493/376688/7630
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 3 HD
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="PT ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 3 HD
 http://supersonictv.live:8080/812493/376688/7631
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 4
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="PT ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 4
 http://supersonictv.live:8080/812493/376688/7632
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 4 HD
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="PT ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 4 HD
 http://supersonictv.live:8080/812493/376688/7633
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 5
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="PT ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 5
 http://supersonictv.live:8080/812493/376688/7634
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 5 HD
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="PT ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 5 HD
 http://supersonictv.live:8080/812493/376688/7635
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 6
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="PT ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 6
 http://supersonictv.live:8080/812493/376688/7636
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 6 HD
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="PT ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 6 HD
 http://supersonictv.live:8080/812493/376688/7637
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ESPORTS 1 HD" tvg-logo="" group-title="PORTUGUESE",PT ESPORTS 1 HD
 http://supersonictv.live:8080/812493/376688/7638
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT EUROCHANNEL 'PT" tvg-logo="" group-title="PORTUGUESE",PT EUROCHANNEL 'PT
 http://supersonictv.live:8080/812493/376688/7639
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT EURONEWS" tvg-logo="" group-title="PORTUGUESE",PT EURONEWS
+#EXTINF:-1 tvg-id="Euronews(src01).pt" tvg-name="PT EURONEWS" tvg-logo="" group-title="PORTUGUESE",PT EURONEWS
 http://supersonictv.live:8080/812493/376688/7640
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT EUROSPORT 1" tvg-logo="" group-title="PORTUGUESE",PT EUROSPORT 1
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="PT EUROSPORT 1" tvg-logo="" group-title="PORTUGUESE",PT EUROSPORT 1
 http://supersonictv.live:8080/812493/376688/7641
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT EUROSPORT 1 HD" tvg-logo="" group-title="PORTUGUESE",PT EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="PT EUROSPORT 1 HD" tvg-logo="" group-title="PORTUGUESE",PT EUROSPORT 1 HD
 http://supersonictv.live:8080/812493/376688/7642
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT EUROSPORT 2" tvg-logo="" group-title="PORTUGUESE",PT EUROSPORT 2
+#EXTINF:-1 tvg-id="EuroSport2(src01).pt" tvg-name="PT EUROSPORT 2" tvg-logo="" group-title="PORTUGUESE",PT EUROSPORT 2
 http://supersonictv.live:8080/812493/376688/7643
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FASHION TV HD" tvg-logo="" group-title="PORTUGUESE",PT FASHION TV HD
 http://supersonictv.live:8080/812493/376688/7644
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FOOD NETWORK HD" tvg-logo="" group-title="PORTUGUESE",PT FOOD NETWORK HD
+#EXTINF:-1 tvg-id="FoodNetwork(src01).pt" tvg-name="PT FOOD NETWORK HD" tvg-logo="" group-title="PORTUGUESE",PT FOOD NETWORK HD
 http://supersonictv.live:8080/812493/376688/7645
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FOX" tvg-logo="" group-title="PORTUGUESE",PT FOX
+#EXTINF:-1 tvg-id="FOX(src01).pt" tvg-name="PT FOX" tvg-logo="" group-title="PORTUGUESE",PT FOX
 http://supersonictv.live:8080/812493/376688/7646
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FOX COMEDY" tvg-logo="" group-title="PORTUGUESE",PT FOX COMEDY
+#EXTINF:-1 tvg-id="FOXComedy(src01).pt" tvg-name="PT FOX COMEDY" tvg-logo="" group-title="PORTUGUESE",PT FOX COMEDY
 http://supersonictv.live:8080/812493/376688/7647
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FOX COMEDY HD" tvg-logo="" group-title="PORTUGUESE",PT FOX COMEDY HD
+#EXTINF:-1 tvg-id="FOXComedy(src01).pt" tvg-name="PT FOX COMEDY HD" tvg-logo="" group-title="PORTUGUESE",PT FOX COMEDY HD
 http://supersonictv.live:8080/812493/376688/7648
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FOX CRIME" tvg-logo="" group-title="PORTUGUESE",PT FOX CRIME
+#EXTINF:-1 tvg-id="FOXCRIME(src01).pt" tvg-name="PT FOX CRIME" tvg-logo="" group-title="PORTUGUESE",PT FOX CRIME
 http://supersonictv.live:8080/812493/376688/7649
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FOX CRIME HD" tvg-logo="" group-title="PORTUGUESE",PT FOX CRIME HD
+#EXTINF:-1 tvg-id="FOXCRIME(src01).pt" tvg-name="PT FOX CRIME HD" tvg-logo="" group-title="PORTUGUESE",PT FOX CRIME HD
 http://supersonictv.live:8080/812493/376688/7650
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FOX HD" tvg-logo="" group-title="PORTUGUESE",PT FOX HD
+#EXTINF:-1 tvg-id="FOX(src01).pt" tvg-name="PT FOX HD" tvg-logo="" group-title="PORTUGUESE",PT FOX HD
 http://supersonictv.live:8080/812493/376688/7651
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FOX LIFE HD" tvg-logo="" group-title="PORTUGUESE",PT FOX LIFE HD
+#EXTINF:-1 tvg-id="FOXLIFE(src01).pt" tvg-name="PT FOX LIFE HD" tvg-logo="" group-title="PORTUGUESE",PT FOX LIFE HD
 http://supersonictv.live:8080/812493/376688/7652
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FOX MOVIES" tvg-logo="" group-title="PORTUGUESE",PT FOX MOVIES
+#EXTINF:-1 tvg-id="FOXMovies(src01).pt" tvg-name="PT FOX MOVIES" tvg-logo="" group-title="PORTUGUESE",PT FOX MOVIES
 http://supersonictv.live:8080/812493/376688/7653
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FOX MOVIES HD" tvg-logo="" group-title="PORTUGUESE",PT FOX MOVIES HD
+#EXTINF:-1 tvg-id="FOXMovies(src01).pt" tvg-name="PT FOX MOVIES HD" tvg-logo="" group-title="PORTUGUESE",PT FOX MOVIES HD
 http://supersonictv.live:8080/812493/376688/7654
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT FUEL TV HD" tvg-logo="" group-title="PORTUGUESE",PT FUEL TV HD
+#EXTINF:-1 tvg-id="FuelTV(src01).pt" tvg-name="PT FUEL TV HD" tvg-logo="" group-title="PORTUGUESE",PT FUEL TV HD
 http://supersonictv.live:8080/812493/376688/7655
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT GINX HD 'PT" tvg-logo="" group-title="PORTUGUESE",PT GINX HD 'PT
 http://supersonictv.live:8080/812493/376688/7656
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT GLOBO NOW 'PT" tvg-logo="" group-title="PORTUGUESE",PT GLOBO NOW 'PT
 http://supersonictv.live:8080/812493/376688/7657
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT HISTORIA" tvg-logo="" group-title="PORTUGUESE",PT HISTORIA
+#EXTINF:-1 tvg-id="Historia(src01).pt" tvg-name="PT HISTORIA" tvg-logo="" group-title="PORTUGUESE",PT HISTORIA
 http://supersonictv.live:8080/812493/376688/7658
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT HOLLYWOOD" tvg-logo="" group-title="PORTUGUESE",PT HOLLYWOOD
+#EXTINF:-1 tvg-id="Hollywood(src01).pt" tvg-name="PT HOLLYWOOD" tvg-logo="" group-title="PORTUGUESE",PT HOLLYWOOD
 http://supersonictv.live:8080/812493/376688/7659
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT JIM JAM" tvg-logo="" group-title="PORTUGUESE",PT JIM JAM
 http://supersonictv.live:8080/812493/376688/7660
@@ -2647,113 +2647,113 @@ http://supersonictv.live:8080/812493/376688/7663
 http://supersonictv.live:8080/812493/376688/7664
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT KURIAKOS TV 'PT" tvg-logo="" group-title="PORTUGUESE",PT KURIAKOS TV 'PT
 http://supersonictv.live:8080/812493/376688/7665
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT LOCALVISAO HD" tvg-logo="" group-title="PORTUGUESE",PT LOCALVISAO HD
+#EXTINF:-1 tvg-id="Localvisao(src01).pt" tvg-name="PT LOCALVISAO HD" tvg-logo="" group-title="PORTUGUESE",PT LOCALVISAO HD
 http://supersonictv.live:8080/812493/376688/7666
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT MCM POP" tvg-logo="" group-title="PORTUGUESE",PT MCM POP
+#EXTINF:-1 tvg-id="MCMPOP(src01).pt" tvg-name="PT MCM POP" tvg-logo="" group-title="PORTUGUESE",PT MCM POP
 http://supersonictv.live:8080/812493/376688/7667
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT MCM TOP" tvg-logo="" group-title="PORTUGUESE",PT MCM TOP
+#EXTINF:-1 tvg-id="MCMTop(src01).pt" tvg-name="PT MCM TOP" tvg-logo="" group-title="PORTUGUESE",PT MCM TOP
 http://supersonictv.live:8080/812493/376688/7668
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT MOTORVISION HD" tvg-logo="" group-title="PORTUGUESE",PT MOTORVISION HD
+#EXTINF:-1 tvg-id="MOTORVISION(src01).pt" tvg-name="PT MOTORVISION HD" tvg-logo="" group-title="PORTUGUESE",PT MOTORVISION HD
 http://supersonictv.live:8080/812493/376688/7669
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT MTV HD" tvg-logo="" group-title="PORTUGUESE",PT MTV HD
+#EXTINF:-1 tvg-id="MTV(src01).pt" tvg-name="PT MTV HD" tvg-logo="" group-title="PORTUGUESE",PT MTV HD
 http://supersonictv.live:8080/812493/376688/7670
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT MVM" tvg-logo="" group-title="PORTUGUESE",PT MVM
 http://supersonictv.live:8080/812493/376688/7671
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT MY CUISINE" tvg-logo="" group-title="PORTUGUESE",PT MY CUISINE
 http://supersonictv.live:8080/812493/376688/7672
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT NAT GEO WILD HD" tvg-logo="" group-title="PORTUGUESE",PT NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NatGeoWild(src01).pt" tvg-name="PT NAT GEO WILD HD" tvg-logo="" group-title="PORTUGUESE",PT NAT GEO WILD HD
 http://supersonictv.live:8080/812493/376688/7673
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="PORTUGUESE",PT NATIONAL GEOGRAPHIC HD
 http://supersonictv.live:8080/812493/376688/7674
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT NBA TV HD" tvg-logo="" group-title="PORTUGUESE",PT NBA TV HD
 http://supersonictv.live:8080/812493/376688/7675
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT NICKELODEON" tvg-logo="" group-title="PORTUGUESE",PT NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon(src01).pt" tvg-name="PT NICKELODEON" tvg-logo="" group-title="PORTUGUESE",PT NICKELODEON
 http://supersonictv.live:8080/812493/376688/7676
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT NOS STUDIOS HD" tvg-logo="" group-title="PORTUGUESE",PT NOS STUDIOS HD
+#EXTINF:-1 tvg-id="NOSStudios(src01).pt" tvg-name="PT NOS STUDIOS HD" tvg-logo="" group-title="PORTUGUESE",PT NOS STUDIOS HD
 http://supersonictv.live:8080/812493/376688/7677
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ODISSEIA HD" tvg-logo="" group-title="PORTUGUESE",PT ODISSEIA HD
+#EXTINF:-1 tvg-id="Odisseia(src01).pt" tvg-name="PT ODISSEIA HD" tvg-logo="" group-title="PORTUGUESE",PT ODISSEIA HD
 http://supersonictv.live:8080/812493/376688/7678
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT OUTDOOR CHANNEL HD" tvg-logo="" group-title="PORTUGUESE",PT OUTDOOR CHANNEL HD
 http://supersonictv.live:8080/812493/376688/7679
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT PFC" tvg-logo="" group-title="PORTUGUESE",PT PFC
 http://supersonictv.live:8080/812493/376688/7680
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT PORTO CANAL HD" tvg-logo="" group-title="PORTUGUESE",PT PORTO CANAL HD
+#EXTINF:-1 tvg-id="PortoCanal(src01).pt" tvg-name="PT PORTO CANAL HD" tvg-logo="" group-title="PORTUGUESE",PT PORTO CANAL HD
 http://supersonictv.live:8080/812493/376688/7681
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT RECORD NEWS" tvg-logo="" group-title="PORTUGUESE",PT RECORD NEWS
+#EXTINF:-1 tvg-id="RECORDNEWS(src01).pt" tvg-name="PT RECORD NEWS" tvg-logo="" group-title="PORTUGUESE",PT RECORD NEWS
 http://supersonictv.live:8080/812493/376688/7682
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT RTP 1" tvg-logo="" group-title="PORTUGUESE",PT RTP 1
+#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="PT RTP 1" tvg-logo="" group-title="PORTUGUESE",PT RTP 1
 http://supersonictv.live:8080/812493/376688/7683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT RTP 1 HD" tvg-logo="" group-title="PORTUGUESE",PT RTP 1 HD
+#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="PT RTP 1 HD" tvg-logo="" group-title="PORTUGUESE",PT RTP 1 HD
 http://supersonictv.live:8080/812493/376688/7684
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT RTP 2" tvg-logo="" group-title="PORTUGUESE",PT RTP 2
+#EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="PT RTP 2" tvg-logo="" group-title="PORTUGUESE",PT RTP 2
 http://supersonictv.live:8080/812493/376688/7685
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT RTP 2 HD" tvg-logo="" group-title="PORTUGUESE",PT RTP 2 HD
+#EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="PT RTP 2 HD" tvg-logo="" group-title="PORTUGUESE",PT RTP 2 HD
 http://supersonictv.live:8080/812493/376688/7686
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT RTP 3 HD" tvg-logo="" group-title="PORTUGUESE",PT RTP 3 HD
+#EXTINF:-1 tvg-id="RTP3(src01).pt" tvg-name="PT RTP 3 HD" tvg-logo="" group-title="PORTUGUESE",PT RTP 3 HD
 http://supersonictv.live:8080/812493/376688/7687
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT RTP AFRICA" tvg-logo="" group-title="PORTUGUESE",PT RTP AFRICA
+#EXTINF:-1 tvg-id="RTPAfrica(src01).pt" tvg-name="PT RTP AFRICA" tvg-logo="" group-title="PORTUGUESE",PT RTP AFRICA
 http://supersonictv.live:8080/812493/376688/7688
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT RTP AçORES" tvg-logo="" group-title="PORTUGUESE",PT RTP AçORES
 http://supersonictv.live:8080/812493/376688/7689
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT RTP MADEIRA" tvg-logo="" group-title="PORTUGUESE",PT RTP MADEIRA
+#EXTINF:-1 tvg-id="RTPMadeira(src01).pt" tvg-name="PT RTP MADEIRA" tvg-logo="" group-title="PORTUGUESE",PT RTP MADEIRA
 http://supersonictv.live:8080/812493/376688/7690
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT RTP MEMORIA" tvg-logo="" group-title="PORTUGUESE",PT RTP MEMORIA
+#EXTINF:-1 tvg-id="RTPMemoria(src01).pt" tvg-name="PT RTP MEMORIA" tvg-logo="" group-title="PORTUGUESE",PT RTP MEMORIA
 http://supersonictv.live:8080/812493/376688/7691
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT S  SAUDE HD  'PT" tvg-logo="" group-title="PORTUGUESE",PT S  SAUDE HD  'PT
 http://supersonictv.live:8080/812493/376688/7692
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SANTUARIO DE FATIMA" tvg-logo="" group-title="PORTUGUESE",PT SANTUARIO DE FATIMA
 http://supersonictv.live:8080/812493/376688/7693
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SIC" tvg-logo="" group-title="PORTUGUESE",PT SIC
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="PT SIC" tvg-logo="" group-title="PORTUGUESE",PT SIC
 http://supersonictv.live:8080/812493/376688/7694
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SIC CARAS HD" tvg-logo="" group-title="PORTUGUESE",PT SIC CARAS HD
+#EXTINF:-1 tvg-id="SicCaras(src01).pt" tvg-name="PT SIC CARAS HD" tvg-logo="" group-title="PORTUGUESE",PT SIC CARAS HD
 http://supersonictv.live:8080/812493/376688/7695
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SIC HD" tvg-logo="" group-title="PORTUGUESE",PT SIC HD
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="PT SIC HD" tvg-logo="" group-title="PORTUGUESE",PT SIC HD
 http://supersonictv.live:8080/812493/376688/7696
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SIC KIDS HD" tvg-logo="" group-title="PORTUGUESE",PT SIC KIDS HD
 http://supersonictv.live:8080/812493/376688/7697
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SIC MULHER HD" tvg-logo="" group-title="PORTUGUESE",PT SIC MULHER HD
+#EXTINF:-1 tvg-id="SICMulher(src01).pt" tvg-name="PT SIC MULHER HD" tvg-logo="" group-title="PORTUGUESE",PT SIC MULHER HD
 http://supersonictv.live:8080/812493/376688/7698
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SIC NOTICIAS" tvg-logo="" group-title="PORTUGUESE",PT SIC NOTICIAS
+#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="PT SIC NOTICIAS" tvg-logo="" group-title="PORTUGUESE",PT SIC NOTICIAS
 http://supersonictv.live:8080/812493/376688/7699
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SIC NOTICIAS HD" tvg-logo="" group-title="PORTUGUESE",PT SIC NOTICIAS HD
+#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="PT SIC NOTICIAS HD" tvg-logo="" group-title="PORTUGUESE",PT SIC NOTICIAS HD
 http://supersonictv.live:8080/812493/376688/7700
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SIC RADICAL HD" tvg-logo="" group-title="PORTUGUESE",PT SIC RADICAL HD
+#EXTINF:-1 tvg-id="SICRadical(src01).pt" tvg-name="PT SIC RADICAL HD" tvg-logo="" group-title="PORTUGUESE",PT SIC RADICAL HD
 http://supersonictv.live:8080/812493/376688/7701
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV
+#EXTINF:-1 tvg-id="SportTV(src01).pt" tvg-name="PT SPORT TV" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV
 http://supersonictv.live:8080/812493/376688/7702
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV   HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV   HD
+#EXTINF:-1 tvg-id="SportTV(src01).pt" tvg-name="PT SPORT TV   HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV   HD
 http://supersonictv.live:8080/812493/376688/7703
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 1" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 1
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="PT SPORT TV 1" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 1
 http://supersonictv.live:8080/812493/376688/7704
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 1 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 1 HD
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="PT SPORT TV 1 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 1 HD
 http://supersonictv.live:8080/812493/376688/7705
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 2" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 2
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="PT SPORT TV 2" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 2
 http://supersonictv.live:8080/812493/376688/7706
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 2 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 2 HD
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="PT SPORT TV 2 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 2 HD
 http://supersonictv.live:8080/812493/376688/7707
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 3" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 3
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="PT SPORT TV 3" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 3
 http://supersonictv.live:8080/812493/376688/7708
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 3 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 3 HD
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="PT SPORT TV 3 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 3 HD
 http://supersonictv.live:8080/812493/376688/7709
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 4" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="PT SPORT TV 4" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4
 http://supersonictv.live:8080/812493/376688/7710
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 4 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4 HD
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="PT SPORT TV 4 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4 HD
 http://supersonictv.live:8080/812493/376688/7711
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 4K" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4K
+#EXTINF:-1 tvg-id="SportTV(src01).pt" tvg-name="PT SPORT TV 4K" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4K
 http://supersonictv.live:8080/812493/376688/7712
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 5" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 5
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="PT SPORT TV 5" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 5
 http://supersonictv.live:8080/812493/376688/7713
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORT TV 5 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 5 HD
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="PT SPORT TV 5 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 5 HD
 http://supersonictv.live:8080/812493/376688/7714
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SPORTING TV HD" tvg-logo="" group-title="PORTUGUESE",PT SPORTING TV HD
+#EXTINF:-1 tvg-id="SPORTINGTV(src01).pt" tvg-name="PT SPORTING TV HD" tvg-logo="" group-title="PORTUGUESE",PT SPORTING TV HD
 http://supersonictv.live:8080/812493/376688/7715
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SYFY" tvg-logo="" group-title="PORTUGUESE",PT SYFY
+#EXTINF:-1 tvg-id="SyFy(src01).pt" tvg-name="PT SYFY" tvg-logo="" group-title="PORTUGUESE",PT SYFY
 http://supersonictv.live:8080/812493/376688/7716
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT SYFY HD" tvg-logo="" group-title="PORTUGUESE",PT SYFY HD
+#EXTINF:-1 tvg-id="SyFy(src01).pt" tvg-name="PT SYFY HD" tvg-logo="" group-title="PORTUGUESE",PT SYFY HD
 http://supersonictv.live:8080/812493/376688/7717
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT THE QYOU 'PT" tvg-logo="" group-title="PORTUGUESE",PT THE QYOU 'PT
 http://supersonictv.live:8080/812493/376688/7718
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TLC" tvg-logo="" group-title="PORTUGUESE",PT TLC
+#EXTINF:-1 tvg-id="TLC(src01).pt" tvg-name="PT TLC" tvg-logo="" group-title="PORTUGUESE",PT TLC
 http://supersonictv.live:8080/812493/376688/7719
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TOROS TV" tvg-logo="" group-title="PORTUGUESE",PT TOROS TV
 http://supersonictv.live:8080/812493/376688/7720
@@ -2761,13 +2761,13 @@ http://supersonictv.live:8080/812493/376688/7720
 http://supersonictv.live:8080/812493/376688/7721
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TRACE TOCA HD 'PT" tvg-logo="" group-title="PORTUGUESE",PT TRACE TOCA HD 'PT
 http://supersonictv.live:8080/812493/376688/7722
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TRAVEL CHANNEL HD" tvg-logo="" group-title="PORTUGUESE",PT TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-id="TravelChannel(src01).pt" tvg-name="PT TRAVEL CHANNEL HD" tvg-logo="" group-title="PORTUGUESE",PT TRAVEL CHANNEL HD
 http://supersonictv.live:8080/812493/376688/7723
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TV GALICIA 'PT" tvg-logo="" group-title="PORTUGUESE",PT TV GALICIA 'PT
 http://supersonictv.live:8080/812493/376688/7724
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TV GLOBO HD  'PT" tvg-logo="" group-title="PORTUGUESE",PT TV GLOBO HD  'PT
 http://supersonictv.live:8080/812493/376688/7725
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TV RECORD HD" tvg-logo="" group-title="PORTUGUESE",PT TV RECORD HD
+#EXTINF:-1 tvg-id="TVRecord(src01).pt" tvg-name="PT TV RECORD HD" tvg-logo="" group-title="PORTUGUESE",PT TV RECORD HD
 http://supersonictv.live:8080/812493/376688/7726
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TV SERIES" tvg-logo="" group-title="PORTUGUESE",PT TV SERIES
 http://supersonictv.live:8080/812493/376688/7727
@@ -2789,9 +2789,9 @@ http://supersonictv.live:8080/812493/376688/7734
 http://supersonictv.live:8080/812493/376688/7735
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TVCINE 4 HD" tvg-logo="" group-title="PORTUGUESE",PT TVCINE 4 HD
 http://supersonictv.live:8080/812493/376688/7736
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TVI" tvg-logo="" group-title="PORTUGUESE",PT TVI
+#EXTINF:-1 tvg-id="TVI(src01).pt" tvg-name="PT TVI" tvg-logo="" group-title="PORTUGUESE",PT TVI
 http://supersonictv.live:8080/812493/376688/7737
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TVI 24" tvg-logo="" group-title="PORTUGUESE",PT TVI 24
+#EXTINF:-1 tvg-id="TVI24(src01).pt" tvg-name="PT TVI 24" tvg-logo="" group-title="PORTUGUESE",PT TVI 24
 http://supersonictv.live:8080/812493/376688/7738
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TVI CAMARA EXCLUSIVA 1" tvg-logo="" group-title="PORTUGUESE",PT TVI CAMARA EXCLUSIVA 1
 http://supersonictv.live:8080/812493/376688/7739
@@ -2805,13 +2805,13 @@ http://supersonictv.live:8080/812493/376688/7742
 http://supersonictv.live:8080/812493/376688/7743
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TVI FICçAO" tvg-logo="" group-title="PORTUGUESE",PT TVI FICçAO
 http://supersonictv.live:8080/812493/376688/7744
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TVI HD" tvg-logo="" group-title="PORTUGUESE",PT TVI HD
+#EXTINF:-1 tvg-id="TVI(src01).pt" tvg-name="PT TVI HD" tvg-logo="" group-title="PORTUGUESE",PT TVI HD
 http://supersonictv.live:8080/812493/376688/7745
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT TVI REALITY" tvg-logo="" group-title="PORTUGUESE",PT TVI REALITY
 http://supersonictv.live:8080/812493/376688/7746
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT VH1" tvg-logo="" group-title="PORTUGUESE",PT VH1
 http://supersonictv.live:8080/812493/376688/7747
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT ZAP Viva HD" tvg-logo="" group-title="PORTUGUESE",PT ZAP Viva HD
+#EXTINF:-1 tvg-id="ZAPViva(src01).pt" tvg-name="PT ZAP Viva HD" tvg-logo="" group-title="PORTUGUESE",PT ZAP Viva HD
 http://supersonictv.live:8080/812493/376688/7748
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAMPEONATO BRASILIENSE HD¹" tvg-logo="http://contentsdeliver.link/logos/campeonatobrasiliensehd.png" group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO BRASILIENSE HD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/327183
@@ -6249,11 +6249,11 @@ http://7semfronteiras.cc:8080/4891373042/hook7452/271116
 http://7semfronteiras.cc:8080/4891373042/hook7452/271115
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YU YU HAKUSHO 24H" tvg-logo="http://contentsdeliver.link/logos/yuyuhakusho.png" group-title="24H | ANIMES",YU YU HAKUSHO 24H
 http://7semfronteiras.cc:8080/4891373042/hook7452/170273
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: A BOLA TV ( 4K )" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: A BOLA TV ( 4K )
+#EXTINF:-1 tvg-id="ABolaTV(src01).pt" tvg-name="PT: A BOLA TV ( 4K )" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: A BOLA TV ( 4K )
 http://7semfronteiras.cc:8080/4891373042/hook7452/307471
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A Bola TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: A Bola TV HD
+#EXTINF:-1 tvg-id="ABolaTV(src01).pt" tvg-name="PT: A Bola TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: A Bola TV HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307927
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: A BOLA TV*
+#EXTINF:-1 tvg-id="ABolaTV(src01).pt" tvg-name="PT: A BOLA TV*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: A BOLA TV*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297187
 #EXTINF:-1 tvg-id="benficatv.pt" tvg-name="PT: BTV 4K" tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: BTV 4K
 http://7semfronteiras.cc:8080/4891373042/hook7452/307464
@@ -6267,197 +6267,197 @@ http://7semfronteiras.cc:8080/4891373042/hook7452/297188
 http://7semfronteiras.cc:8080/4891373042/hook7452/307953
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: BTV SD" tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: BTV SD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307952
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Canal 11 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Canal 11 FHD
+#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="PT: Canal 11 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Canal 11 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307925
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT | Canal 11 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT | Canal 11 FHD*
+#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="PT | Canal 11 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT | Canal 11 FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/306948
-#EXTINF:-1 tvg-id="canal11.pt" tvg-name="PT: CANAL 11" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: CANAL 11
+#EXTINF:-1 tvg-id="Canal11(src01).pt" tvg-name="PT: CANAL 11" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: CANAL 11
 http://7semfronteiras.cc:8080/4891373042/hook7452/307409
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Combat FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67073602011.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Combat FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307976
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 4K
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT: ELEVEN SPORTS 1 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 4K
 http://7semfronteiras.cc:8080/4891373042/hook7452/307438
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/116716
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports 1 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/90929690281.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 1 FHD*
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT: Eleven Sports 1 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/90929690281.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 1 FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307954
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 HD
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/53994
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports 1 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/90921186001.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 1 HD*
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT: Eleven Sports 1 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/90921186001.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 1 HD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307955
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 SD
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 1 SD
 http://7semfronteiras.cc:8080/4891373042/hook7452/53993
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Eleven Sports SD 1*" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports SD 1*
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT: Eleven Sports SD 1*" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports SD 1*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307956
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 2 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 4K
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT: ELEVEN SPORTS 2 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 4K
 http://7semfronteiras.cc:8080/4891373042/hook7452/307115
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/53996
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 FHD*
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="PT: Eleven Sports 2 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307959
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS  2 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS  2 FHD*
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="PT: ELEVEN SPORTS  2 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS  2 FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297178
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66406572981.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 HD
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66406572981.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307957
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: Eleven Sports 2 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/59228469501.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 HD*
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="PT: Eleven Sports 2 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/59228469501.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 2 HD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307958
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 SD
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 SD
 http://7semfronteiras.cc:8080/4891373042/hook7452/53995
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/80528221451.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 SD
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/80528221451.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 SD
 http://7semfronteiras.cc:8080/4891373042/hook7452/53998
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/53999
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/92758271991.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 FHD*
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="PT: ELEVEN SPORTS 3 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/92758271991.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307962
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 HD
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/54000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21480419701.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 3 HD
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21480419701.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 3 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307961
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/80528221451.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 SD*
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-name="PT: ELEVEN SPORTS 3 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/80528221451.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 3 SD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307960
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 4 FHD
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 4 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/54002
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pt: Eleven Sports 4 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55288435571.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Eleven Sports 4 FHD
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Pt: Eleven Sports 4 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55288435571.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Eleven Sports 4 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307964
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 4 HD
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 4 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/54003
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/33447846561.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 4 HD
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/33447846561.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 4 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307965
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pt: Eleven Sports 4" tvg-logo="https://img-cdn.curl.pk/channels_icon/55246952831.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Eleven Sports 4
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="Pt: Eleven Sports 4" tvg-logo="https://img-cdn.curl.pk/channels_icon/55246952831.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Eleven Sports 4
 http://7semfronteiras.cc:8080/4891373042/hook7452/307963
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 4
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 4
 http://7semfronteiras.cc:8080/4891373042/hook7452/54001
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Eleven Sports 6 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56263321141.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 6 FHD
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="PT: Eleven Sports 6 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56263321141.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 6 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307971
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pt: Eleven Sports 6" tvg-logo="https://img-cdn.curl.pk/channels_icon/75473299161.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Eleven Sports 6
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="Pt: Eleven Sports 6" tvg-logo="https://img-cdn.curl.pk/channels_icon/75473299161.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Eleven Sports 6
 http://7semfronteiras.cc:8080/4891373042/hook7452/307969
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/36475233501.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 6 HD
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/36475233501.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 6 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307970
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 5 FHD
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 5 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/54005
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Eleven Sports 5 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/13816943561.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 5 FHD
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="PT: Eleven Sports 5 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/13816943561.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 5 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307968
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 5 HD
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 5 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/54006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/47038704951.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 5 HD
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/47038704951.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eleven Sports 5 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307967
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 5
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 5
 http://7semfronteiras.cc:8080/4891373042/hook7452/54004
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT : Eleven Sports 5" tvg-logo="https://img-cdn.curl.pk/channels_icon/80858478501.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT : Eleven Sports 5
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-name="PT : Eleven Sports 5" tvg-logo="https://img-cdn.curl.pk/channels_icon/80858478501.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT : Eleven Sports 5
 http://7semfronteiras.cc:8080/4891373042/hook7452/307966
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 6 FHD
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 6 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/54008
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 6 HD
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 6 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/54009
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 6
+#EXTINF:-1 tvg-id="ElevenSports6(src01).pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 6
 http://7semfronteiras.cc:8080/4891373042/hook7452/54007
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: EUROSPORT 1 HD*" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: EUROSPORT 1 HD*
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="PT: EUROSPORT 1 HD*" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: EUROSPORT 1 HD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297193
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: EUROSPORT 1 SD*" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: EUROSPORT 1 SD*
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="PT: EUROSPORT 1 SD*" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: EUROSPORT 1 SD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297192
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: EUROSPORT 2 SD*" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: EUROSPORT 2 SD*
+#EXTINF:-1 tvg-id="EuroSport2(src01).pt" tvg-name="PT: EUROSPORT 2 SD*" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: EUROSPORT 2 SD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297191
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Eurosports 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84682087451.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eurosports 1 HD
+#EXTINF:-1 tvg-id="EuroSport1(src01).pt" tvg-name="PT: Eurosports 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84682087451.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eurosports 1 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307973
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Eurosports 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/29719204421.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eurosports 2 HD
+#EXTINF:-1 tvg-id="EuroSport2(src01).pt" tvg-name="PT: Eurosports 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/29719204421.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Eurosports 2 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307974
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: FIGHT NETWORK FHD*" tvg-logo="http://i.imgur.com/jH4yzdq.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: FIGHT NETWORK FHD*
+#EXTINF:-1 tvg-id="FightNetwork(src01).pt" tvg-name="PT: FIGHT NETWORK FHD*" tvg-logo="http://i.imgur.com/jH4yzdq.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: FIGHT NETWORK FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297179
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Motorvision FHD" tvg-logo="https://curl.pk/img/u/1e770b9d24c77bdf5f69209093b609888701.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Motorvision FHD
+#EXTINF:-1 tvg-id="MOTORVISION(src01).pt" tvg-name="PT: Motorvision FHD" tvg-logo="https://curl.pk/img/u/1e770b9d24c77bdf5f69209093b609888701.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Motorvision FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307978
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: MOTORVISION HD*" tvg-logo="http://i.imgur.com/3eBdDsv.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: MOTORVISION HD*
+#EXTINF:-1 tvg-id="MOTORVISION(src01).pt" tvg-name="PT: MOTORVISION HD*" tvg-logo="http://i.imgur.com/3eBdDsv.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: MOTORVISION HD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297185
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: PFC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71471791891.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: PFC HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307975
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: PFC SD*" tvg-logo="http://i.imgur.com/UlwiI1v.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: PFC SD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297186
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORTING TV FHD
+#EXTINF:-1 tvg-id="SPORTINGTV(src01).pt" tvg-name="PT: SPORTING TV FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORTING TV FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307462
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT | Sporting TV FHD" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT | Sporting TV FHD
+#EXTINF:-1 tvg-id="SPORTINGTV(src01).pt" tvg-name="PT | Sporting TV FHD" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT | Sporting TV FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/306991
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORTING TV SD
+#EXTINF:-1 tvg-id="SPORTINGTV(src01).pt" tvg-name="PT: SPORTING TV SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORTING TV SD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307463
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORTING TV
+#EXTINF:-1 tvg-id="SPORTINGTV(src01).pt" tvg-name="PT: SPORTING TV" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORTING TV
 http://7semfronteiras.cc:8080/4891373042/hook7452/307972
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: SPORT TV 1 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 4K
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT: SPORT TV 1 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 4K
 http://7semfronteiras.cc:8080/4891373042/hook7452/307416
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 1 FHD
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="PT: Sport TV 1 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 1 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307936
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 FHD*
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="PT: SPORT TV 1 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307413
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV + HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37029653971.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV + HD
+#EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="PT: Sport TV + HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37029653971.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV + HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307933
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 HD**" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 HD**
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="PT: SPORT TV 1 HD**" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 HD**
 http://7semfronteiras.cc:8080/4891373042/hook7452/307414
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: Sport TV 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99548243601.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 1 HD
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-name="PT: Sport TV 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/99548243601.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 1 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307935
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/63958668851.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 SD*
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="PT: SPORT TV 1 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/63958668851.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 SD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307934
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 SD
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 1 SD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307415
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SPORT TV*" tvg-logo="http://i.imgur.com/FknzN2L.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV*
+#EXTINF:-1 tvg-id="SportTV(src01).pt" tvg-name="PT: SPORT TV*" tvg-logo="http://i.imgur.com/FknzN2L.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297174
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 2 4K
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="PT: SPORT TV 2 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 2 4K
 http://7semfronteiras.cc:8080/4891373042/hook7452/307098
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73219314261.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 2 FHD
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="PT: Sport TV 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73219314261.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 2 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307939
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60781612131.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 2 HD
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="PT: Sport TV 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60781612131.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 2 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307938
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 2 HD*
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="PT: SPORT TV 2 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 2 HD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307418
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pt: Sport TV 2 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 2 SD
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="Pt: Sport TV 2 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 2 SD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307937
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: Sport TV 3 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/94780071621.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 FHD
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="PT: Sport TV 3 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/94780071621.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/306962
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 3 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/94780071621.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 FHD*
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="PT: Sport TV 3 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/94780071621.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307942
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71272654001.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 HD
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="PT: Sport TV 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71272654001.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 3 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307941
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/71272654001.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 3 HD*
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="PT: SPORT TV 3 HD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/71272654001.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 3 HD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307423
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3 LOW*" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 3 LOW*
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="PT: SPORT TV 3 LOW*" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 3 LOW*
 http://7semfronteiras.cc:8080/4891373042/hook7452/293485
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SPORT TV+ LOW*" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV+ LOW*
 http://7semfronteiras.cc:8080/4891373042/hook7452/293482
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pt: Sport TV 3 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30700435421.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 3 SD
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="Pt: Sport TV 3 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/30700435421.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 3 SD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307940
-#EXTINF:-1 tvg-id="sporttv4k.pt" tvg-name="PT: SPORT TV 4 4K" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 4K
+#EXTINF:-1 tvg-id="SportTV(src01).pt" tvg-name="PT: SPORT TV 4 4K" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 4K
 http://7semfronteiras.cc:8080/4891373042/hook7452/307426
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 4 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92632581301.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 4 FHD
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="PT: Sport TV 4 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/92632581301.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 4 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307945
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/92632581301.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 FHD*
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="PT: SPORT TV 4 FHD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/92632581301.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297176
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93955074211.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 4 HD
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="PT: Sport TV 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93955074211.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 4 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307944
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: SPORT TV 4 HD*" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 HD*
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-name="PT: SPORT TV 4 HD*" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 HD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297181
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4 LOW*" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 LOW*
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="PT: SPORT TV 4 LOW*" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 4 LOW*
 http://7semfronteiras.cc:8080/4891373042/hook7452/293484
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 4 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98962157641.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 4 SD
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="PT: Sport TV 4 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/98962157641.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 4 SD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307943
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 5 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32589196211.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 5 FHD
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="PT: Sport TV 5 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32589196211.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 5 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307948
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SPORT TV  5 FHD*" tvg-logo="http://i.imgur.com/FknzN2L.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV  5 FHD*
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="PT: SPORT TV  5 FHD*" tvg-logo="http://i.imgur.com/FknzN2L.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV  5 FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297175
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28051143461.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 5 HD
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="PT: Sport TV 5 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28051143461.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 5 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307947
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SPORT TV 5 HD *" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 5 HD *
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="PT: SPORT TV 5 HD *" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 5 HD *
 http://7semfronteiras.cc:8080/4891373042/hook7452/297180
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SPORT TV 5 LOW*" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 5 LOW*
 http://7semfronteiras.cc:8080/4891373042/hook7452/293483
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pt: Sport TV 5 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/13350691591.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 5 SD
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="Pt: Sport TV 5 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/13350691591.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",Pt: Sport TV 5 SD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307946
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 6 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41422634401.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 6 FHD
+#EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="PT: Sport TV 6 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/41422634401.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 6 FHD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307950
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62783331421.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 6 HD
+#EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="PT: Sport TV 6 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62783331421.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV 6 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307949
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: SPORT TV NBA FHD*" tvg-logo="" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV NBA FHD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/297194
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PT: Sport TV Nba HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15105191281.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: Sport TV Nba HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/307951
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Eurosport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Eurosport 1 HD
+#EXTINF:-1 tvg-id="Eurosport1(German).it" tvg-name="IT: Eurosport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Eurosport 1 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/281368
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Eurosport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Eurosport 2 HD
+#EXTINF:-1 tvg-id="Eurosport2(Italian).it" tvg-name="IT: Eurosport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Eurosport 2 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/281367
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: FOX Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: FOX Sport HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/281317
@@ -6475,23 +6475,23 @@ http://7semfronteiras.cc:8080/4891373042/hook7452/281350
 http://7semfronteiras.cc:8080/4891373042/hook7452/281337
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky Moto GP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/1200px-Sky_Group_logo_2020.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Moto GP HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/281335
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky Sport 2 HD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltfa4a7a1ade21b554/5f6078716f40ab4648b5c543/Sky_Sports_PRIMARY_RGB.jpg" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport 2 HD
+#EXTINF:-1 tvg-id="SkySport24(src01).it" tvg-name="IT: Sky Sport 2 HD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltfa4a7a1ade21b554/5f6078716f40ab4648b5c543/Sky_Sports_PRIMARY_RGB.jpg" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport 2 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/281332
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: SKY SPORT 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SKY SPORT 24
+#EXTINF:-1 tvg-id="SkySport24(src01).it" tvg-name="IT: SKY SPORT 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SKY SPORT 24
 http://7semfronteiras.cc:8080/4891373042/hook7452/281303
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky Sport 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/1280px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport 24 HD
+#EXTINF:-1 tvg-id="SkySport24(src01).it" tvg-name="IT: Sky Sport 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/1280px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport 24 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/281334
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky Sport 3 HD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/d3/Sky_Sports3.png.png/revision/latest/scale-to-width-down/800?cb=20201225191804" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport 3 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/281331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport F1 HD
+#EXTINF:-1 tvg-id="SkySportF1(Italian).it" tvg-name="IT: Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: Sky Sport F1 HD
 http://7semfronteiras.cc:8080/4891373042/hook7452/281333
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: SKY TG 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/1280px-Sky_TG24_-_Logo_2018.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SKY TG 24
+#EXTINF:-1 tvg-id="SkyTG24(Italian).it" tvg-name="IT: SKY TG 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/1280px-Sky_TG24_-_Logo_2018.svg.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SKY TG 24
 http://7semfronteiras.cc:8080/4891373042/hook7452/281304
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IT: SUPER TENNIS (Backup)" tvg-logo="http://en.mediasat.info/wp-content/uploads/2015/11/logo-supertennis.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SUPER TENNIS (Backup)
+#EXTINF:-1 tvg-id="SuperTennis(src01).it" tvg-name="IT: SUPER TENNIS (Backup)" tvg-logo="http://en.mediasat.info/wp-content/uploads/2015/11/logo-supertennis.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SUPER TENNIS (Backup)
 http://7semfronteiras.cc:8080/4891373042/hook7452/281614
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 SD*
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-name="PT: ELEVEN SPORTS 2 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: ELEVEN SPORTS 2 SD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307120
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 2 SD*
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="PT: SPORT TV 2 SD*" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",PT: SPORT TV 2 SD*
 http://7semfronteiras.cc:8080/4891373042/hook7452/307420
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPL - AD FREE HD ( Match TIME )" tvg-logo="http://contentsdeliver.link/logos/iplhd.png" group-title="CANAIS | CRÍQUETE (ICC 2023)",IPL - AD FREE HD ( Match TIME )
 http://7semfronteiras.cc:8080/4891373042/hook7452/313628
@@ -7633,4 +7633,4 @@ http://7semfronteiras.cc:8080/4891373042/hook7452/28814
 http://7semfronteiras.cc:8080/4891373042/hook7452/28813
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE LEG FHD²" tvg-logo="http://contentsdeliver.link/logos/spaceleg.png" group-title="CANAIS | LEGENDADOS",SPACE LEG FHD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/28812
-# Atualizado em Sat Mar 22 15:28:34 UTC 2025
+# Atualizado em Sat Mar 22 21:26:38 UTC 2025
