@@ -4965,9 +4965,9 @@ http://7semfronteiras.cc:8080/4891373042/hook7452/22517
 http://7semfronteiras.cc:8080/4891373042/hook7452/18733
 #EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD²" tvg-logo="http://contentsdeliver.link/logos/esd.png" group-title="CANAIS | VARIEDADES",E! SD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/22330
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FASHION TV FHD¹" tvg-logo="http://contentsdeliver.link/logos/fashionfhd.png" group-title="CANAIS | VARIEDADES",FASHION TV FHD¹
+#EXTINF:-1 tvg-id="FashionTVBrazil(Portuguese).br" tvg-name="FASHION TV FHD¹" tvg-logo="http://contentsdeliver.link/logos/fashionfhd.png" group-title="CANAIS | VARIEDADES",FASHION TV FHD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/64645
-#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FASHION TV HD²" tvg-logo="http://contentsdeliver.link/logos/fashionhd.png" group-title="CANAIS | VARIEDADES",FASHION TV HD²
+#EXTINF:-1 tvg-id="FashionTVBrazil(Portuguese).br" tvg-name="FASHION TV HD²" tvg-logo="http://contentsdeliver.link/logos/fashionhd.png" group-title="CANAIS | VARIEDADES",FASHION TV HD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/22531
 #EXTINF:-1 tvg-id="FilmandArts(Portuguese).br" tvg-name="FILM & ARTS FHD¹" tvg-logo="http://contentsdeliver.link/logos/filmEartsfhd.png" group-title="CANAIS | VARIEDADES",FILM & ARTS FHD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/99448
@@ -4975,7 +4975,7 @@ http://7semfronteiras.cc:8080/4891373042/hook7452/99448
 http://7semfronteiras.cc:8080/4891373042/hook7452/160021
 #EXTINF:-1 tvg-id="FilmandArts(Portuguese).br" tvg-name="FILM & ARTS HD²" tvg-logo="http://contentsdeliver.link/logos/filmEartshd.png" group-title="CANAIS | VARIEDADES",FILM & ARTS HD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/99449
-#EXTINF:-1 tvg-id="AandE(Portuguese).br" tvg-name="FILM & ARTS SD²" tvg-logo="http://contentsdeliver.link/logos/filmEartssd.png" group-title="CANAIS | VARIEDADES",FILM & ARTS SD²
+#EXTINF:-1 tvg-id="FilmandArts(Portuguese).br" tvg-name="FILM & ARTS SD²" tvg-logo="http://contentsdeliver.link/logos/filmEartssd.png" group-title="CANAIS | VARIEDADES",FILM & ARTS SD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/22336
 #EXTINF:-1 tvg-id="FoodNetwork(Portuguese).br" tvg-name="FOOD NETWORK FHD¹" tvg-logo="http://contentsdeliver.link/logos/foodnetworksfhd.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK FHD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/22670
@@ -5041,33 +5041,33 @@ http://7semfronteiras.cc:8080/4891373042/hook7452/22587
 http://7semfronteiras.cc:8080/4891373042/hook7452/18753
 #EXTINF:-1 tvg-id="Multishow(Portuguese).br" tvg-name="MULTISHOW SD¹" tvg-logo="http://contentsdeliver.link/logos/multishowsd.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/22367
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POLISHOP FHD¹" tvg-logo="http://contentsdeliver.link/logos/polishopfhd.png" group-title="CANAIS | VARIEDADES",POLISHOP FHD¹
+#EXTINF:-1 tvg-id="Polishop(Portuguese).br" tvg-name="POLISHOP FHD¹" tvg-logo="http://contentsdeliver.link/logos/polishopfhd.png" group-title="CANAIS | VARIEDADES",POLISHOP FHD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/53221
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POLISHOP SD²" tvg-logo="http://contentsdeliver.link/logos/polishopsd.png" group-title="CANAIS | VARIEDADES",POLISHOP SD²
+#EXTINF:-1 tvg-id="Polishop(Portuguese).br" tvg-name="POLISHOP SD²" tvg-logo="http://contentsdeliver.link/logos/polishopsd.png" group-title="CANAIS | VARIEDADES",POLISHOP SD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/64637
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED BULL TV HD¹" tvg-logo="http://contentsdeliver.link/logos/redebullhd.png" group-title="CANAIS | VARIEDADES",RED BULL TV HD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/163608
 #EXTINF:-1 tvg-id="SaborandArte(Portuguese).br" tvg-name="SABOR & ARTE HD¹" tvg-logo="http://contentsdeliver.link/logos/saborEartehd.png" group-title="CANAIS | VARIEDADES",SABOR & ARTE HD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/165640
-#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME FHD¹" tvg-logo="http://contentsdeliver.link/logos/shoptimefhd.png" group-title="CANAIS | VARIEDADES",SHOPTIME FHD¹
+#EXTINF:-1 tvg-id="shoptime" tvg-name="SHOPTIME FHD¹" tvg-logo="http://contentsdeliver.link/logos/shoptimefhd.png" group-title="CANAIS | VARIEDADES",SHOPTIME FHD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/22609
-#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME SD¹" tvg-logo="http://contentsdeliver.link/logos/shoptimesd.png" group-title="CANAIS | VARIEDADES",SHOPTIME SD¹
+#EXTINF:-1 tvg-id="shoptime" tvg-name="SHOPTIME SD¹" tvg-logo="http://contentsdeliver.link/logos/shoptimesd.png" group-title="CANAIS | VARIEDADES",SHOPTIME SD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/44867
-#EXTINF:-1 tvg-id="TBS(English).br" tvg-name="TNT NOVELAS FHD¹" tvg-logo="http://contentsdeliver.link/logos/tntnovelasfhd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS FHD¹
+#EXTINF:-1 tvg-id="TNTNovelas(Portuguese).br" tvg-name="TNT NOVELAS FHD¹" tvg-logo="http://contentsdeliver.link/logos/tntnovelasfhd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS FHD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/314682
-#EXTINF:-1 tvg-id="TBS(English).br" tvg-name="TNT NOVELAS FHD²" tvg-logo="http://contentsdeliver.link/logos/tntnovelasfhd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS FHD²
+#EXTINF:-1 tvg-id="TNTNovelas(Portuguese).br" tvg-name="TNT NOVELAS FHD²" tvg-logo="http://contentsdeliver.link/logos/tntnovelasfhd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS FHD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/64721
-#EXTINF:-1 tvg-id="TBS(English).br" tvg-name="TNT NOVELAS HD¹" tvg-logo="http://contentsdeliver.link/logos/tntnovelashd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS HD¹
+#EXTINF:-1 tvg-id="TNTNovelas(Portuguese).br" tvg-name="TNT NOVELAS HD¹" tvg-logo="http://contentsdeliver.link/logos/tntnovelashd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS HD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/314683
-#EXTINF:-1 tvg-id="TBS(English).br" tvg-name="TNT NOVELAS HD²" tvg-logo="http://contentsdeliver.link/logos/tntnovelashd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS HD²
+#EXTINF:-1 tvg-id="TNTNovelas(Portuguese).br" tvg-name="TNT NOVELAS HD²" tvg-logo="http://contentsdeliver.link/logos/tntnovelashd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS HD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/64720
-#EXTINF:-1 tvg-id="TBS(English).br" tvg-name="TNT NOVELAS SD¹" tvg-logo="http://contentsdeliver.link/logos/tntnovelassd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS SD¹
+#EXTINF:-1 tvg-id="TNTNovelas(Portuguese).br" tvg-name="TNT NOVELAS SD¹" tvg-logo="http://contentsdeliver.link/logos/tntnovelassd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS SD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/314684
-#EXTINF:-1 tvg-id="TBS(English).br" tvg-name="TNT NOVELAS SD²" tvg-logo="http://contentsdeliver.link/logos/tntnovelassd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS SD²
+#EXTINF:-1 tvg-id="TNTNovelas(Portuguese).br" tvg-name="TNT NOVELAS SD²" tvg-logo="http://contentsdeliver.link/logos/tntnovelassd.png" group-title="CANAIS | VARIEDADES",TNT NOVELAS SD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/22395
 #EXTINF:-1 tvg-id="TravelBoxBrazil(Portuguese).br" tvg-name="TRAVEL BOX BRASIL FHD¹" tvg-logo="http://contentsdeliver.link/logos/travelboxbrasilfhd.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRASIL FHD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/166578
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRAVEL BOX BRASIL FHD²" tvg-logo="http://contentsdeliver.link/logos/travelboxbrasilfhd.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRASIL FHD²
+#EXTINF:-1 tvg-id="TravelBoxBrazil(Portuguese).br" tvg-name="TRAVEL BOX BRASIL FHD²" tvg-logo="http://contentsdeliver.link/logos/travelboxbrasilfhd.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRASIL FHD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/64643
 #EXTINF:-1 tvg-id="TravelBoxBrazil(Portuguese).br" tvg-name="TRAVEL BOX BRASIL HD¹" tvg-logo="http://contentsdeliver.link/logos/travelboxbrasilhd.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRASIL HD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/166579
@@ -5117,7 +5117,7 @@ http://7semfronteiras.cc:8080/4891373042/hook7452/22632
 http://7semfronteiras.cc:8080/4891373042/hook7452/18786
 #EXTINF:-1 tvg-id="WooHoo(Portuguese).br" tvg-name="WOOHOO SD²" tvg-logo="http://contentsdeliver.link/logos/woohoosd.png" group-title="CANAIS | VARIEDADES",WOOHOO SD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/22423
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 monde HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="CANAIS | VARIEDADES",TV5 monde HD²
+#EXTINF:-1 tvg-id="TV5Monde(French).br" tvg-name="TV5 monde HD²" tvg-logo="http://contentsdeliver.link/logos/recordhd.png" group-title="CANAIS | VARIEDADES",TV5 monde HD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/336456
 #EXTINF:-1 tvg-id="AmazonSat(Portuguese).br" tvg-name="AMAZON SAT HD¹" tvg-logo="http://contentsdeliver.link/logos/amazon_sat_hd.png" group-title="CANAIS | VARIEDADES",AMAZON SAT HD¹
 http://7semfronteiras.cc:8080/4891373042/hook7452/344349
@@ -7633,4 +7633,4 @@ http://7semfronteiras.cc:8080/4891373042/hook7452/28814
 http://7semfronteiras.cc:8080/4891373042/hook7452/28813
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE LEG FHD²" tvg-logo="http://contentsdeliver.link/logos/spaceleg.png" group-title="CANAIS | LEGENDADOS",SPACE LEG FHD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/28812
-# Atualizado em Mon Mar 24 15:37:32 UTC 2025
+# Atualizado em Mon Mar 24 21:29:18 UTC 2025
