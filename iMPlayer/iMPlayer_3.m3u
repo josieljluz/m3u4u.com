@@ -5,11 +5,11 @@ https://video01.logicahost.com.br/a10maisadap/smil:transcoder.smil/chunklist_w21
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1921501568.m3u8
 #EXTINF:-1 tvg-id="CancaoNova(Portuguese).br" tvg-name="TV CANÇÃO NOVA" tvg-logo="http://guugli.org:80/images/098bee597e130bcbffc5f40713cf183e.png" group-title="PIAUÍ TV",TV CANÇÃO NOVA
 https://www.youtube.com/user/tvcancaonova/live
-#EXTINF:-1 tvg-id="TVCidadeVerde(Portuguese).br" tvg-name="TV CIDADE VERDE PICOS" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="PIAUÍ TV",TV CIDADE VERDE PICOS
+#EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="TV CIDADE VERDE PICOS" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="PIAUÍ TV",TV CIDADE VERDE PICOS
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w1496024979.m3u8
 #EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="TV CIDADE VERDE PICOS FHD" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="PIAUÍ TV",TV CIDADE VERDE PICOS FHD
 https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/chunklist_w685970594.m3u8
-#EXTINF:-1 tvg-id="TVCidadeVerde(Portuguese).br" tvg-name="TV CIDADE VERDE TERESINA" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="PIAUÍ TV",TV CIDADE VERDE TERESINA
+#EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="TV CIDADE VERDE TERESINA" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="PIAUÍ TV",TV CIDADE VERDE TERESINA
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1115557601.m3u8
 #EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="TV CIDADE VERDE TERESINA HD" tvg-logo="https://i.imgur.com/rkGbMJL.png" group-title="PIAUÍ TV",TV CIDADE VERDE TERESINA HD
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1094170448.m3u8
@@ -7633,4 +7633,3 @@ http://7semfronteiras.cc:8080/4891373042/hook7452/28814
 http://7semfronteiras.cc:8080/4891373042/hook7452/28813
 #EXTINF:-1 tvg-id="space.br" tvg-name="SPACE LEG FHD²" tvg-logo="http://contentsdeliver.link/logos/spaceleg.png" group-title="CANAIS | LEGENDADOS",SPACE LEG FHD²
 http://7semfronteiras.cc:8080/4891373042/hook7452/28812
-# Atualizado em Sat May 24 21:19:17 UTC 2025
