@@ -81,7 +81,7 @@ http://cdn.churros.site:80/venk0vwp7x01/gold81500/208156
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/102406
 #EXTINF:-1 tvg-id="Cultura(Portuguese).br" tvg-name="TV Cultura SD" tvg-logo="https://loopstatic.net/tvcultura.png" group-title="ABERTOS",TV Cultura SD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/102407
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV DIARIO CE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/LOGO_TV_DIARIO_2023.png/1200px-LOGO_TV_DIARIO_2023.png" group-title="ABERTOS",TV DIARIO CE
+#EXTINF:-1 tvg-id="TVDiariobr(src09).br" tvg-name="TV DIARIO CE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/LOGO_TV_DIARIO_2023.png/1200px-LOGO_TV_DIARIO_2023.png" group-title="ABERTOS",TV DIARIO CE
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/727316
 #EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV ESCOLA FHD" tvg-logo="https://i.imgur.com/ZSusL7O.png" group-title="ABERTOS",TV ESCOLA FHD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/102410
@@ -101,7 +101,7 @@ http://cdn.churros.site:80/venk0vwp7x01/gold81500/208330
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/208173
 #EXTINF:-1 tvg-id="TVImperial(Portuguese).br" tvg-name="TV IMPD SD" tvg-logo="https://imgur.com/hnNnWYr.png" group-title="ABERTOS",TV IMPD SD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/208331
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV JUSTIÇA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/14/64.1SP.jpg/154px-64.1SP.jpg" group-title="ABERTOS",TV JUSTIÇA HD
+#EXTINF:-1 tvg-id="TVJUSTICAbr(src09).br" tvg-name="TV JUSTIÇA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/14/64.1SP.jpg/154px-64.1SP.jpg" group-title="ABERTOS",TV JUSTIÇA HD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/727297
 #EXTINF:-1 tvg-id="TVPampa(Portuguese).br" tvg-name="TV PAMPA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logotipo_da_TV_Pampa_%282021%29.png/200px-Logotipo_da_TV_Pampa_%282021%29.png" group-title="ABERTOS",TV PAMPA HD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/102412
@@ -461,13 +461,13 @@ http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/62146.ts
 http://sv1.casaplay5g.win:8080/raquel/102030/6751
 #EXTINF:-1 tvg-id="BABYTV(Portuguese).br" tvg-name="Baby TV HD" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="BRASIL 1",Baby TV HD
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/45262.m3u8
-#EXTINF:-1 tvg-id="BABYTV(Portuguese).br" tvg-name="BABY TV HD BR" tvg-logo="" group-title="BRASIL 1",BABY TV HD BR
+#EXTINF:-1 tvg-id="BabyTVbr(src09).br" tvg-name="BABY TV HD BR" tvg-logo="" group-title="BRASIL 1",BABY TV HD BR
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/79971
 #EXTINF:-1 tvg-id="BABYTV.br" tvg-name="Baby TV SD" tvg-logo="" group-title="BRASIL 1",Baby TV SD
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/81019.m3u8
 #EXTINF:-1 tvg-id="BabyTV(Portuguese).br" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/oRxHTNp.png" group-title="BRASIL 1",BABY TV SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181006.ts
-#EXTINF:-1 tvg-id="BABYTV(Portuguese).br" tvg-name="BABY TV SD BR" tvg-logo="" group-title="BRASIL 1",BABY TV SD BR
+#EXTINF:-1 tvg-id="BabyTVbr(src09).br" tvg-name="BABY TV SD BR" tvg-logo="" group-title="BRASIL 1",BABY TV SD BR
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/81019
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD*" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/4789.png" group-title="BRASIL 1",BABY TV SD*
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10055023.m3u8
@@ -551,7 +551,7 @@ http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/4895.m3u8
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/81022.m3u8
 #EXTINF:-1 tvg-id="Band(Portuguese).br" tvg-name="BAND HD BR" tvg-logo="" group-title="BRASIL 1",BAND HD BR
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/81022
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/band.png" group-title="BRASIL 1",BAND HDB
+#EXTINF:-1 tvg-id="Bandbr(src09).br" tvg-name="BAND HDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/band.png" group-title="BRASIL 1",BAND HDB
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/9032.m3u8
 #EXTINF:-1 tvg-id="Band(Portuguese).br" tvg-name="Band Mais Campinas" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="BRASIL 1",Band Mais Campinas
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/20625.m3u8
@@ -563,7 +563,7 @@ http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/66553.m3u8
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90052.m3u8
 #EXTINF:-1 tvg-id="BandMinas(Portuguese).br" tvg-name="Band MG" tvg-logo="http://printv.esy.es/server/Band.png" group-title="BRASIL 1",Band MG
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/60666.ts
-#EXTINF:-1 tvg-id="Bandmg.br" tvg-name="BAND MG UHD" tvg-logo="http://www.kanawat.com.br/icons/bigband.png" group-title="BRASIL 1",BAND MG UHD
+#EXTINF:-1 tvg-id="BandMinasbr(src09).br" tvg-name="BAND MG UHD" tvg-logo="http://www.kanawat.com.br/icons/bigband.png" group-title="BRASIL 1",BAND MG UHD
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/106751
 #EXTINF:-1 tvg-id="BandMinas(Portuguese).br" tvg-name="BAND MINAS" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/band.png" group-title="BRASIL 1",BAND MINAS
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10090781.m3u8
@@ -575,7 +575,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181001.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181000.ts
 #EXTINF:-1 tvg-id="BandMinas(Portuguese).br" tvg-name="BAND MINAS UHD" tvg-logo="" group-title="BRASIL 1",BAND MINAS UHD
 http://main.xplus2-main.xyz:2082/Tourobox1-sVUrqMJXZu/wMBG9jeypt/481
-#EXTINF:-1 tvg-id="Bandsp.br" tvg-name="BAND NACIONAL" tvg-logo="http://www.kanawat.com.br/icons/bigband.png" group-title="BRASIL 1",BAND NACIONAL
+#EXTINF:-1 tvg-id="Bandbr(src09).br" tvg-name="BAND NACIONAL" tvg-logo="http://www.kanawat.com.br/icons/bigband.png" group-title="BRASIL 1",BAND NACIONAL
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/77559
 #EXTINF:-1 tvg-id="BandNatal(Portuguese).br" tvg-name="BAND NATAL" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/band.png" group-title="BRASIL 1",BAND NATAL
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10090776.m3u8
@@ -1021,13 +1021,13 @@ http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/6613.ts
 http://sv1.casaplay5g.win:8080/raquel/102030/3437
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="BRASIL 1",Boomerang HD
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/2065.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOOMERANG HD BR" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="BRASIL 1",BOOMERANG HD BR
+#EXTINF:-1 tvg-id="Boomerangbr(src09).br" tvg-name="BOOMERANG HD BR" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="BRASIL 1",BOOMERANG HD BR
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/79975
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang SD" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="BRASIL 1",Boomerang SD
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/81028.m3u8
 #EXTINF:-1 tvg-id="Boomerang SD" tvg-name="BOOMERANG SD" tvg-logo="http://floriu.com/imagem/Bloomberg.png" group-title="BRASIL 1",BOOMERANG SD
 http://sv1.casaplay5g.win:8080/raquel/102030/3436
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang SD BR" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="BRASIL 1",Boomerang SD BR
+#EXTINF:-1 tvg-id="Boomerangbr(src09).br" tvg-name="Boomerang SD BR" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="BRASIL 1",Boomerang SD BR
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/81028
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="BORA FILMES" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/10033372.png" group-title="BRASIL 1",BORA FILMES
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10068461.m3u8
@@ -6101,11 +6101,11 @@ http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91765.m3u8
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91766.m3u8
 #EXTINF:-1 tvg-id="TVCentroAmericaCuiaba(Portuguese).br" tvg-name="Globo Centro América Cuiaba HD" tvg-logo="" group-title="BRASIL 2",Globo Centro América Cuiaba HD
 http://me2me.ws:8880/live/7idr1bW6Sx/SdL9k7Ka6s/28425.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO CUIABA HD" tvg-logo="" group-title="BRASIL 3",GLOBO CUIABA HD
+#EXTINF:-1 tvg-id="TVCentroAmericaCuiababr(src09).br" tvg-name="GLOBO CUIABA HD" tvg-logo="" group-title="BRASIL 3",GLOBO CUIABA HD
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/80015.m3u8
 #EXTINF:-1 tvg-id="TVCentroAmericaCuiaba(Portuguese).br" tvg-name="GLOBO CUIABA HD BR" tvg-logo="" group-title="BRASIL 3",GLOBO CUIABA HD BR
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/80015
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO CURITIBA HD [P]" tvg-logo="s:1:/images/A5gOSgDnwDzYARmFszYzfYEI462qvJdlMSYSZS4WQyYfherliN9YZBPO2Z-faig7sswV0N3D8x8Ljl_cp8ZSwfBSMTEVXUh8Lb2JvNP4O5o.png" group-title="BRASIL 3",GLOBO CURITIBA HD [P]
+#EXTINF:-1 tvg-id="RPCCuritibabr(src09).br" tvg-name="GLOBO CURITIBA HD [P]" tvg-logo="s:1:/images/A5gOSgDnwDzYARmFszYzfYEI462qvJdlMSYSZS4WQyYfherliN9YZBPO2Z-faig7sswV0N3D8x8Ljl_cp8ZSwfBSMTEVXUh8Lb2JvNP4O5o.png" group-title="BRASIL 3",GLOBO CURITIBA HD [P]
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90282.m3u8
 #EXTINF:-1 tvg-id="RPCCuritiba(Portuguese).br" tvg-name="GLOBO CURITIBA SD [P]" tvg-logo="http://srv.mypanel.life:8080/images/90113a455af7577964f0bc8215e3c091.png" group-title="BRASIL 3",GLOBO CURITIBA SD [P]
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90283.m3u8
@@ -6237,7 +6237,7 @@ http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/115149
 #EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="GLOBO FEIRA DE SANTANA BAHIA" tvg-logo="" group-title="BRASIL 3",GLOBO FEIRA DE SANTANA BAHIA
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91880.m3u8
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo FHD" tvg-logo="" group-title="BRASIL 3",Globo FHD
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo FHD" tvg-logo="" group-title="BRASIL 3",Globo FHD
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/81088.m3u8
 #EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo FHD BR" tvg-logo="" group-title="BRASIL 3",Globo FHD BR
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/81088
@@ -6253,7 +6253,7 @@ http://loop01-2.canais.is:80/watch/trial/trial/688.ts
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/64390
 #EXTINF:-1 tvg-id="Globoac.br" tvg-name="GLOBO GO TV Anhanguera Anapolis" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO GO TV Anhanguera Anapolis
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/115164
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="GLOBO GO TV Anhanguera Catalao" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO GO TV Anhanguera Catalao
+#EXTINF:-1 tvg-id="BoxKids(Portuguese).br" tvg-name="GLOBO GO TV Anhanguera Catalao" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO GO TV Anhanguera Catalao
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/115165
 #EXTINF:-1 tvg-id="Globoac.br" tvg-name="GLOBO GO TV Anhanguera Goiania" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO GO TV Anhanguera Goiania
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/115163
@@ -6271,7 +6271,7 @@ http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3
 http://loop01-2.canais.is:80/watch/trial/trial/89.ts
 #EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="GLOBO HD BR" tvg-logo="" group-title="BRASIL 3",GLOBO HD BR
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/81087
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo HD BR" tvg-logo="" group-title="BRASIL 3",Globo HD BR
+#EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="Globo HD BR" tvg-logo="" group-title="BRASIL 3",Globo HD BR
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/81087.m3u8
 #EXTINF:-1 tvg-id="tv.integracao.uberaba.br" tvg-name="GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO INTEGRAÇÃO DIVINÓPOLIS FHD¹
 http://51.79.39.236:80/live/aldenira2023/99887766/597757.m3u8
@@ -6341,7 +6341,7 @@ http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/2007.ts
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91778.m3u8
 #EXTINF:-1 tvg-id="InterTVGrandeMinas(Portuguese).br" tvg-name="GLOBO INTER TV GRANDE MINAS MG HD (BR2)" tvg-logo="" group-title="BRASIL 3",GLOBO INTER TV GRANDE MINAS MG HD (BR2)
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91779.m3u8
-#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="Globo Inter Tv Grande Minas SD" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",Globo Inter Tv Grande Minas SD
+#EXTINF:-1 tvg-id="InterTVGrandeMinas(Portuguese).br" tvg-name="Globo Inter Tv Grande Minas SD" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",Globo Inter Tv Grande Minas SD
 http://51.79.39.236:80/live/aldenira2023/99887766/113846.m3u8
 #EXTINF:-1 tvg-id="InterTVGrandeMinas(Portuguese).br" tvg-name="GLOBO INTER TV MG  FHD" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BRASIL 3",GLOBO INTER TV MG  FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180971.ts
@@ -6397,7 +6397,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/180978.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181662.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO JUAZEIRO BAHIA" tvg-logo="" group-title="BRASIL 3",GLOBO JUAZEIRO BAHIA
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91877.m3u8
-#EXTINF:-1 tvg-id="tv.bahia.br" tvg-name="GLOBO JUAZEIRO BAHIA FHD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO JUAZEIRO BAHIA FHD¹
+#EXTINF:-1 tvg-id="TVBahia(Portuguese).br" tvg-name="GLOBO JUAZEIRO BAHIA FHD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO JUAZEIRO BAHIA FHD¹
 http://51.79.39.236:80/live/aldenira2023/99887766/605361.m3u8
 #EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="GLOBO JUAZEIRO BAHIA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO JUAZEIRO BAHIA HD¹
 http://51.79.39.236:80/live/aldenira2023/99887766/605360.m3u8
@@ -6525,7 +6525,7 @@ http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/115142
 #EXTINF:-1 tvg-id="Globoac.br" tvg-name="GLOBO MT TV Centro America Sul" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO MT TV Centro America Sul
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/115143
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="GLOBO MT TV Centro America Tangara da Serra" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO MT TV Centro America Tangara da Serra
+#EXTINF:-1 tvg-id="BoxKids(Portuguese).br" tvg-name="GLOBO MT TV Centro America Tangara da Serra" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO MT TV Centro America Tangara da Serra
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/115141
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MT TV CENTRO AMERICA UHD" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO MT TV CENTRO AMERICA UHD
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/48542
@@ -6537,7 +6537,7 @@ http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90295.m3u8
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90296.m3u8
 #EXTINF:-1 tvg-id="GloboNews(Portuguese).br" tvg-name="Globo News" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="BRASIL 3",Globo News
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/2129.m3u8
-#EXTINF:-1 tvg-id="globo.news.br" tvg-name="Globo News 4K" tvg-logo="https://prostore.app/logos/globonews.png" group-title="BRASIL 3",Globo News 4K
+#EXTINF:-1 tvg-id="GloboNews(Portuguese).br" tvg-name="Globo News 4K" tvg-logo="https://prostore.app/logos/globonews.png" group-title="BRASIL 3",Globo News 4K
 http://51.79.39.236:80/live/aldenira2023/99887766/100335.m3u8
 #EXTINF:-1 tvg-id="GloboNews(Portuguese).br" tvg-name="GLOBO NEWS 4K" tvg-logo="" group-title="BRASIL 3",GLOBO NEWS 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-sVUrqMJXZu/wMBG9jeypt/498
@@ -6599,7 +6599,7 @@ http://me2me.ws:8880/live/7idr1bW6Sx/SdL9k7Ka6s/28442.m3u8
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90302.m3u8
 #EXTINF:-1 tvg-id="GloboNordeste(Portuguese).br" tvg-name="GLOBO NORDESTE SD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BRASIL 3",GLOBO NORDESTE SD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181678.ts
-#EXTINF:-1 tvg-id="Globope.br" tvg-name="GLOBO NORDESTE UHD" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO NORDESTE UHD
+#EXTINF:-1 tvg-id="GloboNordeste(Portuguese).br" tvg-name="GLOBO NORDESTE UHD" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO NORDESTE UHD
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/48539
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo NOW" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",Globo NOW
 http://51.79.39.236:80/live/aldenira2023/99887766/97393.m3u8
@@ -6761,7 +6761,7 @@ http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/2020.m3u8
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/2018.m3u8
 #EXTINF:-1 tvg-id="NSCTVJoinville(Portuguese).br" tvg-name="GLOBO NSC TV JOINVILLE FHD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BRASIL 3",GLOBO NSC TV JOINVILLE FHD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181635.ts
-#EXTINF:-1 tvg-id="NSCTVJoinvilleHD.br" tvg-name="Globo NSC TV Joinville FHD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",Globo NSC TV Joinville FHD²
+#EXTINF:-1 tvg-id="NSCTVJoinville(Portuguese).br" tvg-name="Globo NSC TV Joinville FHD²" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",Globo NSC TV Joinville FHD²
 http://51.79.39.236:80/live/aldenira2023/99887766/97401.m3u8
 #EXTINF:-1 tvg-id="NSCTVJoinville(Portuguese).br" tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="BRASIL 3",Globo NSC TV Joinville HD
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/2019.ts
@@ -6805,9 +6805,9 @@ http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90303.m3u8
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90304.m3u8
 #EXTINF:-1 tvg-id="TVGloboNordeste(Portuguese).br" tvg-name="Globo Petrolina HD" tvg-logo="" group-title="BRASIL 3",Globo Petrolina HD
 http://me2me.ws:8880/live/7idr1bW6Sx/SdL9k7Ka6s/28447.m3u8
-#EXTINF:-1 tvg-id="Globoac.br" tvg-name="GLOBO PI TV Alvorada" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO PI TV Alvorada
+#EXTINF:-1 tvg-id="TVAlvoradadoSulbr(src09).br" tvg-name="GLOBO PI TV Alvorada" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO PI TV Alvorada
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/115113
-#EXTINF:-1 tvg-id="Globoac.br" tvg-name="GLOBO PI TV Clube" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO PI TV Clube
+#EXTINF:-1 tvg-id="TVClubebr(src09).br" tvg-name="GLOBO PI TV Clube" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO PI TV Clube
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/115112
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO PORTO ALEGRE HD [P]" tvg-logo="http://srv.mypanel.life:8080/images/90113a455af7577964f0bc8215e3c091.png" group-title="BRASIL 3",GLOBO PORTO ALEGRE HD [P]
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90305.m3u8
@@ -7025,13 +7025,13 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181317.ts
 http://me2me.ws:8880/live/7idr1bW6Sx/SdL9k7Ka6s/28452.m3u8
 #EXTINF:-1 tvg-id="Globo(Portuguese).br" tvg-name="GLOBO REDE AMAZONICA HD²" tvg-logo="https://i.imgur.com/MQNHOHE.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA HD²
 http://p23.miami:80/live/Rp0808328/Bk20305060/181607.ts
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO REDE AMAZONICA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA HD¹
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus(Portuguese).br" tvg-name="GLOBO REDE AMAZONICA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA HD¹
 http://51.79.39.236:80/live/aldenira2023/99887766/605719.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO REDE AMAZONICA ITACOATIARA" tvg-logo="" group-title="BRASIL 3",GLOBO REDE AMAZONICA ITACOATIARA
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91876.m3u8
-#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO REDE AMAZONICA ITACOATIARA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA ITACOATIARA HD¹
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus(Portuguese).br" tvg-name="GLOBO REDE AMAZONICA ITACOATIARA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA ITACOATIARA HD¹
 http://51.79.39.236:80/live/aldenira2023/99887766/605718.m3u8
-#EXTINF:-1 tvg-id="tv.paraiba.br" tvg-name="GLOBO REDE AMAZONICA JI PARANA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA JI PARANA HD¹
+#EXTINF:-1 tvg-id="TVParaiba(Portuguese).br" tvg-name="GLOBO REDE AMAZONICA JI PARANA HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA JI PARANA HD¹
 http://51.79.39.236:80/live/aldenira2023/99887766/601476.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO REDE AMAZONICA MACAPA" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA MACAPA
 http://51.79.39.236:80/live/aldenira2023/99887766/605724.m3u8
@@ -7043,7 +7043,7 @@ http://main.xplus2-main.xyz:2082/Tourobox1-sVUrqMJXZu/wMBG9jeypt/530
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91875.m3u8
 #EXTINF:-1 tvg-id="globo.amazonas.br" tvg-name="GLOBO REDE AMAZONICA PARINTINS HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA PARINTINS HD¹
 http://51.79.39.236:80/live/aldenira2023/99887766/605720.m3u8
-#EXTINF:-1 tvg-id="rede.amazonica.rio.branco.br" tvg-name="GLOBO REDE AMAZONICA RIO BRANCO HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA RIO BRANCO HD¹
+#EXTINF:-1 tvg-id="RedeAmazonicaRioBranco(Portuguese).br" tvg-name="GLOBO REDE AMAZONICA RIO BRANCO HD¹" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA RIO BRANCO HD¹
 http://51.79.39.236:80/live/aldenira2023/99887766/605721.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO REDE AMAZONICA RIO BRANCO SD" tvg-logo="https://prostore.app/logos/globo.png" group-title="BRASIL 3",GLOBO REDE AMAZONICA RIO BRANCO SD
 http://51.79.39.236:80/live/aldenira2023/99887766/605723.m3u8
@@ -7585,15 +7585,15 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/181364.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/181310.ts
 #EXTINF:-1 tvg-id="TVClube(Portuguese).br" tvg-name="Globo TV Clube Piauí HD" tvg-logo="http://canais.is/imgs/tvclubepiaui-channel.png" group-title="BRASIL 3",Globo TV Clube Piauí HD
 http://loop01-2.canais.is:80/watch/trial/trial/849.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Clube Teresina" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="BRASIL 3",Globo TV Clube Teresina
+#EXTINF:-1 tvg-id="TVAlvoradadoSulbr(src09).br" tvg-name="Globo TV Clube Teresina" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="BRASIL 3",Globo TV Clube Teresina
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1970.m3u8
 #EXTINF:-1 tvg-id="TVClube(Portuguese).br" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="BRASIL 3",Globo TV Clube Teresina FHD
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/1971.ts
 #EXTINF:-1 tvg-id="TVClube(Portuguese).br" tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="BRASIL 3",Globo TV Clube Teresina HD
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/1972.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo TV Clube Teresina SD" tvg-logo="" group-title="BRASIL 3",Globo TV Clube Teresina SD
+#EXTINF:-1 tvg-id="TVAlvoradadoSul(Portuguese).br" tvg-name="Globo TV Clube Teresina SD" tvg-logo="" group-title="BRASIL 3",Globo TV Clube Teresina SD
 http://me2me.ws:8880/live/7idr1bW6Sx/SdL9k7Ka6s/28483.m3u8
-#EXTINF:-1 tvg-id="Globopi.br" tvg-name="GLOBO TV CLUBE UHD" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO TV CLUBE UHD
+#EXTINF:-1 tvg-id="TVClubebr(src09).br" tvg-name="GLOBO TV CLUBE UHD" tvg-logo="http://www.tunningtv.com/launcher/icons/globo.png" group-title="BRASIL 3",GLOBO TV CLUBE UHD
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/106726
 #EXTINF:-1 tvg-id="TVCentroAmericaCuiaba(Portuguese).br" tvg-name="Globo TV Cuiabá" tvg-logo="http://canais.is/imgs/tvcuiaba-channel.png" group-title="BRASIL 3",Globo TV Cuiabá
 http://loop01-2.canais.is:80/watch/trial/trial/351.ts
@@ -19405,4 +19405,4 @@ http://cdn.churros.site:80/venk0vwp7x01/gold81500/99968
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/99969
 #EXTINF:-1 tvg-id="WooHoo(Portuguese).br" tvg-name="WooHoo SD" tvg-logo="https://acstatic.co/logos/canais/woohoo.png" group-title="VARIEDADES",WooHoo SD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/99970
-# Atualizado em Sun Jan  4 09:23:58 UTC 2026
+# Atualizado em Sun Jan  4 15:23:24 UTC 2026
