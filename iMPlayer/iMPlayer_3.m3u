@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/782dyqdrqkh1xegen4zp"
+#EXTINF:-1 tvg-id="tvassembleia" tvg-name="TV Assembleia PI" tvg-logo="" group-title="YOUTUBE",TV Assembleia PI
+https://josielluziptv.onrender.com/tvassembleia
+#EXTINF:-1 tvg-id="tv_cancao_nova" tvg-name="TV Canção Nova" tvg-logo="" group-title="YOUTUBE",TV Canção Nova
+https://josielluziptv.onrender.com/tv_cancao_nova
 #EXTINF:-1 tvg-id="SextremeBrazil(Portuguese).br" tvg-name="A PATROA GOSTOSA FAZ O EMPREGADO SUAR BASTANTE - ESTRELAS EM BUSCA DE PRAZER" tvg-logo="https://imgur.com/auo2vx5.png" group-title="BRASILEIRINHAS",A PATROA GOSTOSA FAZ O EMPREGADO SUAR BASTANTE - ESTRELAS EM BUSCA DE PRAZER
 https://files.catbox.moe/jhn6bg.mp4
 #EXTINF:-1 tvg-id="SextremeBrazil(Portuguese).br" tvg-name="BRASILEIRINHAS - MINI HOMEM DE FERRO - CENA 01 - GRAZY MORENO" tvg-logo="https://imgur.com/auo2vx5.png" group-title="BRASILEIRINHAS",BRASILEIRINHAS - MINI HOMEM DE FERRO - CENA 01 - GRAZY MORENO
@@ -33,7 +37,7 @@ https://files.catbox.moe/ewz9rd.mp4
 https://files.catbox.moe/5hdnwb.mp4
 #EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="WORKSHOP INSTRUÇÕES BÁSICAS PARA GESTÃO MUNICIPAL DO CADASTRO ÚNICO 3" tvg-logo="https://imgur.com/DsFAXXo.png" group-title="CADASTRO ÚNICO",WORKSHOP INSTRUÇÕES BÁSICAS PARA GESTÃO MUNICIPAL DO CADASTRO ÚNICO 3
 https://files.catbox.moe/d0vp9o.mp4
-#EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="VEJA O QUE ACONTECE SE LIGAR O IDR DPS E DISJUNTOR GERAL NA SEQUÊNCIA ERRADA" tvg-logo="https://imgur.com/HqWfDQ2.png" group-title="ELETRICIDADE",VEJA O QUE ACONTECE SE LIGAR O IDR DPS E DISJUNTOR GERAL NA SEQUÊNCIA ERRADA
+#EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="DPS E DISJUNTOR GERAL NA SEQUÊNCIA ERRADA" tvg-logo="https://imgur.com/HqWfDQ2.png" group-title="ELETRICIDADE",DPS E DISJUNTOR GERAL NA SEQUÊNCIA ERRADA
 https://files.catbox.moe/u3jfz4.mp4
 #EXTINF:-1 tvg-id="SBT(Portuguese).br" tvg-name="ESSA É A SOLUÇÃO QUANDO NÃO TEM ATERRAMENTO ELÉTRICO NA RESIDÊNCIA. ( ATERRAMENTO TNC-S )" tvg-logo="https://imgur.com/HqWfDQ2.png" group-title="ELETRICIDADE",ESSA É A SOLUÇÃO QUANDO NÃO TEM ATERRAMENTO ELÉTRICO NA RESIDÊNCIA. ( ATERRAMENTO TNC-S )
 https://files.catbox.moe/yb00ur.mp4
@@ -49,14 +53,14 @@ https://files.catbox.moe/6uespv.mp4
 https://video01.logicahost.com.br/a10maisadap/smil:transcoder.smil/chunklist_w2123538353_b1396000.m3u8
 #EXTINF:-1 tvg-id="RedeTV(Portuguese).br" tvg-name="O DIA TV" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title="PIAUÍ TV",O DIA TV
 https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w753321210.m3u8
-#EXTINF:-1 tvg-id="RedeTV(Portuguese).br" tvg-name="O DIA TV" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title="PIAUÍ TV",O DIA TV
+#EXTINF:-1 tvg-id="RedeTV(Portuguese).br" tvg-name="O DIA TV OFICIAL" tvg-logo="https://i.imgur.com/xbPIEDD.png" group-title="PIAUÍ TV",O DIA TV OFICIAL
 https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w183304090.m3u8
 #EXTINF:-1 tvg-id="CancaoNova(Portuguese).br" tvg-name="RÁDIO CANÇÃO NOVA - CACHOEIRA PAULISTA 89.1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKz_ESX35P5Irwj18dscgpIpt1-R9NmOUYjpTaAiyY6YpnystW6ceOzcQ&s=10" group-title="PIAUÍ TV",RÁDIO CANÇÃO NOVA - CACHOEIRA PAULISTA 89.1
 https://5c65286fc6ace.streamlock.net/cancaonova/radiocnova_720p/chunklist_w1982794369.m3u8
-#EXTINF:-1 tvg-id="CancaoNova(Portuguese).br" tvg-name="RÁDIO CANÇÃO NOVA - CACHOEIRA PAULISTA 89.1" tvg-logo="https://d2i9ujkx0lgi9s.cloudfront.net/account1-i1/embed/860/thumb_17627_thumbnail__836x1280px__radio_cancao_nova_-_cachoeira_paulista_89.1-poster-1696429235.png" group-title="PIAUÍ TV",RÁDIO CANÇÃO NOVA - CACHOEIRA PAULISTA 89.1
-https://streaming.fox.srv.br/stream/8074
 #EXTINF:-1 tvg-id="CancaoNova(Portuguese).br" tvg-name="RÁDIO CANÇÃO NOVA 96.3MHZ - CACHOEIRA PAULISTA" tvg-logo="https://d2i9ujkx0lgi9s.cloudfront.net/account1-i1/embed/1818/thumb_17627_thumbnail__836x1280px__radio_cancao_nova_-_cachoeira_paulista_96.3-poster-1696430015.png" group-title="PIAUÍ TV",RÁDIO CANÇÃO NOVA 96.3MHZ - CACHOEIRA PAULISTA
 https://streaming.fox.srv.br/stream/8104
+#EXTINF:-1 tvg-id="CancaoNova(Portuguese).br" tvg-name="TV CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PIAUÍ TV",TV CANÇÃO NOVA
+https://josielluziptv.onrender.com/tv_can__o_nova
 #EXTINF:-1 tvg-id="CancaoNova(src01).pt" tvg-name="TV CANÇÃO NOVA PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSVzyD-TnBiJSUeVfuMz4Qn5eMtxDKuluBLeddUP290Xe7WOdrtC2q_XZ&s=10" group-title="PIAUÍ TV",TV CANÇÃO NOVA PT
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w785649869.m3u8
 #EXTINF:-1 tvg-id="TVCidadeVerde(Portuguese).br" tvg-name="TV CIDADE VERDE" tvg-logo="https://cdn.tvcidadeverde.com.br/storage/webdisco/logos/371d174f303942df3b554b0e5985c8d4.png" group-title="PIAUÍ TV",TV CIDADE VERDE
@@ -77,8 +81,6 @@ https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w974707802.m3u8
 https://files.catbox.moe/nx548k.mp4
 #EXTINF:-1 tvg-id="SextremeBrazil(Portuguese).br" tvg-name="A BUCETA PERFEITA DO CONNIE COMIDA ATÉ O ORGASMO ANTES DO SEXO MISSIONÁRIO ROMÂNTICO E GOZADA NA BUNDA - DANEJONES - PORNHUB.COM" tvg-logo="https://imgur.com/tOyr57R.png" group-title="PORNHUB",A BUCETA PERFEITA DO CONNIE COMIDA ATÉ O ORGASMO ANTES DO SEXO MISSIONÁRIO ROMÂNTICO E GOZADA NA BUNDA - DANEJONES - PORNHUB.COM
 https://files.catbox.moe/iev4pz.mp4
-#EXTINF:-1 tvg-id="SextremeBrazil(Portuguese).br" tvg-name="A BUCETA PERFEITA DO CONNIE COMIDA ATÉ O ORGASMO ANTES DO SEXO MISSIONÁRIO ROMÂNTICO E GOZADA NA BUNDA - DANEJONES - PORNHUB.COM" tvg-logo="https://imgur.com/tOyr57R.png" group-title="PORNHUB",A BUCETA PERFEITA DO CONNIE COMIDA ATÉ O ORGASMO ANTES DO SEXO MISSIONÁRIO ROMÂNTICO E GOZADA NA BUNDA - DANEJONES - PORNHUB.COM
-https://files.catbox.moe/gx4tgt.mp4
 #EXTINF:-1 tvg-id="SextremeBrazil(Portuguese).br" tvg-name="A NAMORADA GOSTOSA DO MEU AMIGO RECEBE DUAS GOZADAS DENTRO DA BUCETA SEM PROTEÇÃO. ESPERO QUE NÃO TE - PORNHUB.COM" tvg-logo="https://imgur.com/tOyr57R.png" group-title="PORNHUB",A NAMORADA GOSTOSA DO MEU AMIGO RECEBE DUAS GOZADAS DENTRO DA BUCETA SEM PROTEÇÃO. ESPERO QUE NÃO TE - PORNHUB.COM
 https://files.catbox.moe/uewgyg.mp4
 #EXTINF:-1 tvg-id="SextremeBrazil(Portuguese).br" tvg-name="ACORDANDO ELE COM BEIJOS (SEXO APAIXONADO À NOITE) - PORNHUB.COM" tvg-logo="https://imgur.com/tOyr57R.png" group-title="PORNHUB",ACORDANDO ELE COM BEIJOS (SEXO APAIXONADO À NOITE) - PORNHUB.COM
@@ -187,8 +189,6 @@ https://files.catbox.moe/w99e2c.mp4
 https://files.catbox.moe/cclqph.mp4
 #EXTINF:-1 tvg-id="SexPrive(Portuguese).br" tvg-name="GOZADA NA CARA" tvg-logo="https://onnowplay.com/assets/users/1433/logo/1709919770.png" group-title="TIGRESAVIP",GOZADA NA CARA
 https://files.catbox.moe/lxiy8p.mp4
-#EXTINF:-1 tvg-id="SexPrive(Portuguese).br" tvg-name="GOZADA NA CARA" tvg-logo="https://onnowplay.com/assets/users/1433/logo/1709919770.png" group-title="TIGRESAVIP",GOZADA NA CARA
-https://files.catbox.moe/fi998o.mp4
 #EXTINF:-1 tvg-id="SexPrive(Portuguese).br" tvg-name="ILDA FURACAO DA O CUZINHO PRO MARIDO DA TIGRESA QUASE CHOROU MAIS DEU" tvg-logo="https://onnowplay.com/assets/users/1433/logo/1709919770.png" group-title="TIGRESAVIP",ILDA FURACAO DA O CUZINHO PRO MARIDO DA TIGRESA QUASE CHOROU MAIS DEU
 https://files.catbox.moe/h0bb9z.mp4
 #EXTINF:-1 tvg-id="SexPrive(Portuguese).br" tvg-name="LIVE 23-10-2021 ILDA FURACAO TIGRESA VIP E MARIDO DA TIGRESA METE GOSTOSO NA ILDA FURACÃO E NA TIGRESA ROLOU ATE SEXO LÉSBICO" tvg-logo="https://onnowplay.com/assets/users/1433/logo/1709919770.png" group-title="TIGRESAVIP",LIVE 23-10-2021 ILDA FURACAO TIGRESA VIP E MARIDO DA TIGRESA METE GOSTOSO NA ILDA FURACÃO E NA TIGRESA ROLOU ATE SEXO LÉSBICO
@@ -449,4 +449,4 @@ https://files.catbox.moe/689lt9.mp4
 https://files.catbox.moe/nhepc2.mp4
 #EXTINF:-1 tvg-id="SexPrive(Portuguese).br" tvg-name="XVIDEOS 43" tvg-logo="https://i.imgur.com/DTZo4bw.png" group-title="XVIDEOS",XVIDEOS 43
 https://files.catbox.moe/kgmfye.mp4
-# Atualizado em Sat Jan 10 03:57:29 UTC 2026
+# Atualizado em Sat Jan 10 09:25:12 UTC 2026
