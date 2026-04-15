@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/3wk1y24kx7uzdevxygz7"
 #EXTINF:-1 tvg-id="TVAlvoradadoSul(Portuguese).br" tvg-name="ATV - AO VIVO E APROVEITE CINEMA" tvg-logo="https://i.imgur.com/ulAV8b5.png" group-title="ATV",ATV - AO VIVO E APROVEITE CINEMA
 https://files.catbox.moe/249z1v.mp4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="+ FAMILIA FHD" tvg-logo="https://i.imgur.com/bnaHqxn.png" group-title="BRASIL",+ FAMILIA FHD
+#EXTINF:-1 tvg-id="RedeFamilia(src09).br" tvg-name="+ FAMILIA FHD" tvg-logo="https://i.imgur.com/bnaHqxn.png" group-title="BRASIL",+ FAMILIA FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181997.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="+ FAMILIA HD" tvg-logo="https://i.imgur.com/bnaHqxn.png" group-title="BRASIL",+ FAMILIA HD
+#EXTINF:-1 tvg-id="RedeFamilia(src09).br" tvg-name="+ FAMILIA HD" tvg-logo="https://i.imgur.com/bnaHqxn.png" group-title="BRASIL",+ FAMILIA HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/182010.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&AMP;E SD" tvg-logo="" group-title="BRASIL",A&AMP;E SD
+#EXTINF:-1 tvg-id="AAndE(src09).br" tvg-name="A&AMP;E SD" tvg-logo="" group-title="BRASIL",A&AMP;E SD
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/81015.m3u8
 #EXTINF:-1 tvg-id="AandE(Portuguese).br" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A%26E.png" group-title="BRASIL",A&E
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/2045.m3u8
@@ -21,7 +21,7 @@ http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90022.m3u8
 http://safecore.sbs/live/8929086/8010003/1562106.m3u
 #EXTINF:-1 tvg-id="AandE(Portuguese).br" tvg-name="A&E FHD MAX" tvg-logo="http://contentsdeliver.link/logos/aeefhdmax.png" group-title="BRASIL",A&E FHD MAX
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/54342
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/A&E.png" group-title="BRASIL",A&E FHDR
+#EXTINF:-1 tvg-id="AE(src09).br" tvg-name="A&E FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/A&E.png" group-title="BRASIL",A&E FHDR
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10054283.m3u8
 #EXTINF:-1 tvg-id="AandE(Portuguese).br" tvg-name="A&E H265" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="BRASIL",A&E H265
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/6578.ts
@@ -41,11 +41,11 @@ http://linuxnovo1.com:80/sJ7Ta3/18NqfJ/251958.ts
 http://safecore.sbs/live/8929086/8010003/779468.m3u
 #EXTINF:-1 tvg-id="AdultSwim(Portuguese).br" tvg-name="ADULT SWIN FHD" tvg-logo="" group-title="BRASIL",ADULT SWIN FHD
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91742.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT SWIN HD" tvg-logo="" group-title="BRASIL",ADULT SWIN HD
+#EXTINF:-1 tvg-id="AdultSwim(src09).br" tvg-name="ADULT SWIN HD" tvg-logo="" group-title="BRASIL",ADULT SWIN HD
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91743.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ADULT SWIN SD" tvg-logo="" group-title="BRASIL",ADULT SWIN SD
+#EXTINF:-1 tvg-id="AdultSwim(src05).br" tvg-name="ADULT SWIN SD" tvg-logo="" group-title="BRASIL",ADULT SWIN SD
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/91744.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AE HD" tvg-logo="" group-title="BRASIL",AE HD
+#EXTINF:-1 tvg-id="AE(src09).br" tvg-name="AE HD" tvg-logo="" group-title="BRASIL",AE HD
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/3390.m3u8
 #EXTINF:-1 tvg-id="Agromais(Portuguese).br" tvg-name="AGRO CANAL FHD" tvg-logo="https://loopstatic.net/agromais.png" group-title="BRASIL",AGRO CANAL FHD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/208148
@@ -61,7 +61,7 @@ http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90026.m3u8
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90027.m3u8
 #EXTINF:-1 tvg-id="Agromais(Portuguese).br" tvg-name="AGRO+ 4K" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="BRASIL",AGRO+ 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-sVUrqMJXZu/wMBG9jeypt/852
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AGRO+ HD" tvg-logo="https://kanawat.com.br/icons/bigagromais.png" group-title="BRASIL",AGRO+ HD
+#EXTINF:-1 tvg-id="Agroplus(src09).br" tvg-name="AGRO+ HD" tvg-logo="https://kanawat.com.br/icons/bigagromais.png" group-title="BRASIL",AGRO+ HD
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/97386
 #EXTINF:-1 tvg-id="Agromais(Portuguese).br" tvg-name="AGROASIL" tvg-logo="https://prostore.app/logos/agro.png" group-title="BRASIL",AGROASIL
 http://51.79.39.236:80/live/aldenira2023/99887766/81571.m3u8
@@ -85,17 +85,17 @@ http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/81018
 http://p23.miami:80/live/Rp0808328/Bk20305060/181998.ts
 #EXTINF:-1 tvg-id="AmazonSat(Portuguese).br" tvg-name="AMAZON SAT UHD" tvg-logo="https://www.kanawat.com.br/icons/africanewsnew2.png" group-title="BRASIL",AMAZON SAT UHD
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/90350
-#EXTINF:-1 tvg-id="AMC(Portuguese).br" tvg-name="AMC" tvg-logo="http://canais.is/imgs/amc-channel.png" group-title="BRASIL",AMC
+#EXTINF:-1 tvg-id="AMC(src05).pt" tvg-name="AMC" tvg-logo="http://canais.is/imgs/amc-channel.png" group-title="BRASIL",AMC
 http://loop01-2.canais.is:80/watch/trial/trial/4.ts
-#EXTINF:-1 tvg-id="AMC(Portuguese).br" tvg-name="AMC 4K" tvg-logo="" group-title="BRASIL",AMC 4K
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC 4K" tvg-logo="" group-title="BRASIL",AMC 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-sVUrqMJXZu/wMBG9jeypt/228
-#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="AMC 4K PT" tvg-logo="http://www.kanawat.com.br/icons/amcbig.png" group-title="BRASIL",AMC 4K PT
+#EXTINF:-1 tvg-id="AMC(src09).pt" tvg-name="AMC 4K PT" tvg-logo="http://www.kanawat.com.br/icons/amcbig.png" group-title="BRASIL",AMC 4K PT
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/57731
-#EXTINF:-1 tvg-id="AMC(Portuguese).br" tvg-name="AMC ALTERNATIVO" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="BRASIL",AMC ALTERNATIVO
+#EXTINF:-1 tvg-id="AMC(src01).pt" tvg-name="AMC ALTERNATIVO" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="BRASIL",AMC ALTERNATIVO
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1176.m3u8
-#EXTINF:-1 tvg-id="AMC(Portuguese).br" tvg-name="AMC ALTERNATIVO HD" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="BRASIL",AMC ALTERNATIVO HD
+#EXTINF:-1 tvg-id="AMC(src09).pt" tvg-name="AMC ALTERNATIVO HD" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="BRASIL",AMC ALTERNATIVO HD
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1329.m3u8
-#EXTINF:-1 tvg-id="AMC(Portuguese).br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/Ou5wm3c.png" group-title="BRASIL",AMC FHD
+#EXTINF:-1 tvg-id="AMC(src09).pt" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/Ou5wm3c.png" group-title="BRASIL",AMC FHD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/17317.m3u8
 #EXTINF:-1 tvg-id="AMC(Portuguese).br" tvg-name="AMC FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/Amc.png" group-title="BRASIL",AMC FHDR
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10054281.m3u8
@@ -113,11 +113,11 @@ http://safecore.sbs/live/8929086/8010003/130263.m3u
 http://safecore.sbs/live/8929086/8010003/129788.m3u
 #EXTINF:-1 tvg-id="AMC(Portuguese).br" tvg-name="AMC SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/Amc.png" group-title="BRASIL",AMC SD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10055040.m3u8
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="ANHANGUERA RIO VERDE FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="BRASIL",ANHANGUERA RIO VERDE FHD
+#EXTINF:-1 tvg-id="TVAnhangueraPalmas(src09).br" tvg-name="ANHANGUERA RIO VERDE FHD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="BRASIL",ANHANGUERA RIO VERDE FHD
 http://safecore.sbs/live/8929086/8010003/1027097.m3u
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="ANHANGUERA RIO VERDE HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="BRASIL",ANHANGUERA RIO VERDE HD
+#EXTINF:-1 tvg-id="GloboAnhanguera(src09).br" tvg-name="ANHANGUERA RIO VERDE HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="BRASIL",ANHANGUERA RIO VERDE HD
 http://safecore.sbs/live/8929086/8010003/829863.m3u
-#EXTINF:-1 tvg-id="Globogo.br" tvg-name="ANHANGUERA RIO VERDE SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="BRASIL",ANHANGUERA RIO VERDE SD
+#EXTINF:-1 tvg-id="TVAnhanguera(src09).br" tvg-name="ANHANGUERA RIO VERDE SD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="BRASIL",ANHANGUERA RIO VERDE SD
 http://safecore.sbs/live/8929086/8010003/1027096.m3u
 #EXTINF:-1 tvg-id="AnimalPlanet(Portuguese).br" tvg-name="ANIMAL PLANET" tvg-logo="http://printv.esy.es/server/Animal%20Planet.png" group-title="BRASIL",ANIMAL PLANET
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/2049.m3u8
@@ -175,15 +175,15 @@ http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90042.m3u8
 http://sv1.casaplay5g.win:8080/raquel/102030/3428
 #EXTINF:-1 tvg-id="AXN(src05).br" tvg-name="AXN 4K" tvg-logo="http://linuxnovo1.com/static/logos/canais/axn.png" group-title="BRASIL",AXN 4K
 http://linuxnovo1.com:80/sJ7Ta3/18NqfJ/90645.ts
-#EXTINF:-1 tvg-id="AXN(Portuguese).br" tvg-name="AXN 4K ( LEGENDADOS)" tvg-logo="http://floriu.com/imagem/axn.png" group-title="BRASIL",AXN 4K ( LEGENDADOS)
+#EXTINF:-1 tvg-id="AXN(src01).pt" tvg-name="AXN 4K ( LEGENDADOS)" tvg-logo="http://floriu.com/imagem/axn.png" group-title="BRASIL",AXN 4K ( LEGENDADOS)
 http://sv1.casaplay5g.win:8080/raquel/102030/52100
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN 4K PT" tvg-logo="http://www.kanawat.com.br/icons/axnnew.png" group-title="BRASIL",AXN 4K PT
+#EXTINF:-1 tvg-id="AXN(src05).pt" tvg-name="AXN 4K PT" tvg-logo="http://www.kanawat.com.br/icons/axnnew.png" group-title="BRASIL",AXN 4K PT
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/57733
 #EXTINF:-1 tvg-id="AXN(Portuguese).br" tvg-name="AXN ALTERNATIVO" tvg-logo="http://printv.esy.es/server/AXN.png" group-title="BRASIL",AXN ALTERNATIVO
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1119.m3u8
 #EXTINF:-1 tvg-id="AXN(Portuguese).br" tvg-name="AXN ALTERNATIVO HD" tvg-logo="http://printv.esy.es/server/AXN%20HD.png" group-title="BRASIL",AXN ALTERNATIVO HD
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1308.m3u8
-#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="AXN BLACK 4K PT" tvg-logo="https://www.kanawat.com.br/icons/axnblacknew.png" group-title="BRASIL",AXN BLACK 4K PT
+#EXTINF:-1 tvg-id="AXN(src09).pt" tvg-name="AXN BLACK 4K PT" tvg-logo="https://www.kanawat.com.br/icons/axnblacknew.png" group-title="BRASIL",AXN BLACK 4K PT
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/57734
 #EXTINF:-1 tvg-id="AXN(Portuguese).br" tvg-name="AXN FHD" tvg-logo="http://www.fontedoscanais.com/logos/canais/axn.png" group-title="BRASIL",AXN FHD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/101974
@@ -207,29 +207,29 @@ http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/2336.m3u8
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/101976
 #EXTINF:-1 tvg-id="AXN(Portuguese).br" tvg-name="AXN SD LEG" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/AXN.png" group-title="BRASIL",AXN SD LEG
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/9564.m3u8
-#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN WHITE 4K PT" tvg-logo="http://www.kanawat.com.br/icons/axnwhitenew.png" group-title="BRASIL",AXN WHITE 4K PT
+#EXTINF:-1 tvg-id="AXNWhite(src09).pt" tvg-name="AXN WHITE 4K PT" tvg-logo="http://www.kanawat.com.br/icons/axnwhitenew.png" group-title="BRASIL",AXN WHITE 4K PT
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/57735
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BABES TV" tvg-logo="https://www.kanawat.com.br/icons/babess.png" group-title="BRASIL",BABES TV
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/104903
-#EXTINF:-1 tvg-id="BABYTV(Portuguese).br" tvg-name="BABY TV" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="BRASIL",BABY TV
+#EXTINF:-1 tvg-id="BabyTV(src05).br" tvg-name="BABY TV" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="BRASIL",BABY TV
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/1120.ts
-#EXTINF:-1 tvg-id="BABYTV(Portuguese).br" tvg-name="BABY TV 4K" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="BRASIL",BABY TV 4K
+#EXTINF:-1 tvg-id="BabyTV(src05).br" tvg-name="BABY TV 4K" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="BRASIL",BABY TV 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-sVUrqMJXZu/wMBG9jeypt/767
-#EXTINF:-1 tvg-id="BABYTV(Portuguese).br" tvg-name="BABY TV FHD" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="BRASIL",BABY TV FHD
+#EXTINF:-1 tvg-id="BabyTV(src05).br" tvg-name="BABY TV FHD" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="BRASIL",BABY TV FHD
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/45263.m3u8
-#EXTINF:-1 tvg-id="BABYTV(Portuguese).br" tvg-name="BABY TV H265" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="BRASIL",BABY TV H265
+#EXTINF:-1 tvg-id="BabyTV(src05).br" tvg-name="BABY TV H265" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="BRASIL",BABY TV H265
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/62146.ts
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV HD" tvg-logo="http://contentsdeliver.link/logos/babytvhd.png" group-title="BRASIL",BABY TV HD
+#EXTINF:-1 tvg-id="BabyTV(src05).br" tvg-name="BABY TV HD" tvg-logo="http://contentsdeliver.link/logos/babytvhd.png" group-title="BRASIL",BABY TV HD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/22460
-#EXTINF:-1 tvg-id="BABYTV.br" tvg-name="BABY TV SD" tvg-logo="" group-title="BRASIL",BABY TV SD
+#EXTINF:-1 tvg-id="BabyTV(src05).br" tvg-name="BABY TV SD" tvg-logo="" group-title="BRASIL",BABY TV SD
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/81019.m3u8
-#EXTINF:-1 tvg-id="Babytv.br" tvg-name="BABY TV UHD" tvg-logo="http://www.kanawat.com.br/icons/babytvnew.png" group-title="BRASIL",BABY TV UHD
+#EXTINF:-1 tvg-id="BabyTV(src05).br" tvg-name="BABY TV UHD" tvg-logo="http://www.kanawat.com.br/icons/babytvnew.png" group-title="BRASIL",BABY TV UHD
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/14419
-#EXTINF:-1 tvg-id="BABYTV(Portuguese).br" tvg-name="BABYTV FHD" tvg-logo="" group-title="BRASIL",BABYTV FHD
+#EXTINF:-1 tvg-id="BabyTV(src05).br" tvg-name="BABYTV FHD" tvg-logo="" group-title="BRASIL",BABYTV FHD
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90047.m3u8
-#EXTINF:-1 tvg-id="BABYTV(Portuguese).br" tvg-name="BABYTV HD" tvg-logo="s:1:/images/PMMm5g39tUUIhYrim0QVe3QQam3ANW07mXl78aAQY9_erfamGSMRW6sZ82_sbEG_UBdTnmV-kI0R4UYU7v5AgIbnA3AOt8E7uJDgSZPNNyM.png" group-title="BRASIL",BABYTV HD
+#EXTINF:-1 tvg-id="BabyTV(src05).br" tvg-name="BABYTV HD" tvg-logo="s:1:/images/PMMm5g39tUUIhYrim0QVe3QQam3ANW07mXl78aAQY9_erfamGSMRW6sZ82_sbEG_UBdTnmV-kI0R4UYU7v5AgIbnA3AOt8E7uJDgSZPNNyM.png" group-title="BRASIL",BABYTV HD
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90048.m3u8
-#EXTINF:-1 tvg-id="BABYTV.br" tvg-name="BABYTV SD" tvg-logo="s:1:/images/7mbrPGN0X61dF8hwG-ZJwHKPj-uk2msdTZRl14l4Els9KPdNkUTPWgupkSnV-GfUdzwjcJ2u3iapOVG_E27jUcVgfBa0fsZTjFSFeFHuglY.png" group-title="BRASIL",BABYTV SD
+#EXTINF:-1 tvg-id="BabyTV(src05).br" tvg-name="BABYTV SD" tvg-logo="s:1:/images/7mbrPGN0X61dF8hwG-ZJwHKPj-uk2msdTZRl14l4Els9KPdNkUTPWgupkSnV-GfUdzwjcJ2u3iapOVG_E27jUcVgfBa0fsZTjFSFeFHuglY.png" group-title="BRASIL",BABYTV SD
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90049.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BALKAN EROTIC" tvg-logo="https://www.kanawat.com.br/icons/balkann.png" group-title="BRASIL",BALKAN EROTIC
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/104904
@@ -275,7 +275,7 @@ http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10090780.m3u8
 #EXTINF:-1 tvg-id="BandCuritiba(Portuguese).br" tvg-name="BAND CURITIBA HD" tvg-logo="http://imagecdn.sh:80/images/abb329697106ebb6f051ab5ab2d39dfd.png" group-title="BRASIL",BAND CURITIBA HD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/103165
-#EXTINF:-1 tvg-id="Band(Português).br" tvg-name="BAND FHD" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="BRASIL",BAND FHD
+#EXTINF:-1 tvg-id="Band(src05).br" tvg-name="BAND FHD" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="BRASIL",BAND FHD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/22642
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/band.png" group-title="BRASIL",BAND FHDB
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10036718.m3u8
@@ -287,7 +287,7 @@ http://p23.miami:80/live/Rp0808328/Bk20305060/180886.ts
 http://p23.miami:80/live/Rp0808328/Bk20305060/180674.ts
 #EXTINF:-1 tvg-id="BandTVGoiania(Portuguese).br" tvg-name="BAND GOIANIA SD" tvg-logo="http://floriu.com/imagem/BAND.png" group-title="BRASIL",BAND GOIANIA SD
 http://sv1.casaplay5g.win:8080/raquel/102030/57690
-#EXTINF:-1 tvg-id="Band(Português).br" tvg-name="BAND HD" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="BRASIL",BAND HD
+#EXTINF:-1 tvg-id="Band(src05).br" tvg-name="BAND HD" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="BRASIL",BAND HD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/18622
 #EXTINF:-1 tvg-id="Bandbr(src09).br" tvg-name="BAND HDB" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/band.png" group-title="BRASIL",BAND HDB
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/9032.m3u8
@@ -419,7 +419,7 @@ http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1268.m3u8
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/15231
 #EXTINF:-1 tvg-id="(sem tvg-id)" tvg-name="BAND SP FHD" tvg-logo="http://linuxnovo1.com/static/logos/canais/band.png" group-title="BRASIL",BAND SP FHD
 http://linuxnovo1.com:80/sJ7Ta3/18NqfJ/79311.ts
-#EXTINF:-1 tvg-id="Band(Português).br" tvg-name="BAND SP FHD MAX" tvg-logo="http://contentsdeliver.link/logos/bandfhdmax.png" group-title="BRASIL",BAND SP FHD MAX
+#EXTINF:-1 tvg-id="Band(src05).br" tvg-name="BAND SP FHD MAX" tvg-logo="http://contentsdeliver.link/logos/bandfhdmax.png" group-title="BRASIL",BAND SP FHD MAX
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/18618
 #EXTINF:-1 tvg-id="Band(Portuguese).br" tvg-name="BAND SP H265" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="BRASIL",BAND SP H265
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/62147.ts
@@ -475,7 +475,7 @@ http://51.79.39.236:80/live/aldenira2023/99887766/605355.m3u8
 http://51.79.39.236:80/live/aldenira2023/99887766/601479.m3u8
 #EXTINF:-1 tvg-id="Band(Portuguese).br" tvg-name="BAND TV GOIANIA FHD MAX" tvg-logo="http://contentsdeliver.link/logos/bandfhdmax.png" group-title="BRASIL",BAND TV GOIANIA FHD MAX
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/71055
-#EXTINF:-1 tvg-id="Band(Português).br" tvg-name="BAND TV GOIANIA HD" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="BRASIL",BAND TV GOIANIA HD
+#EXTINF:-1 tvg-id="Band(src05).br" tvg-name="BAND TV GOIANIA HD" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="BRASIL",BAND TV GOIANIA HD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/71054
 #EXTINF:-1 tvg-id="BandTVGoiania(Portuguese).br" tvg-name="BAND TV GOIÂNIA" tvg-logo="http://printv.esy.es/server/Band.png" group-title="BRASIL",BAND TV GOIÂNIA
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/20985.ts
@@ -489,9 +489,9 @@ http://51.79.39.236:80/live/aldenira2023/99887766/604919.m3u8
 http://51.79.39.236:80/live/aldenira2023/99887766/604918.m3u8
 #EXTINF:-1 tvg-id="Band(Portuguese).br" tvg-name="BAND TV NORDESTE" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV NORDESTE
 http://51.79.39.236:80/live/aldenira2023/99887766/469464.m3u8
-#EXTINF:-1 tvg-id="band.porto.alegre.br" tvg-name="BAND TV PA" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV PA
+#EXTINF:-1 tvg-id="BandPortoAlegre(src09).br" tvg-name="BAND TV PA" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV PA
 http://51.79.39.236:80/live/aldenira2023/99887766/469465.m3u8
-#EXTINF:-1 tvg-id="e.parana.br" tvg-name="BAND TV PARANA HD" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV PARANA HD
+#EXTINF:-1 tvg-id="EParana(src09).br" tvg-name="BAND TV PARANA HD" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV PARANA HD
 http://51.79.39.236:80/live/aldenira2023/99887766/24924.m3u8
 #EXTINF:-1 tvg-id="BandRJ(Portuguese).br" tvg-name="BAND TV RJ FHD" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV RJ FHD
 http://51.79.39.236:80/live/aldenira2023/99887766/605354.m3u8
@@ -499,15 +499,15 @@ http://51.79.39.236:80/live/aldenira2023/99887766/605354.m3u8
 http://51.79.39.236:80/live/aldenira2023/99887766/605353.m3u8
 #EXTINF:-1 tvg-id="BandRioGrandedoSul(Portuguese).br" tvg-name="BAND TV RS HD" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV RS HD
 http://51.79.39.236:80/live/aldenira2023/99887766/469462.m3u8
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND TV SP FHD" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV SP FHD
+#EXTINF:-1 tvg-id="BandSaoPaulo(src09).br" tvg-name="BAND TV SP FHD" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV SP FHD
 http://51.79.39.236:80/live/aldenira2023/99887766/604925.m3u8
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND TV SP HD" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV SP HD
+#EXTINF:-1 tvg-id="BandSaoPaulo(src09).br" tvg-name="BAND TV SP HD" tvg-logo="https://prostore.app/logos/band.png" group-title="BRASIL",BAND TV SP HD
 http://51.79.39.236:80/live/aldenira2023/99887766/604923.m3u8
 #EXTINF:-1 tvg-id="Band(Portuguese).br" tvg-name="BAND TV TAROBA CURITIBA" tvg-logo="http://printv.esy.es/server/Band.png" group-title="BRASIL",BAND TV TAROBA CURITIBA
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/61732.ts
-#EXTINF:-1 tvg-id="Band(Português).br" tvg-name="BAND TV TAROBA CURITIBA FHD" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="BRASIL",BAND TV TAROBA CURITIBA FHD
+#EXTINF:-1 tvg-id="Band(src05).br" tvg-name="BAND TV TAROBA CURITIBA FHD" tvg-logo="http://contentsdeliver.link/logos/bandfhd.png" group-title="BRASIL",BAND TV TAROBA CURITIBA FHD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/71057
-#EXTINF:-1 tvg-id="Band(Português).br" tvg-name="BAND TV TAROBA CURITIBA HD" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="BRASIL",BAND TV TAROBA CURITIBA HD
+#EXTINF:-1 tvg-id="Band(src05).br" tvg-name="BAND TV TAROBA CURITIBA HD" tvg-logo="http://contentsdeliver.link/logos/bandhd.png" group-title="BRASIL",BAND TV TAROBA CURITIBA HD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/71058
 #EXTINF:-1 tvg-id="Band(Portuguese).br" tvg-name="BAND TV TRIBUNA RECIFE" tvg-logo="" group-title="BRASIL",BAND TV TRIBUNA RECIFE
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90051.m3u8
@@ -673,21 +673,21 @@ http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3
 http://safecore.sbs/live/8929086/8010003/872128.m3u
 #EXTINF:-1 tvg-id="Radios.br" tvg-name="BONS TEMPOS FM" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/radio.png" group-title="BRASIL",BONS TEMPOS FM
 http://safecore.sbs/live/8929086/8010003/865590.m3u
-#EXTINF:-1 tvg-id="boomerang(Portuguese).br" tvg-name="BOOMERANG" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="BRASIL",BOOMERANG
+#EXTINF:-1 tvg-id="Boomerang(src09).br" tvg-name="BOOMERANG" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="BRASIL",BOOMERANG
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/2064.ts
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG  FHD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="BRASIL",BOOMERANG  FHD
+#EXTINF:-1 tvg-id="Boomerang(src09).br" tvg-name="BOOMERANG  FHD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="BRASIL",BOOMERANG  FHD
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/1813.ts
-#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="BOOMERANG 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="BRASIL",BOOMERANG 4K
+#EXTINF:-1 tvg-id="Boomerang(src09).br" tvg-name="BOOMERANG 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="BRASIL",BOOMERANG 4K
 http://sv1.casaplay5g.win:8080/raquel/102030/3318
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="BRASIL",BOOMERANG ALTERNATIVO
+#EXTINF:-1 tvg-id="Boomerang(src09).br" tvg-name="BOOMERANG ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="BRASIL",BOOMERANG ALTERNATIVO
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/1182.ts
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG ALTERNATIVO HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="BRASIL",BOOMERANG ALTERNATIVO HD
+#EXTINF:-1 tvg-id="Boomerang(src09).br" tvg-name="BOOMERANG ALTERNATIVO HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="BRASIL",BOOMERANG ALTERNATIVO HD
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/1330.ts
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="BOOMERANG H265" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="BRASIL",BOOMERANG H265
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/6613.ts
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="BRASIL",BOOMERANG HD
+#EXTINF:-1 tvg-id="Boomerang(src09).br" tvg-name="BOOMERANG HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="BRASIL",BOOMERANG HD
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/2065.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOOMERANG SD" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="BRASIL",BOOMERANG SD
+#EXTINF:-1 tvg-id="Boomerang(src09).br" tvg-name="BOOMERANG SD" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="BRASIL",BOOMERANG SD
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/81028.m3u8
 #EXTINF:-1 tvg-id="CanalWeb.br" tvg-name="BORA FILMES" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/10033372.png" group-title="BRASIL",BORA FILMES
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10068461.m3u8
@@ -875,7 +875,7 @@ http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=295592&extension
 http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=295690&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BR • NICK JR" tvg-logo="http://digital110.xyz/PICONS/BR/nickjr.png" group-title="BRASIL",BR • NICK JR
 http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=295536&extension=ts
-#EXTINF:-1 tvg-id="Nickelodeon(Portuguese).br" tvg-name="BR • NICKELODEON" tvg-logo="http://digital110.xyz/PICONS/BR/nickelodeon.png" group-title="BRASIL",BR • NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon(src09).br" tvg-name="BR • NICKELODEON" tvg-logo="http://digital110.xyz/PICONS/BR/nickelodeon.png" group-title="BRASIL",BR • NICKELODEON
 http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=295533&extension=ts
 #EXTINF:-1 tvg-id="Premiere2(Portuguese).br" tvg-name="BR • PREMIERE 2" tvg-logo="http://digital110.xyz/PICONS/BR/premiereclubes.png" group-title="BRASIL",BR • PREMIERE 2
 http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=295853&extension=ts
@@ -975,13 +975,13 @@ http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=295488&extension
 http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=295928&extension=ts
 #EXTINF:-1 tvg-id="UniversalTV(Portuguese).br" tvg-name="BR • UNIVERSAL TV" tvg-logo="http://digital110.xyz/PICONS/BR/universal.png" group-title="BRASIL",BR • UNIVERSAL TV
 http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=295781&extension=ts
-#EXTINF:-1 tvg-id="VIVA(Portuguese).br" tvg-name="BR • VIVA" tvg-logo="http://digital110.xyz/PICONS/BR/viva.png" group-title="BRASIL",BR • VIVA
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="BR • VIVA" tvg-logo="http://digital110.xyz/PICONS/BR/viva.png" group-title="BRASIL",BR • VIVA
 http://qqwawa.xyz:80/N92JSnHJgtTt/cV4LcppIwS/295610
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BR • WARNER CHANNEL" tvg-logo="http://digital110.xyz/PICONS/BR/warnertv.png" group-title="BRASIL",BR • WARNER CHANNEL
 http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=295784&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BR • ZOOMOO KIDS" tvg-logo="http://digital110.xyz/PICONS/BR/zoomookids.png" group-title="BRASIL",BR • ZOOMOO KIDS
 http://qqwawa.xyz:80/play/live.php?mac=00:1A:79:43:15:2C&stream=295544&extension=ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="BR001:A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR001A&EBR.png" group-title="BRASIL",BR001:A&E HD
+#EXTINF:-1 tvg-id="AE(src09).br" tvg-name="BR001:A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR001A&EBR.png" group-title="BRASIL",BR001:A&E HD
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2531
 #EXTINF:-1 tvg-id="AMC(Portuguese).br" tvg-name="BR002:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR002AMCBR.png" group-title="BRASIL",BR002:AMC HD
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2530
@@ -995,11 +995,11 @@ http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2526
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2525
 #EXTINF:-1 tvg-id="BandSports(Portuguese).br" tvg-name="BR008:BAND SPORTS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR008BandSports.png" group-title="BRASIL",BR008:BAND SPORTS HD
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2524
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="BR009:TOONCAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR009VH1BR.png" group-title="BRASIL",BR009:TOONCAST
+#EXTINF:-1 tvg-id="VH1(src09).br" tvg-name="BR009:TOONCAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR009VH1BR.png" group-title="BRASIL",BR009:TOONCAST
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2523
 #EXTINF:-1 tvg-id="BIS(Portuguese).br" tvg-name="BR010:BIS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR010BISBR.png" group-title="BRASIL",BR010:BIS HD
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2522
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BR011:BOOMERANG HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR011BoomerangBR.png" group-title="BRASIL",BR011:BOOMERANG HD
+#EXTINF:-1 tvg-id="Boomerang(src09).br" tvg-name="BR011:BOOMERANG HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR011BoomerangBR.png" group-title="BRASIL",BR011:BOOMERANG HD
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2521
 #EXTINF:-1 tvg-id="sony.br" tvg-name="BR012:FISH TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR012CanalSony.png" group-title="BRASIL",BR012:FISH TV HD
 http://mu3241218.oknirvana.club:8880/D12m4024/25722485/2520
@@ -11005,9 +11005,9 @@ http://7semfronteiras.cc:8080/o3w43k/9i7dje/319700
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/2259.m3u8
 #EXTINF:-1 tvg-id="VH1Megahits(Spanish).br" tvg-name="VH1 ALTERNATIVO" tvg-logo="http://printv.esy.es/server/VH1.png" group-title="BRASIL",VH1 ALTERNATIVO
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1242.m3u8
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9644.png" group-title="BRASIL",VH1 FHD
+#EXTINF:-1 tvg-id="VH1(src09).br" tvg-name="VH1 FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9644.png" group-title="BRASIL",VH1 FHD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10055069.m3u8
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9644.png" group-title="BRASIL",VH1 FHDR
+#EXTINF:-1 tvg-id="VH1(src09).br" tvg-name="VH1 FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9644.png" group-title="BRASIL",VH1 FHDR
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10054155.m3u8
 #EXTINF:-1 tvg-id="VH1Megahits(Spanish).br" tvg-name="VH1 H265" tvg-logo="http://printv.esy.es/server/VH1%20HD.png" group-title="BRASIL",VH1 H265
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/62437.ts
@@ -11021,25 +11021,25 @@ http://main.xplus2-main.xyz:2082/Tourobox1-sVUrqMJXZu/wMBG9jeypt/431
 http://p23.miami:80/live/Rp0808328/Bk20305060/181137.ts
 #EXTINF:-1 tvg-id="VH1Megahits(Spanish).br" tvg-name="VH1 SD" tvg-logo="" group-title="BRASIL",VH1 SD
 http://me2me.ws:8880/live/7idr1bW6Sx/SdL9k7Ka6s/28729.m3u8
-#EXTINF:-1 tvg-id="VIVA(Portuguese).br" tvg-name="VIVA" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="BRASIL",VIVA
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="VIVA" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="BRASIL",VIVA
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/2262.m3u8
-#EXTINF:-1 tvg-id="Viva(Portuguese).br" tvg-name="VIVA 4K" tvg-logo="" group-title="BRASIL",VIVA 4K
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="VIVA 4K" tvg-logo="" group-title="BRASIL",VIVA 4K
 http://main.xplus2-main.xyz:2082/Tourobox1-sVUrqMJXZu/wMBG9jeypt/114
-#EXTINF:-1 tvg-id="viva(Portuguese).br" tvg-name="VIVA ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="BRASIL",VIVA ALTERNATIVO
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="VIVA ALTERNATIVO" tvg-logo="http://printv.esy.es/server/Viva.png" group-title="BRASIL",VIVA ALTERNATIVO
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1243.m3u8
-#EXTINF:-1 tvg-id="VIVA(Portuguese).br" tvg-name="VIVA ALTERNATIVO HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="BRASIL",VIVA ALTERNATIVO HD
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="VIVA ALTERNATIVO HD" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="BRASIL",VIVA ALTERNATIVO HD
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1306.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/78.png" group-title="BRASIL",VIVA FHD
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="VIVA FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/78.png" group-title="BRASIL",VIVA FHD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10055066.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/78.png" group-title="BRASIL",VIVA FHDR
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="VIVA FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/78.png" group-title="BRASIL",VIVA FHDR
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10054154.m3u8
-#EXTINF:-1 tvg-id="VIVA(Portuguese).br" tvg-name="VIVA H265" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="BRASIL",VIVA H265
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="VIVA H265" tvg-logo="http://printv.esy.es/server/Viva%20HD.png" group-title="BRASIL",VIVA H265
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/6575.ts
-#EXTINF:-1 tvg-id="VIVA(Portuguese).br" tvg-name="VIVA HD" tvg-logo="" group-title="BRASIL",VIVA HD
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="VIVA HD" tvg-logo="" group-title="BRASIL",VIVA HD
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90709.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/78.png" group-title="BRASIL",VIVA SD
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="VIVA SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/78.png" group-title="BRASIL",VIVA SD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10047204.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA UHD" tvg-logo="https://www.kanawat.com.br/icons/bigviva.png" group-title="BRASIL",VIVA UHD
+#EXTINF:-1 tvg-id="Viva(src05).br" tvg-name="VIVA UHD" tvg-logo="https://www.kanawat.com.br/icons/bigviva.png" group-title="BRASIL",VIVA UHD
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/14444
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIVID TV EUROPE" tvg-logo="http://printv.esy.es/server/Vivid%20TV.png" group-title="BRASIL",VIVID TV EUROPE
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/51047.m3u8
@@ -11055,7 +11055,7 @@ http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1244.m3u8
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1284.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel(Portuguese).br" tvg-name="WARNER CHANNEL FHD" tvg-logo="" group-title="BRASIL",WARNER CHANNEL FHD
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90712.m3u8
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9532.png" group-title="BRASIL",WARNER CHANNEL FHDR
+#EXTINF:-1 tvg-id="WarnerChannel(src09).br" tvg-name="WARNER CHANNEL FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9532.png" group-title="BRASIL",WARNER CHANNEL FHDR
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10054153.m3u8
 #EXTINF:-1 tvg-id="Warner(Portuguese).br" tvg-name="WARNER CHANNEL H265" tvg-logo="http://printv.esy.es/server/Warner%20Channel%20HD.png" group-title="BRASIL",WARNER CHANNEL H265
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/6550.ts
@@ -11063,15 +11063,15 @@ http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/6550.ts
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90713.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel(Portuguese).br" tvg-name="WARNER CHANNEL SD" tvg-logo="" group-title="BRASIL",WARNER CHANNEL SD
 http://asdf.nenetwork.xyz:8080/live/YSGTEsBYtG2f/HCVDx1LvSl/90714.m3u8
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/17319.png" group-title="BRASIL",WARNER FHD
+#EXTINF:-1 tvg-id="WarnerChannel(src09).br" tvg-name="WARNER FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/17319.png" group-title="BRASIL",WARNER FHD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/17319.m3u8
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER FHD [LEG]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9532.png" group-title="BRASIL",WARNER FHD [LEG]
+#EXTINF:-1 tvg-id="WarnerChannel(src09).br" tvg-name="WARNER FHD [LEG]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9532.png" group-title="BRASIL",WARNER FHD [LEG]
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10055061.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel(Portuguese).br" tvg-name="WARNER HD" tvg-logo="http://contentsdeliver.link/logos/warnerhd.png" group-title="BRASIL",WARNER HD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/22631
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD LEG" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9533.png" group-title="BRASIL",WARNER HD LEG
+#EXTINF:-1 tvg-id="WarnerChannel(src09).br" tvg-name="WARNER HD LEG" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9533.png" group-title="BRASIL",WARNER HD LEG
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/9533.m3u8
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD [LEG]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9532.png" group-title="BRASIL",WARNER HD [LEG]
+#EXTINF:-1 tvg-id="WarnerChannel(src09).br" tvg-name="WARNER HD [LEG]" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9532.png" group-title="BRASIL",WARNER HD [LEG]
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10055058.m3u8
 #EXTINF:-1 tvg-id="Warner(src09).br" tvg-name="WARNER LEG FHD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0083_warnner.png" group-title="BRASIL",WARNER LEG FHD
 http://safecore.sbs/live/8929086/8010003/1526592.m3u
@@ -11081,7 +11081,7 @@ http://safecore.sbs/live/8929086/8010003/1526591.m3u
 http://safecore.sbs/live/8929086/8010003/1526590.m3u
 #EXTINF:-1 tvg-id="WarnerChannel(Portuguese).br" tvg-name="WARNER SD" tvg-logo="http://contentsdeliver.link/logos/warnersd.png" group-title="BRASIL",WARNER SD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/22422
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER SD LEG" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9532.png" group-title="BRASIL",WARNER SD LEG
+#EXTINF:-1 tvg-id="WarnerChannel(src09).br" tvg-name="WARNER SD LEG" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/9532.png" group-title="BRASIL",WARNER SD LEG
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/9532.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel(Portuguese).br" tvg-name="WARNER TV" tvg-logo="" group-title="BRASIL",WARNER TV
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/3358
@@ -11097,7 +11097,7 @@ http://safecore.sbs/live/8929086/8010003/998927.m3u
 http://safecore.sbs/live/8929086/8010003/998926.m3u
 #EXTINF:-1 tvg-id="(sem tvg-id)" tvg-name="WEB-SANTA PORTAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxK5TYpjl6LIE8QAWtlUbgsr_JBs1AXnwyiA&s.png" group-title="BRASIL",WEB-SANTA PORTAL
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/727321
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO" tvg-logo="http://www.kanawat.com.br/icons/bigwoohoo.png" group-title="BRASIL",WOOHOO
+#EXTINF:-1 tvg-id="Woohoo(src05).br" tvg-name="WOOHOO" tvg-logo="http://www.kanawat.com.br/icons/bigwoohoo.png" group-title="BRASIL",WOOHOO
 http://massud.homelinux.com:80/7e76d1177d35baf0eda2e60243874390/50a62ca15ba80bc3caba/78494
 #EXTINF:-1 tvg-id="WooHoo(Portuguese).br" tvg-name="WOOHOO ALTERNATIVO" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="BRASIL",WOOHOO ALTERNATIVO
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1245.m3u8
@@ -11105,21 +11105,21 @@ http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1245.m3u8
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1349.m3u8
 #EXTINF:-1 tvg-id="WooHoo(Portuguese).br" tvg-name="WOOHOO FHD" tvg-logo="https://i.imgur.com/9xeWrgA.png" group-title="BRASIL",WOOHOO FHD
 http://p23.miami:80/live/Rp0808328/Bk20305060/180891.ts
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/136.png" group-title="BRASIL",WOOHOO FHDR
+#EXTINF:-1 tvg-id="Woohoo(src05).br" tvg-name="WOOHOO FHDR" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/136.png" group-title="BRASIL",WOOHOO FHDR
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10054152.m3u8
 #EXTINF:-1 tvg-id="woohoo(Portuguese).br" tvg-name="WOOHOO H265" tvg-logo="http://printv.esy.es/server/WooHoo.png" group-title="BRASIL",WOOHOO H265
 http://dns.acaidopara.net:8080/live/NDwSxTKBOu/o9fxTFS4wG/6615.ts
 #EXTINF:-1 tvg-id="WooHoo(Portuguese).br" tvg-name="WOOHOO HD" tvg-logo="" group-title="BRASIL",WOOHOO HD
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/k6CuMizS4m/pMjejP6zI1/3377
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/136.png" group-title="BRASIL",WOOHOO SD
+#EXTINF:-1 tvg-id="Woohoo(src05).br" tvg-name="WOOHOO SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/136.png" group-title="BRASIL",WOOHOO SD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10047200.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WORLD BILLIARDS TV HD" tvg-logo="http://contentsdeliver.link/logos/worldbilliardhd.png" group-title="BRASIL",WORLD BILLIARDS TV HD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/325911
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/7529.png" group-title="BRASIL",WORLD FHD
+#EXTINF:-1 tvg-id="DiscoveryWorld(src05).br" tvg-name="WORLD FHD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/7529.png" group-title="BRASIL",WORLD FHD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10047199.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/17133.png" group-title="BRASIL",WORLD HD
+#EXTINF:-1 tvg-id="DiscoveryWorld(src05).br" tvg-name="WORLD HD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/17133.png" group-title="BRASIL",WORLD HD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/17133.m3u8
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="WORLD SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/7529.png" group-title="BRASIL",WORLD SD
+#EXTINF:-1 tvg-id="DiscoveryWorld(src05).br" tvg-name="WORLD SD" tvg-logo="https://stbxlogos.nyc3.cdn.digitaloceanspaces.com/7529.png" group-title="BRASIL",WORLD SD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/10054852.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE HD" tvg-logo="http://contentsdeliver.link/logos/wwehd.png" group-title="BRASIL",WWE HD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/188348
@@ -11215,31 +11215,31 @@ http://safecore.sbs/live/8929086/8010003/1563204.m3u
 http://safecore.sbs/live/8929086/8010003/1563205.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZAPPING SPORTS 04 HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%203/zapping%20sports.png" group-title="BRASIL",ZAPPING SPORTS 04 HD
 http://safecore.sbs/live/8929086/8010003/1563206.m3u
-#EXTINF:-1 tvg-id="ZooMooKids(Portuguese).br" tvg-name="ZOOMO 4K" tvg-logo="http://floriu.com/imagem/zoomoo.jpg" group-title="BRASIL",ZOOMO 4K
+#EXTINF:-1 tvg-id="ZooMooKids(src09).br" tvg-name="ZOOMO 4K" tvg-logo="http://floriu.com/imagem/zoomoo.jpg" group-title="BRASIL",ZOOMO 4K
 http://sv1.casaplay5g.win:8080/raquel/102030/58437
 #EXTINF:-1 tvg-id="ZOOMOO(src09).br" tvg-name="ZOOMO FHD" tvg-logo="https://icons-wapp.ipcdn4.com/Pasta%201/_0000s_0000s_0000s_0002_ZOOMOO-KIDS.png" group-title="BRASIL",ZOOMO FHD
 http://safecore.sbs/live/8929086/8010003/876636.m3u
-#EXTINF:-1 tvg-id="ZooMooKids(Portuguese).br" tvg-name="ZOOMO HD" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" group-title="BRASIL",ZOOMO HD
+#EXTINF:-1 tvg-id="ZooMooKids(src09).br" tvg-name="ZOOMO HD" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" group-title="BRASIL",ZOOMO HD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/94597
-#EXTINF:-1 tvg-id="ZooMooKids(Portuguese).br" tvg-name="ZOOMO SD" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" group-title="BRASIL",ZOOMO SD
+#EXTINF:-1 tvg-id="ZooMooKids(src09).br" tvg-name="ZOOMO SD" tvg-logo="http://imagecdn.sh:80/images/5dab2df694584172699383cdb1100c18.jpg" group-title="BRASIL",ZOOMO SD
 http://cdn.churros.site:80/venk0vwp7x01/gold81500/94595
-#EXTINF:-1 tvg-id="ZooMooKids(Portuguese).br" tvg-name="ZOOMOO" tvg-logo="http://canais.is/imgs/zomookids-channel.png" group-title="BRASIL",ZOOMOO
+#EXTINF:-1 tvg-id="ZooMooKids(src09).br" tvg-name="ZOOMOO" tvg-logo="http://canais.is/imgs/zomookids-channel.png" group-title="BRASIL",ZOOMOO
 http://loop01-2.canais.is:80/watch/trial/trial/252.ts
 #EXTINF:-1 tvg-id="Zoomoo(src09).br" tvg-name="ZOOMOO 4K" tvg-logo="" group-title="BRASIL",ZOOMOO 4K
 http://linuxnovo1.com:80/sJ7Ta3/18NqfJ/178533.ts
-#EXTINF:-1 tvg-id="ZooMooKids(Portuguese).br" tvg-name="ZOOMOO ALTERNATIVO" tvg-logo="http://printv.esy.es/server/ZooMoo.png" group-title="BRASIL",ZOOMOO ALTERNATIVO
+#EXTINF:-1 tvg-id="ZooMooKids(src09).br" tvg-name="ZOOMOO ALTERNATIVO" tvg-logo="http://printv.esy.es/server/ZooMoo.png" group-title="BRASIL",ZOOMOO ALTERNATIVO
 http://dns.acaidopara.net:8080/live/p4QWXI7QjA/k5koiqnbam/1246.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOMOO FHD" tvg-logo="" group-title="BRASIL",ZOOMOO FHD
+#EXTINF:-1 tvg-id="Zoomoo(src09).br" tvg-name="ZOOMOO FHD" tvg-logo="" group-title="BRASIL",ZOOMOO FHD
 http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/live/hGETwdUQMV/jRP0RAHa2T/81200.m3u8
-#EXTINF:-1 tvg-id="ZooMooKids(Portuguese).br" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/9sH4OIN.png" group-title="BRASIL",ZOOMOO HD
+#EXTINF:-1 tvg-id="ZooMooKids(src09).br" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/9sH4OIN.png" group-title="BRASIL",ZOOMOO HD
 http://p23.miami:80/live/Rp0808328/Bk20305060/182055.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZOOMOO KIDS FHD" tvg-logo="http://contentsdeliver.link/logos/zoomoofhd.png" group-title="BRASIL",ZOOMOO KIDS FHD
+#EXTINF:-1 tvg-id="ZooMooKids(src09).br" tvg-name="ZOOMOO KIDS FHD" tvg-logo="http://contentsdeliver.link/logos/zoomoofhd.png" group-title="BRASIL",ZOOMOO KIDS FHD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/64700
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO KIDS HD" tvg-logo="http://contentsdeliver.link/logos/zoomoohd.png" group-title="BRASIL",ZOOMOO KIDS HD
+#EXTINF:-1 tvg-id="Zoomoo(src09).br" tvg-name="ZOOMOO KIDS HD" tvg-logo="http://contentsdeliver.link/logos/zoomoohd.png" group-title="BRASIL",ZOOMOO KIDS HD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/22633
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO KIDS SD" tvg-logo="http://contentsdeliver.link/logos/zoomoosd.png" group-title="BRASIL",ZOOMOO KIDS SD
+#EXTINF:-1 tvg-id="Zoomoo(src09).br" tvg-name="ZOOMOO KIDS SD" tvg-logo="http://contentsdeliver.link/logos/zoomoosd.png" group-title="BRASIL",ZOOMOO KIDS SD
 http://7semfronteiras.cc:8080/o3w43k/9i7dje/64714
-#EXTINF:-1 tvg-id="ZooMooKids(Portuguese).br" tvg-name="ZOOMOO SD" tvg-logo="https://i.imgur.com/9sH4OIN.png" group-title="BRASIL",ZOOMOO SD
+#EXTINF:-1 tvg-id="ZooMooKids(src09).br" tvg-name="ZOOMOO SD" tvg-logo="https://i.imgur.com/9sH4OIN.png" group-title="BRASIL",ZOOMOO SD
 http://p23.miami:80/live/Rp0808328/Bk20305060/181141.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| AGRO CANAL" tvg-logo="http://51.158.145.100/picons/logos/LATINO/AGRO-CANAL.png" group-title="BRASIL",ZP| AGRO CANAL
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732476&extension=ts&play_token=j2M6vYlNor
@@ -11265,7 +11265,7 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732468&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732467&extension=ts&play_token=tUcX2An68a
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| BM&C NEWS" tvg-logo="http://51.158.145.100/picons/logos/LATINO/BMC-NEWS.png" group-title="BRASIL",ZP| BM&C NEWS
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732466&extension=ts&play_token=GgPr0WrYY5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| BOA VONTADE TV" tvg-logo="http://51.158.145.100/picons/logos/LATINO/BOA-VONTADE.png" group-title="BRASIL",ZP| BOA VONTADE TV
+#EXTINF:-1 tvg-id="BoaVontadeTV(src09).br" tvg-name="ZP| BOA VONTADE TV" tvg-logo="http://51.158.145.100/picons/logos/LATINO/BOA-VONTADE.png" group-title="BRASIL",ZP| BOA VONTADE TV
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732465&extension=ts&play_token=7UXS5922iE
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| C3 TV" tvg-logo="http://51.158.145.100/picons/logos/LATINO/C3TV.png" group-title="BRASIL",ZP| C3 TV
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732464&extension=ts&play_token=irNVDdVvey
@@ -11291,17 +11291,17 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732454&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732455&extension=ts&play_token=QIwQyG0j3a
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| COMBATE" tvg-logo="http://51.158.145.100/picons/logos/LATINO/COMBATE.png" group-title="BRASIL",ZP| COMBATE
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732453&extension=ts&play_token=go3aM82aVU
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| DISCOVERY CHANNEL" tvg-logo="https://logo.protv.cc/piconsnew/discoverychannel.png" group-title="BRASIL",ZP| DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel(src09).br" tvg-name="ZP| DISCOVERY CHANNEL" tvg-logo="https://logo.protv.cc/piconsnew/discoverychannel.png" group-title="BRASIL",ZP| DISCOVERY CHANNEL
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732452&extension=ts&play_token=v4iWgRz4eX
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| DISCOVERY KIDS" tvg-logo="http://51.158.145.100/picons/logos/logos/DISCOVERY-KIDS.png" group-title="BRASIL",ZP| DISCOVERY KIDS
+#EXTINF:-1 tvg-id="DiscoveryKids(src05).br" tvg-name="ZP| DISCOVERY KIDS" tvg-logo="http://51.158.145.100/picons/logos/logos/DISCOVERY-KIDS.png" group-title="BRASIL",ZP| DISCOVERY KIDS
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732451&extension=ts&play_token=YqebFAuWj6
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| DISCOVERY SCIENCE" tvg-logo="https://logo.protv.cc/piconsnew/discoveryscience.png" group-title="BRASIL",ZP| DISCOVERY SCIENCE
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732450&extension=ts&play_token=rqBFUKjOez
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| DISCOVERY THEATER" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-THEATER.png" group-title="BRASIL",ZP| DISCOVERY THEATER
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732449&extension=ts&play_token=OhFIYUCNYR
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| DISCOVERY TURBO" tvg-logo="https://logo.protv.cc/piconsnew/discoveryturbo.png" group-title="BRASIL",ZP| DISCOVERY TURBO
+#EXTINF:-1 tvg-id="DiscoveryTurbo(src05).br" tvg-name="ZP| DISCOVERY TURBO" tvg-logo="https://logo.protv.cc/piconsnew/discoveryturbo.png" group-title="BRASIL",ZP| DISCOVERY TURBO
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732448&extension=ts&play_token=pdp9SjVpro
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| DISCOVERY WORLD" tvg-logo="https://logo.protv.cc/piconsnew/discoveryworld.png" group-title="BRASIL",ZP| DISCOVERY WORLD
+#EXTINF:-1 tvg-id="DiscoveryWorld(src05).br" tvg-name="ZP| DISCOVERY WORLD" tvg-logo="https://logo.protv.cc/piconsnew/discoveryworld.png" group-title="BRASIL",ZP| DISCOVERY WORLD
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732447&extension=ts&play_token=X5b3rrzfGi
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| DISNEY CHANNEL" tvg-logo="https://logo.protv.cc/piconsnew/disneychannel.png" group-title="BRASIL",ZP| DISNEY CHANNEL
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732446&extension=ts&play_token=wvFQ20btnu
@@ -11341,7 +11341,7 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732434&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732433&extension=ts&play_token=fvaT1hpfPV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| IS TV" tvg-logo="http://51.158.145.100/picons/logos/LATINO/ISTV.png" group-title="BRASIL",ZP| IS TV
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732432&extension=ts&play_token=FEvrldoBNh
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| JOVEM PAN NEWS" tvg-logo="http://51.158.145.100/picons/logos/LATINO/JOVEM-PAN-NEWS.png" group-title="BRASIL",ZP| JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="JovemPanNews(src05).br" tvg-name="ZP| JOVEM PAN NEWS" tvg-logo="http://51.158.145.100/picons/logos/LATINO/JOVEM-PAN-NEWS.png" group-title="BRASIL",ZP| JOVEM PAN NEWS
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732431&extension=ts&play_token=uHCWsjfUZZ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| LAS ESTRELLAS" tvg-logo="http://51.158.145.100/picons/logos/LATINO/LAS-ESTRELLAS.png" group-title="BRASIL",ZP| LAS ESTRELLAS
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732430&extension=ts&play_token=xC2k9wEtKr
@@ -11355,13 +11355,13 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732427&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732478&extension=ts&play_token=2JvMjmX2zH
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| NEWASIL" tvg-logo="http://51.158.145.100/picons/logos/LATINO/NEW-BRASIL.png" group-title="BRASIL",ZP| NEWASIL
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732426&extension=ts&play_token=FqnFvxRPpP
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| NOSSO FUTEBOL" tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BRASIL",ZP| NOSSO FUTEBOL
+#EXTINF:-1 tvg-id="NOSSOFUTEBOL(src09).br" tvg-name="ZP| NOSSO FUTEBOL" tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BRASIL",ZP| NOSSO FUTEBOL
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732494&extension=ts&play_token=Jtu09qVYqd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| NOSSO FUTEBOL +1" tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BRASIL",ZP| NOSSO FUTEBOL +1
+#EXTINF:-1 tvg-id="NOSSOFUTEBOLplus1(src09).br" tvg-name="ZP| NOSSO FUTEBOL +1" tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BRASIL",ZP| NOSSO FUTEBOL +1
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732493&extension=ts&play_token=5fe2kGhUEY
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| NOSSO FUTEBOL +2" tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BRASIL",ZP| NOSSO FUTEBOL +2
+#EXTINF:-1 tvg-id="NOSSOFUTEBOLplus2(src09).br" tvg-name="ZP| NOSSO FUTEBOL +2" tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BRASIL",ZP| NOSSO FUTEBOL +2
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732492&extension=ts&play_token=wTAcM92GPr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| NOSSO FUTEBOL +3" tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BRASIL",ZP| NOSSO FUTEBOL +3
+#EXTINF:-1 tvg-id="NOSSOFUTEBOLplus3(src09).br" tvg-name="ZP| NOSSO FUTEBOL +3" tvg-logo="http://51.158.145.100/picons/logos/LATINO/NOSSO-FUTEBOL.png" group-title="BRASIL",ZP| NOSSO FUTEBOL +3
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732491&extension=ts&play_token=CPl4ZvpdDr
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| PIX TV" tvg-logo="http://51.158.145.100/picons/logos/LATINO/PIXTV.png" group-title="BRASIL",ZP| PIX TV
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732425&extension=ts&play_token=kK97cUT4Qv
@@ -11395,7 +11395,7 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732421&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732419&extension=ts&play_token=RTEjM1tM0x
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| REDE GOSPEL" tvg-logo="http://51.158.145.100/picons/logos/LATINO/REDE-GOSPEL.png" group-title="BRASIL",ZP| REDE GOSPEL
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732418&extension=ts&play_token=9zauk09tZz
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| REDE MAIS FAMILIA" tvg-logo="http://51.158.145.100/picons/logos/LATINO/REDE-MAIS-FAMILIA.png" group-title="BRASIL",ZP| REDE MAIS FAMILIA
+#EXTINF:-1 tvg-id="RedeMaisFamilia(Portuguese).br" tvg-name="ZP| REDE MAIS FAMILIA" tvg-logo="http://51.158.145.100/picons/logos/LATINO/REDE-MAIS-FAMILIA.png" group-title="BRASIL",ZP| REDE MAIS FAMILIA
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732417&extension=ts&play_token=IywDlQqSvK
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| REDE NOVO TEMPO" tvg-logo="http://51.158.145.100/picons/logos/LATINO/REDE-NOVO-TEMPO.png" group-title="BRASIL",ZP| REDE NOVO TEMPO
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732416&extension=ts&play_token=nxXQ0TxAi8
@@ -11407,7 +11407,7 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732414&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732413&extension=ts&play_token=oVj4eV96UJ
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| RIT TV" tvg-logo="http://51.158.145.100/picons/logos/LATINO/RITTV.png" group-title="BRASIL",ZP| RIT TV
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732412&extension=ts&play_token=jlapbnboE5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| SABOR & ARTE" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SABOR-ARTE.png" group-title="BRASIL",ZP| SABOR & ARTE
+#EXTINF:-1 tvg-id="SaborandArte(src09).br" tvg-name="ZP| SABOR & ARTE" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SABOR-ARTE.png" group-title="BRASIL",ZP| SABOR & ARTE
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732411&extension=ts&play_token=v7ty3NsHaS
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| SBT" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SBT.png" group-title="BRASIL",ZP| SBT
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732410&extension=ts&play_token=xk5Y1O5yt1
@@ -11419,21 +11419,21 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732482&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732481&extension=ts&play_token=xm7A80KifR
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| SPOR TV 3" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SPOR-TV-3.png" group-title="BRASIL",ZP| SPOR TV 3
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732480&extension=ts&play_token=R8g8TYGFaI
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| STUDIO UNIVERSAL" tvg-logo="http://51.158.145.100/picons/logos/LATINO/STUDIO-UNIVERSAL.png" group-title="BRASIL",ZP| STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="StudioUniversal(src09).br" tvg-name="ZP| STUDIO UNIVERSAL" tvg-logo="http://51.158.145.100/picons/logos/LATINO/STUDIO-UNIVERSAL.png" group-title="BRASIL",ZP| STUDIO UNIVERSAL
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732408&extension=ts&play_token=vGHRSVYllh
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TBC" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TBC.png" group-title="BRASIL",ZP| TBC
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732407&extension=ts&play_token=eIOPNXaPaX
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TELECINE ACTION" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BRASIL",ZP| TELECINE ACTION
+#EXTINF:-1 tvg-id="TelecineAction(src09).br" tvg-name="ZP| TELECINE ACTION" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BRASIL",ZP| TELECINE ACTION
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732406&extension=ts&play_token=eG8XP6rf7U
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TELECINE CULT" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BRASIL",ZP| TELECINE CULT
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732405&extension=ts&play_token=CqRfNbv2D9
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TELECINE FUN" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BRASIL",ZP| TELECINE FUN
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732404&extension=ts&play_token=JvnNw14ySV
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TELECINE PIPOCA" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BRASIL",ZP| TELECINE PIPOCA
+#EXTINF:-1 tvg-id="TelecinePipoca(src09).br" tvg-name="ZP| TELECINE PIPOCA" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BRASIL",ZP| TELECINE PIPOCA
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732403&extension=ts&play_token=T1QWBfhNOI
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TELECINE PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BRASIL",ZP| TELECINE PREMIUM
+#EXTINF:-1 tvg-id="TelecinePremium(src05).br" tvg-name="ZP| TELECINE PREMIUM" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BRASIL",ZP| TELECINE PREMIUM
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732402&extension=ts&play_token=1OdYIteF80
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TELECINE TOUCH" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BRASIL",ZP| TELECINE TOUCH
+#EXTINF:-1 tvg-id="TelecineTouch(src09).br" tvg-name="ZP| TELECINE TOUCH" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TELECINE-ACTION.png" group-title="BRASIL",ZP| TELECINE TOUCH
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732401&extension=ts&play_token=2BdYl3yRqU
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TERRA VIVA" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TERRA-VIVA.png" group-title="BRASIL",ZP| TERRA VIVA
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732400&extension=ts&play_token=ot2v7dOOFo
@@ -11447,7 +11447,7 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732396&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732394&extension=ts&play_token=neoT3Eby9r
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TV CÂMARA" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-CAMARA.png" group-title="BRASIL",ZP| TV CÂMARA
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732393&extension=ts&play_token=KddO88H5xs
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TV EVANGELIZAR" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-EVANGELIZAR.png" group-title="BRASIL",ZP| TV EVANGELIZAR
+#EXTINF:-1 tvg-id="TVEvangelizar(src09).br" tvg-name="ZP| TV EVANGELIZAR" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-EVANGELIZAR.png" group-title="BRASIL",ZP| TV EVANGELIZAR
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732392&extension=ts&play_token=FnPpoJzjMb
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| TV GAZETA" tvg-logo="http://51.158.145.100/picons/logos/LATINO/TV-GAZETA.png" group-title="BRASIL",ZP| TV GAZETA
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732391&extension=ts&play_token=5JyaYlMNet
@@ -11505,11 +11505,11 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732368&exten
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732499&extension=ts&play_token=ZXxNVxt9YK
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZP| ZOOMOO KIDS" tvg-logo="http://51.158.145.100/picons/logos/LATINO/ZOOMOO-KIDS.png" group-title="BRASIL",ZP| ZOOMOO KIDS
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:6A:77:D1&stream=1732367&extension=ts&play_token=gGNsOxIgVi
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="[ADULT SWIM] FHD" tvg-logo="https://i.postimg.cc/wvCRmFdB/Adult-Swim-2003-logo-svg.png" group-title="BRASIL",[ADULT SWIM] FHD
+#EXTINF:-1 tvg-id="AdultSwim(src05).br" tvg-name="[ADULT SWIM] FHD" tvg-logo="https://i.postimg.cc/wvCRmFdB/Adult-Swim-2003-logo-svg.png" group-title="BRASIL",[ADULT SWIM] FHD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/9641.m3u8
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="[ADULT SWIM] HD" tvg-logo="https://i.postimg.cc/wvCRmFdB/Adult-Swim-2003-logo-svg.png" group-title="BRASIL",[ADULT SWIM] HD
+#EXTINF:-1 tvg-id="AdultSwim(src09).br" tvg-name="[ADULT SWIM] HD" tvg-logo="https://i.postimg.cc/wvCRmFdB/Adult-Swim-2003-logo-svg.png" group-title="BRASIL",[ADULT SWIM] HD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/9640.m3u8
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="[ADULT SWIM] SD" tvg-logo="https://i.postimg.cc/wvCRmFdB/Adult-Swim-2003-logo-svg.png" group-title="BRASIL",[ADULT SWIM] SD
+#EXTINF:-1 tvg-id="AdultSwim(src09).br" tvg-name="[ADULT SWIM] SD" tvg-logo="https://i.postimg.cc/wvCRmFdB/Adult-Swim-2003-logo-svg.png" group-title="BRASIL",[ADULT SWIM] SD
 http://stbup.com:80/live/EyRxzKafyB/9ghNR9Y0TY/74.m3u8
 #EXTINF:-1 tvg-id="SextremeBrazil(Portuguese).br" tvg-name="A PATROA GOSTOSA FAZ O EMPREGADO SUAR BASTANTE - ESTRELAS EM BUSCA DE PRAZER" tvg-logo="https://imgur.com/auo2vx5.png" group-title="BRASILEIRINHAS",A PATROA GOSTOSA FAZ O EMPREGADO SUAR BASTANTE - ESTRELAS EM BUSCA DE PRAZER
 https://files.catbox.moe/jhn6bg.mp4
@@ -16309,4 +16309,4 @@ http://linuxnovo1.com:80/sJ7Ta3/18NqfJ/180154.ts
 http://linuxnovo1.com:80/sJ7Ta3/18NqfJ/72310.ts
 #EXTINF:-1 tvg-id="tvassembleia" tvg-name="TV ASSEMBLEIA PI" tvg-logo="" group-title="YOUTUBE",TV ASSEMBLEIA PI
 http://iptv-nw06.onrender.com/tvassembleia
-# Atualizado em Tue Apr 14 21:54:38 UTC 2026
+# Atualizado em Wed Apr 15 01:46:31 UTC 2026
